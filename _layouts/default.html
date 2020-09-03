@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+  <head>
+	  {% include head.html %}
+  </head>
+  <body class="bg">
+	{% include navigation.html %}
+	<div class="sidebar">
+		<img src="/images/icons/pds.png" class="w50" alt="papo de sauna"/>
+		<p class="font10 mobile-hidden">Aviso aos novos ouvintes: Se você acabou de chegar sugiro que comece pelo último episódio da temporada 0 ou pelo primeiro da temporada 1. A temporada 0 foi bem experimental e o ínicio é muito mais íntimo e sem rumo. É claro que a temporada 0 tem incríveis episódios, mas pode ser um pouco estranho se você não conhece a gente pessoalmente (talvez seja estranho mesmo se você já conheça a gente). Fora isso, pega sua toalha e toma uma ducha que a sauna já ta quente.<p>
+	</div>
+	<div class="geral">
+    		{{ content }}
+	</div>
+  </body>
+</html>

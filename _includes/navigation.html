@@ -1,0 +1,12 @@
+<div class="menuzinho">
+	<nav>
+  		{% for item in site.data.navigation %}
+    		<a href="{{ item.link }}" class="neutro {% if page.url == item.link %}current{% endif %}"><span class="font20 m25">{{ item.name }}</span></a>
+  		{% endfor %}
+	</nav>
+	<a href="{{ site.spotify_url }}" target="blank"><img class="icon" src="/images/icons/spotify-icon.png" alt="spotify"/></a>&nbsp;
+	<a href="{{ site.deezer_url }}" target="blank"><img class="icon" src="/images/icons/deezer-icon.png" alt="deezer"/></a>&nbsp;
+	<a href="{{ site.youtube_url }}" target="blank"><img class="icon" src="/images/icons/youtube-icon.png" alt="youtube"/></a>&nbsp;
+	<a href="{{ site.rss_url }}" target="blank"><img class="icon" src="/images/icons/feed-icon-28x28.png" alt="rss"/></a>
+	<a href="{{ site.orkut_url }}" target="blank"><img class="icon" src="/images/icons/orkut-icon.png" alt="ORKUT"/></a>
+</div>

@@ -1,0 +1,54 @@
+---
+layout: default
+title: Papo de Sauna
+---
+
+
+{% comment %} busca a numeracao da ultima temporada ja que esta em ordem decrescente {% endcomment %}
+{% assign temp = 0 %}
+{% for ep in site.data.episodios reversed %}
+	{% assign temp = ep.temporada %}
+	{% break %}
+{% endfor %}
+<h2>Episódios</h2>
+	<a href="crescente.html"><span class="ordem">Ordem crescente</span></a>
+	<div id="temporada-{{ temp }}">
+		<div class="central">
+	{% for ep in site.data.episodios reversed %}
+		{% if ep.temporada != temp %}
+				</div>
+			</div>
+			{% assign temp = ep.temporada %}
+			<div id="temporada-{{ temp }}">
+				<div class="central">
+		{% endif %}
+		<div class="conteudo-{{ ep.temporada }}">
+			<img class="fright w30m mobile-hidden" src="{% if ep.img %}{{ ep.img }}{% else %}{{ site.logo}}{% endif %}" alt="{{ ep.nome }}"/>
+			<h3>{{ ep.nome }}</h3>
+			<p>{{ ep.desc }}</p>
+			<ul>
+				<li><a href="{{ ep.url }}" target="blank">Mp3</a></li>
+				{% if ep.yt-link %}
+				<li><a href="{{ ep.yt-link }}" target="blank">Youtube</a></li>
+				{% endif %}
+				{% if ep.spotify %}
+					<li><a href="{{ ep.spotify }}" target="blank">Spotify</a></li>
+				{% endif %}
+				{% if ep.deezer %}
+					<li><a href="{{ ep.deezer }}" target="blank">Deezer</a></li>
+				{% endif %}
+			</ul>
+			{% if ep.detalhes %}
+				<a href="#ep-{{ forloop.index }}" id="ep-{{ forloop.index }}" onclick="maisDetalhes('ep-{{ forloop.index }}')">
+					<span class="fright mtm5" id="span-ep-{{ forloop.index }}">Mostrar detalhes</span>
+				</a>
+			{% endif %}
+			<div id="div-ep-{{ forloop.index }}" style="display: none">
+				<img class="w30m desktop-hidden" src="{{ ep.img }}" alt="{{ ep.nome }}"/>
+				{{ ep.detalhes }}
+			</div>
+		</div>
+	{% endfor %}
+		</div>
+	</div>
+</div>
