@@ -1,9 +1,8 @@
 <ul>
 {% for ep in site.data.monologos %}
-	<li> {{ ep.nome }}: <a href="{{ ep.url }}" target="blank">mp3</a>,
-		{% if ep.yt-link %}<a href="{{ ep.yt-link }}" target="blank">Youtube</a>,{% endif %} 
-		{% if ep.igtv-link %}<a href="{{ ep.igtv-link }}" target="blank">IGTV</a>,{% endif %} 
-
+	<li> {{ ep.nome }}: <a href="{{ ep.url }}" target="_blank">mp3</a>,
+		{% if ep.yt-link %}<a href="{{ ep.yt-link }}" target="_blank">Youtube</a>,{% endif %} 
+		{% if ep.igtv-link %}<a href="{{ ep.igtv-link }}" target="_blank">IGTV</a>,{% endif %} 
 	</li>
 {% endfor %}
 </ul>

@@ -25,15 +25,15 @@ title: Papo de Sauna
 			<h3>{{ ep.nome }}</h3>
 			<p>{{ ep.desc }}</p>
 			<ul>
-				<li><a href="{{ ep.url }}" target="blank">Mp3</a></li>
+				<li><a href="{{ ep.url }}" target="_blank">Mp3</a></li>
 				{% if ep.yt-link %}
-				<li><a href="{{ ep.yt-link }}" target="blank">Youtube</a></li>
+				<li><a href="{{ ep.yt-link }}" target="_blank">Youtube</a></li>
 				{% endif %}
 				{% if ep.spotify %}
-					<li><a href="{{ ep.spotify }}" target="blank">Spotify</a></li>
+					<li><a href="{{ ep.spotify }}" target="_blank">Spotify</a></li>
 				{% endif %}
 				{% if ep.deezer %}
-					<li><a href="{{ ep.deezer }}" target="blank">Deezer</a></li>
+					<li><a href="{{ ep.deezer }}" target="_blank">Deezer</a></li>
 				{% endif %}
 			</ul>
 			{% if ep.detalhes %}
