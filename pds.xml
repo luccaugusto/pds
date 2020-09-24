@@ -200,5 +200,33 @@
 			<itunes:subtitle><![CDATA[Felipe abre este episódio contando do ano que passou estudando em portugal, Richard e Lucca contam da vez que foram pro rock in rio, e algumas outras experiências que aconteceram fora de BH. Você que sai do via shopping, cuidado ao pegar o 6350.]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
+		<item>
+			<title>Militando contra a militância - S1E3</title>
+			<pubDate>Wed, 16 Sep 2020 14:00:00 +0000</pubDate>
+			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-09-16-S1E3.mp3]]></link>
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.png" />
+			<description><![CDATA[Nesse episódio, paradoxalmente, militamos contra a militância. Até quando é possível falar sobre um assunto sem ele virar meme ou ficar insuportável? Também não sabemos, mas abordamos essas e outras questões.]]></description>
+			<content:encoded><![CDATA[Nesse episódio, paradoxalmente, militamos contra a militância. Até quando é possível falar sobre um assunto sem ele virar meme ou ficar insuportável? Também não sabemos, mas abordamos essas e outras questões.]]></content:encoded>
+			<enclosure length="69586095" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-09-16-S1E3.mp3" />
+			<itunes:duration>00:57:59</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>sauna,</itunes:keywords>
+			<itunes:subtitle><![CDATA[Nesse episódio, paradoxalmente, militamos contra a militância. Até quando é possível falar sobre um assunto sem ele virar meme ou ficar insuportável? Também não sabemos, mas abordamos essas e outras questões.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Feministo - S1E4</title>
+			<pubDate>Wed, 24 Sep 2020 14:00:00 +0000</pubDate>
+			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-09-24-S1E4.mp3]]></link>
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.png" />
+			<description><![CDATA[Nesse episódio, com a nossa especialista @alinetatoobh, ouvimos sobre o feminismo, a situação atual do machismo, como ser feministo, um homem menos escroto e que apoia o feminismo, entre outros assuntos. Pedrada, uma verdadeira aula por parte da Aline. Esse episódio não é espelho mas causa muitas reflexões.]]></description>
+			<content:encoded><![CDATA[Nesse episódio, com a nossa especialista @alinetatoobh, ouvimos sobre o feminismo, a situação atual do machismo, como ser feministo, um homem menos escroto e que apoia o feminismo, entre outros assuntos. Pedrada, uma verdadeira aula por parte da Aline. Esse episódio não é espelho mas causa muitas reflexões.]]></content:encoded>
+			<enclosure length="75394891" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-09-24-S1E4.mp3" />
+			<itunes:duration>01:18:32</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>sauna,</itunes:keywords>
+			<itunes:subtitle><![CDATA[Nesse episódio, com a nossa especialista @alinetatoobh, ouvimos sobre o feminismo, a situação atual do machismo, como ser feministo, um homem menos escroto e que apoia o feminismo, entre outros assuntos. Pedrada, uma verdadeira aula por parte da Aline. Esse episódio não é espelho mas causa muitas reflexões.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 	</channel>
 </rss>

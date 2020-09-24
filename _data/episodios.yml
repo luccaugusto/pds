@@ -109,9 +109,27 @@
 - nome: PDS S1E2 - Experiências fora de BH
   temporada: 1
   yt-link:
-  deezer:
-  spotify:
+  deezer: https://www.deezer.com/us/episode/245397382
+  spotify: https://open.spotify.com/episode/6xfpCvOh9lud21VMdbrVHQ
   url: /episodios/2020-09-09-S1E2.mp3
   desc: Felipe abre este episódio contando do ano que passou estudando em portugal, Richard e Lucca contam da vez que foram pro rock in rio, e algumas outras experiências que aconteceram fora de BH. Você que sai do via shopping, cuidado ao pegar o 6350.
-  img:
+  img: /images/eps/S1E2.jpg
   detalhes:
+- nome: PDS S1E3 - Militando contra a militância
+  temporada: 1
+  yt-link: ;
+  deezer: https://www.deezer.com/us/episode/246974212
+  spotify: https://open.spotify.com/episode/7kgtvLSU9wncsUIfR39SBX
+  url: /episodios/2020-09-16-S1E3.mp3
+  desc: Nesse episódio, paradoxalmente, militamos contra a militância. Até quando é possível falar sobre um assunto sem ele virar meme ou ficar insuportável? Também não sabemos, mas abordamos essas e outras questões.
+  img: /images/eps/S1E3.jpg
+  detalhes:
+- nome: PDS S1E4 - Feministo
+  temporada: 1
+  yt-link:  
+  deezer:  
+  spotify:  
+  url: /episodios/2020-09-24-S1E4.mp3
+  desc: Nesse episódio, com a nossa especialista <a href="https://www.instagram.com/alinetattoobh/" target="_blank">@alinetatoobh</a>, ouvimos sobre o feminismo, a situação atual do machismo, como ser feministo, um homem menos escroto e que apoia o feminismo, entre outros assuntos. Pedrada, uma verdadeira aula por parte da Aline. Esse episódio não é espelho mas causa muitas reflexões.
+  img: /images/eps/S1E4.jpg
+  detalhes: Instagram da aline-> <a href="https://www.instagram.com/alinetattoobh/" target="_blank">@alinetatoobh</a></br>Livro recomendado-> O Mito da Beleza - Naomi Wolf </br>Podcast recomendado-> <a href="https://open.spotify.com/show/1592iJQt0IlC5u5lKXrbyS" target="_blank">Bom dia, Obvious</a>
