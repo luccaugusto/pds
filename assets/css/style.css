@@ -9,6 +9,29 @@
 a {
 	color: #df29c9;
 }
+.container-img{
+	width: 25%;
+	max-height: 25%;
+	overflow: hidden;
+	margin: 2pt;
+}
+.imagem{
+	width: 100%;
+	display: table-cell;
+}
+.logo{
+	width: 10%;
+	position: absolute;
+	top: 20pt;
+	left: 50pt;
+	
+}
+.galeria{
+	margin: 0 5% auto;
+	text-align: center;
+	color: black;
+	padding: 0 15pt 0 15pt;
+}
 .central{
 	margin: 0 25% auto;
 	text-align: left;
@@ -110,6 +133,9 @@ a {
 .w75{
 	width: 75%;
 }
+.w100{
+	width: 100%;
+}
 .font20{
 	font-size: 20px;
 }
@@ -151,6 +177,16 @@ a {
 	}
 	.imagem{
 		width: 40%;
+		display: block;
+	}
+	.wallpaper{
+		width: 100% !important;
+	}
+	.container-img{
+		width: 100% !important;
+	} 
+	.linha{
+		display: block;
 	}
 	#desc{
 		width: unset;
