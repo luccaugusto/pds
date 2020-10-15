@@ -9,7 +9,6 @@ permalink: /wallpapers/
 <div id="grid" class="galeria conteudo fundo-neutro">
 	<div class="linha">
 	{% for img in site.data.wallpapers %}
-		{% assign titulo = img.nome | split: '.' %}
 		{% assign mod = forloop.index0 | modulo: 5 %}
 		{% if mod == 0 %}
 			</div>

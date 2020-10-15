@@ -13,13 +13,13 @@
 		<itunes:summary><![CDATA[Um papo aleatório sobre diversos assuntos. Pega sua toalha e toma uma ducha que a sauna já ta quente. 
 			Aviso aos novos ouvintes: Se você acabou de chegar sugiro que comece pelo último episódio da temporada 0 ou pelo primeiro da temporada 1. A temporada 0 foi bem experimental e o ínicio é muito mais íntimo e sem rumo. É claro que a temporada 0 tem incríveis episódios, mas pode ser um pouco estranho se você não conhece a gente pessoalmente (talvez seja estranho mesmo se você já conheça a gente).]]></itunes:summary>
 		<image>
-			<url>https://pds.luccaaugusto.xyz/images/pds-logo.png</url>
+			<url>https://pds.luccaaugusto.xyz/images/pds-logo.jpg</url>
 			<title>Papo De Sauna</title>
 			<link><![CDATA[https://pds.luccaaugusto.xyz]]></link>
 		</image>
 		<itunes:author>Papo de Sauna</itunes:author>
 		<itunes:keywords>sauna, entretenimento</itunes:keywords>
-		<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.png" />
+		<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:owner>
 			<itunes:name><![CDATA[Papo De Sauna]]></itunes:name>
@@ -29,11 +29,13 @@
 		<itunes:subtitle><![CDATA[Uma conversa de muita humidade]]></itunes:subtitle>
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://pds.luccaaugusto.xyz/pds.xml</itunes:new-feed-url>
+
+
 		<item>
 			<title>Primeiro Episódio S0E1</title>
 			<pubDate>Fri, 05 Jun 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-05-21-S0E1.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
 			<description><![CDATA[Primeiro episódio, falatório sem rumo saltitando por diversos assuntos interessantes.]]></description>
 			<content:encoded><![CDATA[Primeiro episódio, falatório sem rumo saltitando por diversos assuntos interessantes.]]></content:encoded>
 			<enclosure length="123373261" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-05-21-S0E1.mp3" />
@@ -47,7 +49,7 @@
 			<title>Redes sociais que deveríamos usar. Livro o corpo fala - S0E2</title>
 			<pubDate>Wed, 24 Jun 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-06-11-S0E2.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
 			<description><![CDATA[Redes sociais (ou coisas parecidas com elas) que não estamos usando e deveríamos estar usando. Falamos também do livro "o corpo fala" de Pierre Wel e Roland Tompakow.]]></description>
 			<content:encoded><![CDATA[Redes sociais (ou coisas parecidas com elas) que não estamos usando e deveríamos estar usando. Falamos também do livro "o corpo fala" de Pierre Wel e Roland Tompakow.]]></content:encoded>
 			<enclosure length="100886012" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-06-11-S0E2.mp3" />
@@ -61,7 +63,7 @@
 			<title>Vídeo Jogos e nostalgia - S0E3</title>
 			<pubDate>Wed, 01 Jul 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-06-25-S0E3.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
 			<description><![CDATA[Gente nova entrando na sauna, velhos amigos Luiz Mário e Fernando Takayanagi já chegam relembrando as épocas de jogatina insana. Nesse episódio falamos sobre videogames e como influenciaram nossas vidas, avisamos sobre os perigos de entrar no mundo do MOBA e deixamos nossas recomendações de jogos.]]></description>
 			<content:encoded><![CDATA[Gente nova entrando na sauna, velhos amigos Luiz Mário e Fernando Takayanagi já chegam relembrando as épocas de jogatina insana. Nesse episódio falamos sobre videogames e como influenciaram nossas vidas, avisamos sobre os perigos de entrar no mundo do MOBA e deixamos nossas recomendações de jogos.]]></content:encoded>
 			<enclosure length="145668249" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-06-25-S0E3.mp3" />
@@ -75,7 +77,7 @@
 			<title>Inteligencia Artificial - S0E4</title>
 			<pubDate>Wed, 08 Jul 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-07-08-S0E4.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
 			<description><![CDATA[Conversando sobre inteligencia artificial. Lucca milita sobre linux (de novo). Muitas sugestões de filmes incríveis sobre o assunto.]]></description>
 			<content:encoded><![CDATA[Conversando sobre inteligencia artificial. Lucca milita sobre linux (de novo). Muitas sugestões de filmes incríveis sobre o assunto.]]></content:encoded>
 			<enclosure length="151316968" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-07-08-S0E4.mp3" />
@@ -89,7 +91,7 @@
 			<title>ANIMES - S0E5</title>
 			<pubDate>Wed, 15 Jul 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-07-15-S0E5.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
 			<description><![CDATA[Animes, waifus e tudo que há de bom. Junte-se a nós nessa conversa sobre a oitava maravilha do mundo. Ao lado de Richard Mariano e Kaique Augusto xingamos shonens e isekais, desprezamos ecchi e exaltamos bons animes.]]></description>
 			<content:encoded><![CDATA[Animes, waifus e tudo que há de bom. Junte-se a nós nessa conversa sobre a oitava maravilha do mundo. Ao lado de Richard Mariano e Kaique Augusto xingamos shonens e isekais, desprezamos ecchi e exaltamos bons animes.]]></content:encoded>
 			<enclosure length="177698551" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-07-15-S0E5.mp3" />
@@ -103,7 +105,7 @@
 			<title>Livros, adaptações e opiniões - S0E6</title>
 			<pubDate>Wed, 22 Jul 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-07-22-S0E6.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
 			<description><![CDATA[Ahh os livros. Nesse episódio falamos sobre o que achamos de livros, se o kindle vai cometer genocídio sobre os livros físicos, adaptações merda e mais.]]></description>
 			<content:encoded><![CDATA[Ahh os livros. Nesse episódio falamos sobre o que achamos de livros, se o kindle vai cometer genocídio sobre os livros físicos, adaptações merda e mais.]]></content:encoded>
 			<enclosure length="185813229" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-07-22-S0E6.mp3" />
@@ -117,7 +119,7 @@
 			<title>Filmes, Morra Hollywood - S0E7</title>
 			<pubDate>Wed, 29 Jul 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-07-29-S0E7.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
 			<description><![CDATA[Foda-se ficou grande mesmo. Versão extendida. Nesse episódio, presenteados com a primeira presença feminina no PDS, falamos muito de filmes. Filmes bons, O Resgate, filmes ruins, O Resgate, serviços de streaming, O Resgate, etc. Pagamos de cinéfilos um pouco e discutimos sobre o que é um bom filme. Adeus filmes de Hollywood, a moda agora é filmes que tenham conteúdo. E é claro, falamos um pouco mais sobre O Resgate.]]></description>
 			<content:encoded><![CDATA[Foda-se ficou grande mesmo. Versão extendida. Nesse episódio, presenteados com a primeira presença feminina no PDS, falamos muito de filmes. Filmes bons, O Resgate, filmes ruins, O Resgate, serviços de streaming, O Resgate, etc. Pagamos de cinéfilos um pouco e discutimos sobre o que é um bom filme. Adeus filmes de Hollywood, a moda agora é filmes que tenham conteúdo. E é claro, falamos um pouco mais sobre O Resgate.]]></content:encoded>
 			<enclosure length="259513017" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-07-29-S0E7.mp3" />
@@ -131,7 +133,7 @@
 			<title>Perguntas e quase respostas - S0E8</title>
 			<pubDate>Wed, 05 Aug 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-08-05-S0E8.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
 			<description><![CDATA[Divagamos sobre muitos assuntos. Uma pergunta aleatória de um site de 500 e poucas perguntas começa discussões que não tem nada a ver com o tema original da pergunta, nada diferente do papo de sauna.
 ]]></description>
 			<content:encoded><![CDATA[Divagamos sobre muitos assuntos. Uma pergunta aleatória de um site de 500 e poucas perguntas começa discussões que não tem nada a ver com o tema original da pergunta, nada diferente do papo de sauna.
@@ -148,7 +150,7 @@
 			<title>TRANSAções na internet (vulgo tinder) - S0E9</title>
 			<pubDate>Wed, 12 Aug 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-08-12-S0E9.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
 			<description><![CDATA[Esse episódio foi o terceiro episódio que gravamos mas o Caio trollou com o microfone e o Lucca regravou o áudio dele, por isso ta lançando com 2 meses de atraso. Tem uma voz bizarra no meio que é a que representa a voz do Caio. Falamos sobre tinder e apps de relacionamentos, nossas experiências com eles e o que achamos da ideia.]]></description>
 			<content:encoded><![CDATA[Esse episódio foi o terceiro episódio que gravamos mas o Caio trollou com o microfone e o Lucca regravou o áudio dele, por isso ta lançando com 2 meses de atraso. Tem uma voz bizarra no meio que é a que representa a voz do Caio. Falamos sobre tinder e apps de relacionamentos, nossas experiências com eles e o que achamos da ideia.]]></content:encoded>
 			<enclosure length="112465572" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-08-12-S0E9.mp3" />
@@ -162,7 +164,7 @@
 			<title>Músicas, rexpeita o funk e rap de anime - S0E10</title>
 			<pubDate>Wed, 20 Aug 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-08-20-S0E10.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
 			<description><![CDATA[Olhamos pra trás buscando as músicas que ouvíamos antigamente. Nostalgia. NÃO SINTA VERGONHA DO SEUS RAPS DE ANIME. Logo em seguida avaliamos o valor da música culturalmente, por que brasileiro não gosta de música brasileira? Por que tanto preconceito com o funk? respostas para essas e outras perguntas no Papo De Sauna. Além disso este é o último episódio da temporada zero, prepare-se para uma íNcRíVéL PRIMEIRA TEMPORADA.]]></description>
 			<content:encoded><![CDATA[Olhamos pra trás buscando as músicas que ouvíamos antigamente. Nostalgia. NÃO SINTA VERGONHA DO SEUS RAPS DE ANIME. Logo em seguida avaliamos o valor da música culturalmente, por que brasileiro não gosta de música brasileira? Por que tanto preconceito com o funk? respostas para essas e outras perguntas no Papo De Sauna. Além disso este é o último episódio da temporada zero, prepare-se para uma íNcRíVéL PRIMEIRA TEMPORADA.]]></content:encoded>
 			<enclosure length="165991514" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-08-20-S0E10.mp3" />
@@ -176,7 +178,7 @@
 			<title>Um bando de drogados - S1E1</title>
 			<pubDate>Wed, 02 Sep 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-09-02-S1E1.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
 			<description><![CDATA[Com o grande especialista Fernando Takayanagi Takanayagi Pugliese, vindo diretamente da universidade do Miskatonic, avaliamos o mal que as drogas legalizadas fazem para sua vida (por que obviamente as drogas ilegais só trazem coisas boas). Abordamos formas alternativas de tratamentos e nosso especialista fala dos efeitos colaterais do uso de drogas farmaceuticas. Pega sua toalha e se prepara pra cortar remédios da sua vida, a sauna já ta quente, vem chegando.]]></description>
 			<content:encoded><![CDATA[Com o grande especialista Fernando Takayanagi Takanayagi Pugliese, vindo diretamente da universidade do Miskatonic, avaliamos o mal que as drogas legalizadas fazem para sua vida (por que obviamente as drogas ilegais só trazem coisas boas). Abordamos formas alternativas de tratamentos e nosso especialista fala dos efeitos colaterais do uso de drogas farmaceuticas. Pega sua toalha e se prepara pra cortar remédios da sua vida, a sauna já ta quente, vem chegando.]]></content:encoded>
 			<enclosure length="144805163" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-09-01-S1E1.mp3" />
@@ -190,7 +192,7 @@
 			<title>Monólogo: A série da Fundação - #01</title>
 			<pubDate>Tue, 08 Sep 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/monologos/1-lucca-fundacao.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
 			<description><![CDATA[enquanto a sauna esquenta e o pessoal vai chegando, Lucca, que chegou adiantado, fala sobre a adaptação do livro fundação para uma série pela apple tv. Spoiler A serie ficou uma merda ]]></description>
 			<content:encoded><![CDATA[enquanto a sauna esquenta e o pessoal vai chegando, Lucca, que chegou adiantado, fala sobre a adaptação do livro fundação para uma série pela apple tv. Spoiler A serie ficou uma merda ]]></content:encoded>
 			<enclosure length="20695104" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/monologos/1-lucca-fundacao.mp3" />
@@ -204,7 +206,7 @@
 			<title>Experiências fora de BH - S1E2</title>
 			<pubDate>Wed, 09 Sep 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-09-09-S1E2.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
 			<description><![CDATA[Felipe abre este episódio contando do ano que passou estudando em portugal, Richard e Lucca contam da vez que foram pro rock in rio, e algumas outras experiências que aconteceram fora de BH. Você que sai do via shopping, cuidado ao pegar o 6350.]]></description>
 			<content:encoded><![CDATA[Felipe abre este episódio contando do ano que passou estudando em portugal, Richard e Lucca contam da vez que foram pro rock in rio, e algumas outras experiências que aconteceram fora de BH. Você que sai do via shopping, cuidado ao pegar o 6350.]]></content:encoded>
 			<enclosure length="94832710" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-09-09-S1E2.mp3" />
@@ -218,7 +220,7 @@
 			<title>Monólogo: Niilismo Positivo - #02</title>
 			<pubDate>Tue, 15 Sep 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/monologos/2-felipe-niilismopositivo.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
 			<description><![CDATA[enquanto a sauna esquenta e o pessoal vai chegando, Felipe fala sobre o niilismo positivo. Convertendo a bad que bate à sua porta com o pensamento niilista em uma liberdade (também niilista) que leva à felicidade.]]></description>
 			<content:encoded><![CDATA[enquanto a sauna esquenta e o pessoal vai chegando, Felipe fala sobre o niilismo positivo. Convertendo a bad que bate à sua porta com o pensamento niilista em uma liberdade (também niilista) que leva à felicidade.]]></content:encoded>
 			<enclosure length="22203106" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/monologos/2-felipe-niilismopositivo.mp3" />
@@ -232,7 +234,7 @@
 			<title>Militando contra a militância - S1E3</title>
 			<pubDate>Wed, 16 Sep 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-09-16-S1E3.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
 			<description><![CDATA[Nesse episódio, paradoxalmente, militamos contra a militância. Até quando é possível falar sobre um assunto sem ele virar meme ou ficar insuportável? Também não sabemos, mas abordamos essas e outras questões.]]></description>
 			<content:encoded><![CDATA[Nesse episódio, paradoxalmente, militamos contra a militância. Até quando é possível falar sobre um assunto sem ele virar meme ou ficar insuportável? Também não sabemos, mas abordamos essas e outras questões.]]></content:encoded>
 			<enclosure length="69586095" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-09-16-S1E3.mp3" />
@@ -246,7 +248,7 @@
 			<title>Monólogo: Kundalini Yoga - #03</title>
 			<pubDate>Tue, 22 Sep 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/monologos/3-lucca-yoga.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
 			<description><![CDATA[Lucca, como sempre falando sobre yoga, mas desta vez uma análise mais aprofundada sobre suas vivências.]]></description>
 			<content:encoded><![CDATA[Lucca, como sempre falando sobre yoga, mas desta vez uma análise mais aprofundada sobre suas vivências.]]></content:encoded>
 			<enclosure length="12381066" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/monologos/3-lucca-yoga.mp3" />
@@ -260,7 +262,7 @@
 			<title>Feministo - S1E4</title>
 			<pubDate>Wed, 23 Sep 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-09-23-S1E4.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
 			<description><![CDATA[Nesse episódio, com a nossa especialista @alinetatoobh, ouvimos sobre o feminismo, a situação atual do machismo, como ser feministo, um homem menos escroto e que apoia o feminismo, entre outros assuntos. Pedrada, uma verdadeira aula por parte da Aline. Esse episódio não é espelho mas causa muitas reflexões.]]></description>
 			<content:encoded><![CDATA[Nesse episódio, com a nossa especialista @alinetatoobh, ouvimos sobre o feminismo, a situação atual do machismo, como ser feministo, um homem menos escroto e que apoia o feminismo, entre outros assuntos. Pedrada, uma verdadeira aula por parte da Aline. Esse episódio não é espelho mas causa muitas reflexões.]]></content:encoded>
 			<enclosure length="73477294" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-09-23-S1E4.mp3" />
@@ -274,7 +276,7 @@
 			<title>Monólogo: Relacionamentos abusivos - #04</title>
 			<pubDate>Tue, 29 Sep 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/monologos/4-luiz-e-gabi.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
 			<description><![CDATA[Luiz e sua namorada Gabi falam sobre relacionamentos.]]></description>
 			<content:encoded><![CDATA[Luiz e sua namorada Gabi falam sobre relacionamentos.]]></content:encoded>
 			<enclosure length="21280879" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/monologos/4-luiz-e-gabi.mp3" />
@@ -288,7 +290,7 @@
 			<title>Dedo no Cu e Terapia - S1E5</title>
 			<pubDate>Wed, 30 Sep 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-09-30-S1E5.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
 			<description><![CDATA[To nem ai, To nem ai, pode falar dos seus problemas que não vou ouvir. Neste episódio comentamos sobre problemas que estamos passando neste momento. Lucca advoca contra a faculdade, seu maior problema, falamos de círculos sociais, minimalismo, zé droguinhas (salve alonso) e muitas coisas que estão acontecendo em nossa vida no momento. Bem temporada 0 vibes, porém bom agora.]]></description>
 			<content:encoded><![CDATA[To nem ai, To nem ai, pode falar dos seus problemas que não vou ouvir. Neste episódio comentamos sobre problemas que estamos passando neste momento. Lucca advoca contra a faculdade, seu maior problema, falamos de círculos sociais, minimalismo, zé droguinhas (salve alonso) e muitas coisas que estão acontecendo em nossa vida no momento. Bem temporada 0 vibes, porém bom agora.]]></content:encoded>
 			<enclosure length="69344932" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-09-30-S1E5.mp3" />
@@ -302,7 +304,7 @@
 			<title>Monólogo: Faculdade - #05</title>
 			<pubDate>Tue, 06 Oct 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/monologos/5-lucca-faculdade.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
 			<description><![CDATA[Faculdade pode não ser pra você, faça esse teste guiado e descubra qual o seu futuro.]]></description>
 			<content:encoded><![CDATA[Faculdade pode não ser pra você, faça esse teste guiado e descubra qual o seu futuro.]]></content:encoded>
 			<enclosure length="6200495" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/monologos/5-lucca-faculdade.mp3" />
@@ -314,16 +316,44 @@
 		</item>
 		<item>
 			<title>A Vila Da Folha - S1E6</title>
-			<pubDate>Wed, 09 Oct 2020 14:00:00 +0000</pubDate>
-			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-10-09-S1E6.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.png" />
+			<pubDate>Wed, 07 Oct 2020 14:00:00 +0000</pubDate>
+			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-10-07-S1E6.mp3]]></link>
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
 			<description><![CDATA[Convidada especial na sauna, a amiga de Felipe, <a href="https://www.instagram.com/isanishi/" target="_blank">@Isanishi</a>, fala sobre veganismo. Discussões deveras interessantes, relatos dos benefícios (boatos de que o richard ficou menos chato), e nossas experiências. Venha ser convertido você também ao veganismo.]]></description>
 			<content:encoded><![CDATA[Convidada especial na sauna, a amiga de Felipe, <a href="https://www.instagram.com/isanishi/" target="_blank">@Isanishi</a>, fala sobre veganismo. Discussões deveras interessantes, relatos dos benefícios (boatos de que o richard ficou menos chato), e nossas experiências. Venha ser convertido você também ao veganismo.]]></content:encoded>
-			<enclosure length="96033507" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-10-09-S1E6.mp3" />
+			<enclosure length="96033507" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-10-07-S1E6.mp3" />
 			<itunes:duration>01:20:01</itunes:duration>
 			<itunes:explicit>yes</itunes:explicit>
 			<itunes:keywords>sauna,</itunes:keywords>
 			<itunes:subtitle><![CDATA[Convidada especial na sauna, a amiga de Felipe, <a href="https://www.instagram.com/isanishi/" target="_blank">@Isanishi</a>, fala sobre veganismo. Discussões deveras interessantes, relatos dos benefícios (boatos de que o richard ficou menos chato), e nossas experiências. Venha ser convertido você também ao veganismo.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Monólogo: O pai da macroeconomia - #06</title>
+			<pubDate>Tue, 13 Oct 2020 14:00:00 +0000</pubDate>
+			<link><![CDATA[https://pds.luccaaugusto.xyz/monologos/6-fernando-macroeconomia.mp3]]></link>
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
+			<description><![CDATA[Aproveite a voz sedosa e macia de Fernando e conheça o pai da macroeconomia (também não sabemos o que é macroeconomia, rlx)]]></description>
+			<content:encoded><![CDATA[Aproveite a voz sedosa e macia de Fernando e conheça o pai da macroeconomia (também não sabemos o que é macroeconomia, rlx)]]></content:encoded>
+			<enclosure length="16857409" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/monologos/6-fernando-macroeconomia.mp3" />
+			<itunes:duration>00:14:02</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>sauna,</itunes:keywords>
+			<itunes:subtitle><![CDATA[Aproveite a voz sedosa e macia de Fernando e conheça o pai da macroeconomia (também não sabemos o que é macroeconomia, rlx)]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Empreses Sociolucratives - S1E7</title>
+			<pubDate>Wed, 14 Oct 2020 14:00:00 +0000</pubDate>
+			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-10-14-S1E7.mp3]]></link>
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
+			<description><![CDATA[Junte-se à nés nesse converse incrível sobre empreses sociolucratives ne saune. Falames de incrível <a href="https://querodobra.com.br" target="_blank">quereDobre</a> e come consegue gerer impacte sociel além de lucre em capitel. É muite importante que além de gerer dinheire es empreses pensem também em gerer prosperidade pare todes e menes impacte ambientel.]]></description>
+			<content:encoded><![CDATA[Junte-se à nés nesse converse incrível sobre empreses sociolucratives ne saune. Falames de incrível <a href="https://querodobra.com.br" target="_blank">quereDobre</a> e come consegue gerer impacte sociel além de lucre em capitel. É muite importante que além de gerer dinheire es empreses pensem também em gerer prosperidade pare todes e menes impacte ambientel.]]></content:encoded>
+			<enclosure length="78356446" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-10-14-S1E7.mp3" />
+			<itunes:duration>01:05:17</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>sauna,</itunes:keywords>
+			<itunes:subtitle><![CDATA[Junte-se à nés nesse converse incrível sobre empreses sociolucratives ne saune. Falames de incrível <a href="https://querodobra.com.br" target="_blank">quereDobre</a> e come consegue gerer impacte sociel além de lucre em capitel. É muite importante que além de gerer dinheire es empreses pensem também em gerer prosperidade pare todes e menes impacte ambientel.]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 	</channel>
