@@ -10,5 +10,5 @@ MON=$(ls _site/monologos/)
 [ "$EP" ] && MSG="update relacionado a "$EP
 [ "$MON" ] && MSG="update relacionado a "$MON
 git add .
-git commit -m "$MSG"
+git commit #-m "$MSG"
 git push
