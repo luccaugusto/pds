@@ -356,5 +356,19 @@
 			<itunes:subtitle><![CDATA[Junte-se à nés nesse converse incrível sobre empreses sociolucratives ne saune. Falames de incrível <a href="https://querodobra.com.br" target="_blank">quereDobre</a> e come consegue gerer impacte sociel além de lucre em capitel. É muite importante que além de gerer dinheire es empreses pensem também em gerer prosperidade pare todes e menes impacte ambientel.]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
+		<item>
+			<title>Monólogo: Minimalismo - #07</title>
+			<pubDate>Tue, 20 Oct 2020 14:00:00 +0000</pubDate>
+			<link><![CDATA[https://pds.luccaaugusto.xyz/monologos/7-felipe-minimalismo.mp3]]></link>
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
+			<description><![CDATA[Felipe fala um pouco sobre minimalismo]]></description>
+			<content:encoded><![CDATA[Felipe fala um pouco sobre minimalismo]]></content:encoded>
+			<enclosure length="7423025" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/monologos/7-felipe-minimalismo.mp3" />
+			<itunes:duration>00:06:11</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>sauna,</itunes:keywords>
+			<itunes:subtitle><![CDATA[Felipe fala um pouco sobre minimalismo]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 	</channel>
 </rss>
