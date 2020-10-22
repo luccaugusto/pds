@@ -370,5 +370,19 @@
 			<itunes:subtitle><![CDATA[Felipe fala um pouco sobre minimalismo]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
+		<item>
+			<title>Entremenitento - S1E8</title>
+			<pubDate>Wed, 21 Oct 2020 14:00:00 +0000</pubDate>
+			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-10-21-S1E8.mp3]]></link>
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/eps/S1E8.jpg" />
+			<description><![CDATA[Primeiro episódio filler do Papo de Sauna (ZOAS). Nesse episódio vamos mais sem tema, falando sobre entremetinento. Comentamos sobre alguns podcasts que ouvimos, nenhum à altura do Papo de Sauna, óbvio, séries, filmes, jogos. Por favor joguem tibia com o Lucca, é um jogo incrível. Falamos a senha do cartão do Fernando pra ver se temos algum ouvite.]]></description>
+			<content:encoded><![CDATA[Primeiro episódio filler do Papo de Sauna (ZOAS). Nesse episódio vamos mais sem tema, falando sobre entremetinento. Comentamos sobre alguns podcasts que ouvimos, nenhum à altura do Papo de Sauna, óbvio, séries, filmes, jogos. Por favor joguem tibia com o Lucca, é um jogo incrível. Falamos a senha do cartão do Fernando pra ver se temos algum ouvite.]]></content:encoded>
+			<enclosure length="80911221" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-10-21-S1E8.mp3" />
+			<itunes:duration>01:07:25</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>sauna,</itunes:keywords>
+			<itunes:subtitle><![CDATA[Primeiro episódio filler do Papo de Sauna (ZOAS). Nesse episódio vamos mais sem tema, falando sobre entremetinento. Comentamos sobre alguns podcasts que ouvimos, nenhum à altura do Papo de Sauna, óbvio, séries, filmes, jogos. Por favor joguem tibia com o Lucca, é um jogo incrível. Falamos a senha do cartão do Fernando pra ver se temos algum ouvite.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 	</channel>
 </rss>
