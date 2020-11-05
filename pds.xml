@@ -412,5 +412,19 @@
 			<itunes:subtitle><![CDATA[Mais um episódio com diversos assuntos. Sabia que no butão se mede Felicidade per capta? Sabia que day-trader é a profissão do futuro? OMBRO CABEÇA OMBRO. Entenda a mesóclise de Temer e suas implicações. Briga de filósofos, façam suas apostas. Os seres humanos não eram conscientes antigamente. Achou confuso? tá mesmo, mas ta engraçado, vale a pena.]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
+		<item>
+			<title>Monólogo: Conversas Fractais - Computadores Dóceis - #09</title>
+			<pubDate>Tue, 03 Nov 2020 14:00:00 +0000</pubDate>
+			<link><![CDATA[https://pds.luccaaugusto.xyz/monologos/9-monologo-conversas-fractais-computadores-doceis.mp3]]></link>
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
+			<description><![CDATA[Uma apresentação que Lucca deu pra galera da yoga sobre segurança online e como ser menos manipulável pelas mídias digitais. Um bom ponto pra começar a pensar na sua privacidade e segurança online, só a ponta do iceber, é claro, mas é assim que começa.]]></description>
+			<content:encoded><![CDATA[Uma apresentação que Lucca deu pra galera da yoga sobre segurança online e como ser menos manipulável pelas mídias digitais. Um bom ponto pra começar a pensar na sua privacidade e segurança online, só a ponta do iceber, é claro, mas é assim que começa.]]></content:encoded>
+			<enclosure length="30993909" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/monologos/9-monologo-conversas-fractais-computadores-doceis.mp3" />
+			<itunes:duration>00:33:25</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>sauna,</itunes:keywords>
+			<itunes:subtitle><![CDATA[Uma apresentação que Lucca deu pra galera da yoga sobre segurança online e como ser menos manipulável pelas mídias digitais. Um bom ponto pra começar a pensar na sua privacidade e segurança online, só a ponta do iceber, é claro, mas é assim que começa.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 	</channel>
 </rss>
