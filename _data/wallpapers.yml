@@ -1,20 +1,35 @@
--   nome: S0E1.jpg
-    link: /images/wallpapers/S0E1.jpg
--   nome: S0E2.jpg
-    link: /images/wallpapers/S0E2.jpg
--   nome: S0E3.jpg
-    link: /images/wallpapers/S0E3.jpg
--   nome: S0E4.jpg
-    link: /images/wallpapers/S0E4.jpg
--   nome: S0E5.jpg
-    link: /images/wallpapers/S0E5.jpg
--   nome: S0E6.jpg
-    link: /images/wallpapers/S0E6.jpg
--   nome: S0E7.jpg
-    link: /images/wallpapers/S0E7.jpg
--   nome: S0E9.jpg
-    link: /images/wallpapers/S0E9.jpg
--   nome: Synthwave-Monster.png
-    link: /images/wallpapers/pds-wallpaper-monster.png
--   nome: Unplug-pds.png
-    link: /images/wallpapers/Unplug-pds.png
+- nome: S0E1.jpg
+  link: /images/wallpapers/S0E1.jpg
+
+- nome: S0E2.jpg
+  link: /images/wallpapers/S0E2.jpg
+
+- nome: S0E3.jpg
+  link: /images/wallpapers/S0E3.jpg
+
+- nome: S0E4.jpg
+  link: /images/wallpapers/S0E4.jpg
+
+- nome: S0E5.jpg
+  link: /images/wallpapers/S0E5.jpg
+
+- nome: S0E6.jpg
+  link: /images/wallpapers/S0E6.jpg
+
+- nome: S0E7.jpg
+  link: /images/wallpapers/S0E7.jpg
+
+- nome: S0E9.jpg
+  link: /images/wallpapers/S0E9.jpg
+
+- nome: Synthwave-Monster.png
+  link: /images/wallpapers/pds-wallpaper-monster.png
+
+- nome: Unplug-pds.png
+  link: /images/wallpapers/Unplug-pds.png
+
+- nome: RIP_PDS.png
+  link: /images/wallpapers/RIP_PDS.png
+
+- nome: pds-s2-logo-sauna.png
+  link: /images/wallpapers/pds-s2-logo-sauna.png

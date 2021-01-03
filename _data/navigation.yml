@@ -1,12 +1,17 @@
 - name: Home
   link: /
+
 - name: Temporadas
   link: /temporadas/
+
 - name: Monólogos
   link: /monologos/
+
 - name: Wallpapers
   link: /wallpapers/
+
 - name: Sobre
   link: /sobre/
+
 - name: Amigos
   link: /amigos/

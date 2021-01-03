@@ -10,16 +10,16 @@
 		<copyright><![CDATA[]]></copyright>
 		<docs>https://pds.luccaaugusto.xyz</docs>
 		<managingEditor>opapodesauna@gmail.com (opapodesauna@gmail.com)</managingEditor>
-		<itunes:summary><![CDATA[Um papo aleatório sobre diversos assuntos. Pega sua toalha e toma uma ducha que a sauna já ta quente. 
+		<itunes:summary><![CDATA[Um papo aleatório sobre diversos assuntos. Pega sua toalha e toma uma ducha que a sauna já ta quente.
 			Aviso aos novos ouvintes: Se você acabou de chegar sugiro que comece pelo último episódio da temporada 0 ou pelo primeiro da temporada 1. A temporada 0 foi bem experimental e o ínicio é muito mais íntimo e sem rumo. É claro que a temporada 0 tem incríveis episódios, mas pode ser um pouco estranho se você não conhece a gente pessoalmente (talvez seja estranho mesmo se você já conheça a gente).]]></itunes:summary>
 		<image>
-			<url>https://pds.luccaaugusto.xyz/images/pds-logo.jpg</url>
+			<url>https://pds.luccaaugusto.xyz/images/pds-s2-logo.jpg</url>
 			<title>Papo De Sauna</title>
 			<link><![CDATA[https://pds.luccaaugusto.xyz]]></link>
 		</image>
 		<itunes:author>Papo de Sauna</itunes:author>
 		<itunes:keywords>sauna, entretenimento</itunes:keywords>
-		<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
+		<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-s2-logo.jpg" />
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:owner>
 			<itunes:name><![CDATA[Papo De Sauna]]></itunes:name>
@@ -424,6 +424,34 @@
 			<itunes:explicit>yes</itunes:explicit>
 			<itunes:keywords>sauna,</itunes:keywords>
 			<itunes:subtitle><![CDATA[Uma apresentação que Lucca deu pra galera da yoga sobre segurança online e como ser menos manipulável pelas mídias digitais. Um bom ponto pra começar a pensar na sua privacidade e segurança online, só a ponta do iceber, é claro, mas é assim que começa.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>O Futuro do Papo De Sauna - S1E10</title>
+			<pubDate>Sun, 03 Jan 2021 14:00:00 +0000</pubDate>
+			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2021-01-03-S1E10.mp3]]></link>
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
+			<description><![CDATA[Veja todas nossas ideias sobre o que queríamos que fosse o Papo de Sauna e a temporada 2. Esse episódio foi gravado antes de decretarmos a morte do Papo de Sauna,e só conseguimos lançar muito tempo depois. Deleite-se com nossos erros.]]></description>
+			<content:encoded><![CDATA[Veja todas nossas ideias sobre o que queríamos que fosse o Papo de Sauna e a temporada 2. Esse episódio foi gravado antes de decretarmos a morte do Papo de Sauna,e só conseguimos lançar muito tempo depois. Deleite-se com nossos erros.]]></content:encoded>
+			<enclosure length="110989101" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2021-01-03-S1E10.mp3" />
+			<itunes:duration>00:57:48</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>sauna,</itunes:keywords>
+			<itunes:subtitle><![CDATA[Veja todas nossas ideias sobre o que queríamos que fosse o Papo de Sauna e a temporada 2. Esse episódio foi gravado antes de decretarmos a morte do Papo de Sauna,e só conseguimos lançar muito tempo depois. Deleite-se com nossos erros.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Natal e o grandioso filme da Viih Tube - S2E1</title>
+			<pubDate>Sun, 03 Jan 2021 14:00:00 +0000</pubDate>
+			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2021-01-03-S2E1.mp3]]></link>
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/eps/S2E1.jpg" />
+			<description><![CDATA[Recomeçando de novo formato, Lucca e Richard comentam sobre o natal e Fernando, Felipe e Luiz analisam o Grandioso filme da Viih Tube.]]></description>
+			<content:encoded><![CDATA[Recomeçando de novo formato, Lucca e Richard comentam sobre o natal e Fernando, Felipe e Luiz analisam o Grandioso filme da Viih Tube.]]></content:encoded>
+			<enclosure length="67906943" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2021-01-03-S2E1.mp3" />
+			<itunes:duration>00:28:17</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>sauna,</itunes:keywords>
+			<itunes:subtitle><![CDATA[Recomeçando de novo formato, Lucca e Richard comentam sobre o natal e Fernando, Felipe e Luiz analisam o Grandioso filme da Viih Tube.]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 	</channel>
