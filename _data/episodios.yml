@@ -201,8 +201,8 @@
 - nome: PDS S1E10 - O futuro do Papo De Sauna
   temporada: 1
   yt-link:
-  deezer:
-  spotify:
+  deezer: https://www.deezer.com/us/episode/269225092
+  spotify: https://open.spotify.com/episode/6qEZ3lCtFMsGHcKrwRdGDg
   url: /episodios/2020-01-03-S1E10.mp3
   desc: Veja todas nossas ideias sobre o que queríamos que fosse o Papo de Sauna e a temporada 2. Esse episódio foi gravado antes de decretarmos a morte do Papo de Sauna,e só conseguimos lançar muito tempo depois. Deleite-se com nossos erros.
   img: /images/pds-logo.jpg
@@ -211,8 +211,8 @@
 - nome: PDS S2E1 - Sobre o natal e o Grandioso Filme da ViihTube
   temporada: 2
   yt-link:
-  deezer:
-  spotify:
+  deezer: https://www.deezer.com/us/episode/269225102
+  spotify: https://open.spotify.com/episode/5y2hSCR1jLvl8EtU0LqgzM
   url: /episodios/2021-01-03-S2E1.mp3
   desc: Recomeçando de novo formato, Lucca e Richard comentam sobre o natal e Fernando, Felipe e Luiz analisam o Grandioso filme da Viih Tube.
   img: /images/eps/S2E1.jpg
