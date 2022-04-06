@@ -454,5 +454,44 @@
 			<itunes:subtitle><![CDATA[Recomeçando de novo formato, Lucca e Richard comentam sobre o natal e Fernando, Felipe e Luiz analisam o Grandioso filme da Viih Tube.]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
+		<item>
+			<title>O que é o gongo terapêutico - S2E2</title>
+			<pubDate>Wed, 06 April 2022 14:00:00 +0000</pubDate>
+			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2022-04-06-S2E2.mp3]]></link>
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/eps/S2E2.jpg" />
+			<description>
+				<![CDATA[
+					Lucca fala sobre o que é o gongo terapeutico e quais os efeitos do gongo. Esse assunto é abordado
+					de alguns pontos de vista diferentes, passando pelo cultural, místico/religioso, biológico e mental.
+					Análise de sangue antes e depois do gongo: https://www.youtube.com/watch?v=yUNqN0G-7Zw.
+					Análise de sangue antes e depois com algumas explicacoes: https://www.youtube.com/watch?v=aQ-JDNfviDM.
+					Instagram do meu professor de Yoga (também toca gongo): Renato Moura https://www.instagram.com/renatomourayoga/
+					Instagram do meu professor de Gongo: Paulo HG https://www.instagram.com/paulohg.psi/
+				]]>
+			</description>
+			<content:encoded><![CDATA[
+					Lucca fala sobre o que é o gongo terapeutico e quais os efeitos do gongo. Esse assunto é abordado
+					de alguns pontos de vista diferentes, passando pelo cultural, místico/religioso, biológico e mental.
+					Análise de sangue antes e depois do gongo: https://www.youtube.com/watch?v=yUNqN0G-7Zw.
+					Análise de sangue antes e depois com algumas explicacoes: https://www.youtube.com/watch?v=aQ-JDNfviDM.
+					Instagram do meu professor de Yoga (também toca gongo): Renato Moura https://www.instagram.com/renatomourayoga/
+					Instagram do meu professor de Gongo: Paulo HG https://www.instagram.com/paulohg.psi/
+				]]>
+			</content:encoded>
+			<enclosure length="64785453" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2022-04-06-S2E2.mp3" />
+			<itunes:duration>00:33:44</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>sauna,gongo</itunes:keywords>
+			<itunes:subtitle><![CDATA[
+					Lucca fala sobre o que é o gongo terapeutico e quais os efeitos do gongo. Esse assunto é abordado
+					de alguns pontos de vista diferentes, passando pelo cultural, místico/religioso, biológico e mental.
+					Análise de sangue antes e depois do gongo: https://www.youtube.com/watch?v=yUNqN0G-7Zw.
+					Análise de sangue antes e depois com algumas explicacoes: https://www.youtube.com/watch?v=aQ-JDNfviDM.
+					Instagram do meu professor de Yoga (também toca gongo): Renato Moura https://www.instagram.com/renatomourayoga/
+					Instagram do meu professor de Gongo: Paulo HG https://www.instagram.com/paulohg.psi/
+				]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 	</channel>
 </rss>
