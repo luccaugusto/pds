@@ -1,6 +1,9 @@
 html {
 	min-height: 100%;
 }
+body {
+	margin: 0;
+}
 
 .current {
 	/* temporada 1 */
@@ -28,10 +31,8 @@ a {
 }
 
 .banner {
-	position: absolute;
 	z-index: -1;
 	top: 0;
-	margin: 0 0 0 -55pt;
 }
 .container-img{
 	width: 25%;
@@ -179,8 +180,8 @@ a {
 	font-size: 20px;
 }
 .menuzinho{
-	margin: 50pt;
 	text-align: center;
+	background-color: #000;
 }
 .backshadow{
 	background-color: #0000006b;
