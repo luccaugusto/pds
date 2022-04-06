@@ -1,19 +1,24 @@
 #!/bin/bash
 
-bundle update && 
-JEKYLL_ENV=production && 
-bundle exec jekyll build &&
+[ -d episodios ] || mkdir episodios
+[ -d monologos ] || mkdir monologos
 
-cd _site &&
-rm episodios/*.mp3 &&
-rm monologos/*.mp3 &&
-rm *.sh &&
-cd .. &&
+bundle update &&
+JEKYLL_ENV=production &&
+bundle exec jekyll build
+
+if [ $(cd _site) ]
+then
+	rm episodios/*.mp3
+	rm monologos/*.mp3
+	rm *.sh
+	cd ..
+fi
 
 #sobe so o ultimo episodio, os outros ja estao no servidor
 ULTIMO=$(ls episodios | tail -1) &&
-cp episodios/$ULTIMO _site/episodios/ &&
+[ "$ULTIMO" ] && cp episodios/$ULTIMO _site/episodios/ &&
 
 #sobe so o ultimo monologo, os outros ja estao no servidor
 ULTIMO=$(ls monologos | tail -1) &&
-cp monologos/$ULTIMO _site/monologos/
+[ "$ULTIMO" ] && cp monologos/$ULTIMO _site/monologos/
