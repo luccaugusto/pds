@@ -493,5 +493,40 @@
 			</itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
+		<item>
+			<title>Kaique olha pra trás - S2E3</title>
+			<pubDate>Sun, 17 April 2022 14:00:00 +0000</pubDate>
+			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2022-04-17-S2E3.mp3]]></link>
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/eps/S2E3.jpg" />
+			<description>
+				<![CDATA[
+					Nesse episódio Kaique olha para seu passado e analisa quem ele era, quem ele é e quem ele vai ser.
+					Referências->
+					Yung Lixo: https://www.youtube.com/channel/UCm5TtnejcDYLHZxSQcg8QHw
+					Mixtape pra te impressionar: https://www.youtube.com/watch?v=mShT2gJUhbw
+				]]>
+			</description>
+			<content:encoded>
+				<![CDATA[
+					Nesse episódio Kaique olha para seu passado e analisa quem ele era, quem ele é e quem ele vai ser.
+					Referências->
+					Yung Lixo: https://www.youtube.com/channel/UCm5TtnejcDYLHZxSQcg8QHw
+					Mixtape pra te impressionar: https://www.youtube.com/watch?v=mShT2gJUhbw
+				]]>
+			</content:encoded>
+			<enclosure length="38039853" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2022-04-17-S2E3.mp3" />
+			<itunes:duration>00:19:48</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>sauna,</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[
+					Nesse episódio Kaique olha para seu passado e analisa quem ele era, quem ele é e quem ele vai ser.
+					Referências->
+					Yung Lixo: https://www.youtube.com/channel/UCm5TtnejcDYLHZxSQcg8QHw
+					Mixtape pra te impressionar: https://www.youtube.com/watch?v=mShT2gJUhbw
+				]]>
+			</itunes:subtitle>
+		<itunes:episodeType>full</itunes:episodeType>
+	</item>
 	</channel>
 </rss>
