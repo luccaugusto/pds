@@ -234,14 +234,36 @@
   detalhes:
 
 - nome: PDS S2E3 - Kaique olha pra trás
-  temporada: 2
-  yt-link:
-  deezer:
-  spotify:
   url: /episodios/2022-04-17-S2E3.mp3
   desc: Nesse episódio Kaique olha para seu passado e analisa quem ele era, quem ele é e quem ele vai ser.
     </br>Referências->
     </br>+ <a href="https://www.youtube.com/channel/UCm5TtnejcDYLHZxSQcg8QHw" target="blank">Yung Lixo</a>
     </br>+ <a href="https://www.youtube.com/watch?v=mShT2gJUhbw" target="blank">Mixtape pra te impressionar</a>
+  temporada: 2
+  yt-link:
+  deezer: https://deezer.page.link/ZoP5BJdTFQmQxZQT8
+  spotify: https://open.spotify.com/episode/4sxpNF637so0o2C4PYW51e
   img: /images/eps/S2E3.jpg
+  detalhes:
+
+
+- nome: PDS S2E4 - Segundo primeiro episódio
+  url: /episodios/2022-04-18-S2E4.mp3
+  desc: Uma releitura do primeiro episódio que lançamos.
+    Lucca e Felipe conversam sem rumo sobre como estão as coisas em suas vidas hoje.
+    Novamente um falatório sem rumo saltitando por diversos assuntos interessantes.
+    Durante o podcast falamos de algumas pessoas/bandas/coisas, aqui estão os links->
+    </br>+ <a href="https://www.youtube.com/channel/UCxqkOxQYocXRtSqlotgXh7w" target="blank">FKJ</a>
+    </br>+ <a href="https://www.youtube.com/channel/UCKKKYE55BVswHgKihx5YXew" target="blank">Porter Robinson</a>
+    </br>+ <a href="https://www.youtube.com/channel/UCNiyS8zr2RIddszLwtoyUow" target="blank">King Gizzard and the Lizard Wizard</a>
+    </br>+ <a href="https://www.youtube.com/channel/UCAayZDDj3uom0QpSJiwLoUw" target="blank">Bring Me The Horizon</a>
+    </br>+ <a href="https://www.youtube.com/channel/UCqLOZtEdRzXDzF-1CyJFc2Q" target="blank">Russian Circles</a>
+    </br>+ <a href="https://www.youtube.com/channel/UCfO3MSoheHzZL4GkK_gKfuw" target="blank">Primus</a>
+    </br>+ <a href="https://www.youtube.com/channel/UC1wUo-29zS7m_Jp-U_xYcFQ" target="blank">Tool</a>
+    </br>+ <a href="https://www.youtube.com/watch?v=-oSAcyt5WZo" target="blank">Na ponta do pé, MC Livinho</a>
+  temporada: 2
+  yt-link:
+  deezer:
+  spotify:
+  img: /images/eps/S2E4.jpg
   detalhes:

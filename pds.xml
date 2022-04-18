@@ -526,7 +526,65 @@
 					Mixtape pra te impressionar: https://www.youtube.com/watch?v=mShT2gJUhbw
 				]]>
 			</itunes:subtitle>
-		<itunes:episodeType>full</itunes:episodeType>
-	</item>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Segundo primeiro episódio - S2E4</title>
+			<pubDate>Mon, 18 April 2022 14:00:00 +0000</pubDate>
+			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2022-04-18-S2E4.mp3]]></link>
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/eps/S2E4.jpg" />
+			<description>
+				<![CDATA[
+					Uma releitura do primeiro episódio que lançamos.
+					Lucca e Felipe conversam sem rumo sobre como estão as coisas em suas vidas hoje.
+					Novamente um falatório sem rumo saltitando por diversos assuntos interessantes.
+					Durante o podcast falamos de algumas pessoas/bandas/coisas, aqui estão os links:
+					FKJ: https://www.youtube.com/channel/UCxqkOxQYocXRtSqlotgXh7w
+					Porter Robinson: https://www.youtube.com/channel/UCKKKYE55BVswHgKihx5YXew
+					King Gizzard and the Lizard Wizard: https://www.youtube.com/channel/UCNiyS8zr2RIddszLwtoyUow
+					Bring Me The Horizon: https://www.youtube.com/channel/UCAayZDDj3uom0QpSJiwLoUw
+					Russian Circles: https://www.youtube.com/channel/UCqLOZtEdRzXDzF-1CyJFc2Q
+					Primus: https://www.youtube.com/channel/UCfO3MSoheHzZL4GkK_gKfuw
+					Tool: https://www.youtube.com/channel/UC1wUo-29zS7m_Jp-U_xYcFQ
+					Na ponta do pé, MC Livinho: https://www.youtube.com/watch?v=-oSAcyt5WZo
+				]]>
+			</description>
+			<content:encoded>
+				<![CDATA[
+					Uma releitura do primeiro episódio que lançamos.
+					Lucca e Felipe conversam sem rumo sobre como estão as coisas em suas vidas hoje.
+					Novamente um falatório sem rumo saltitando por diversos assuntos interessantes.
+					Durante o podcast falamos de algumas pessoas/bandas/coisas, aqui estão os links:
+					FKJ: https://www.youtube.com/channel/UCxqkOxQYocXRtSqlotgXh7w
+					Porter Robinson: https://www.youtube.com/channel/UCKKKYE55BVswHgKihx5YXew
+					King Gizzard and the Lizard Wizard: https://www.youtube.com/channel/UCNiyS8zr2RIddszLwtoyUow
+					Bring Me The Horizon: https://www.youtube.com/channel/UCAayZDDj3uom0QpSJiwLoUw
+					Russian Circles: https://www.youtube.com/channel/UCqLOZtEdRzXDzF-1CyJFc2Q
+					Primus: https://www.youtube.com/channel/UCfO3MSoheHzZL4GkK_gKfuw
+					Tool: https://www.youtube.com/channel/UC1wUo-29zS7m_Jp-U_xYcFQ
+					Na ponta do pé, MC Livinho: https://www.youtube.com/watch?v=-oSAcyt5WZo
+				]]>
+			</content:encoded>
+			<enclosure length="143547693" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2022-04-18-S2E4.mp3" />
+			<itunes:duration>01:14:45</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>sauna,</itunes:keywords>
+			<itunes:subtitle><![CDATA[
+					Uma releitura do primeiro episódio que lançamos.
+					Lucca e Felipe conversam sem rumo sobre como estão as coisas em suas vidas hoje.
+					Novamente um falatório sem rumo saltitando por diversos assuntos interessantes.
+					Durante o podcast falamos de algumas pessoas/bandas/coisas, aqui estão os links:
+					FKJ: https://www.youtube.com/channel/UCxqkOxQYocXRtSqlotgXh7w
+					Porter Robinson: https://www.youtube.com/channel/UCKKKYE55BVswHgKihx5YXew
+					King Gizzard and the Lizard Wizard: https://www.youtube.com/channel/UCNiyS8zr2RIddszLwtoyUow
+					Bring Me The Horizon: https://www.youtube.com/channel/UCAayZDDj3uom0QpSJiwLoUw
+					Russian Circles: https://www.youtube.com/channel/UCqLOZtEdRzXDzF-1CyJFc2Q
+					Primus: https://www.youtube.com/channel/UCfO3MSoheHzZL4GkK_gKfuw
+					Tool: https://www.youtube.com/channel/UC1wUo-29zS7m_Jp-U_xYcFQ
+					Na ponta do pé, MC Livinho: https://www.youtube.com/watch?v=-oSAcyt5WZo
+				]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 	</channel>
 </rss>
