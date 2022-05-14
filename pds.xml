@@ -586,5 +586,45 @@
 			</itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
+		<item>
+			<title>Good Vibes, Escola, Bad Vibes e música - S2E5</title>
+			<pubDate>Sat, 14 May 2022 14:00:00 +0000</pubDate>
+			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2022-05-14-S2E5.mp3]]></link>
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/eps/S2E5.jpg" />
+			<description>
+				<![CDATA[
+					Lucca e Kaique conversam sobre as varias coisas que acontecem
+					em suas vidas no momento. Kaique se mostra um grande preguiçoso,
+					Lucca se orgulha de sua preguiça.
+					Lembramos de como a vida já foi boa e também lembramos de como a vida
+					já foi ruim.
+					Um verdadeiro papo de sauna, de tudo um pouco.
+					]]>
+			</description>
+			<content:encoded>
+				<![CDATA[
+					Lucca e Kaique conversam sobre as varias coisas que acontecem
+					em suas vidas no momento. Kaique se mostra um grande preguiçoso,
+					Lucca se orgulha de sua preguiça.
+					Lembramos de como a vida já foi boa e também lembramos de como a vida
+					já foi ruim.
+					Um verdadeiro papo de sauna, de tudo um pouco.
+					]]>
+			</content:encoded>
+			<enclosure length="128904237" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2022-05-14-S2E5.mp3" />
+			<itunes:duration>01:07:08</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>sauna,</itunes:keywords>
+			<itunes:subtitle><![CDATA[
+				Lucca e Kaique conversam sobre as varias coisas que acontecem
+				em suas vidas no momento. Kaique se mostra um grande preguiçoso,
+				Lucca se orgulha de sua preguiça.
+				Lembramos de como a vida já foi boa e também lembramos de como a vida
+				já foi ruim.
+				Um verdadeiro papo de sauna, de tudo um pouco.
+				]]>
+		</itunes:subtitle>
+		<itunes:episodeType>full</itunes:episodeType>
+	</item>
 	</channel>
 </rss>
