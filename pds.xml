@@ -647,7 +647,7 @@
 					fazer o que gosta de verdade.
 					]]>
 			</content:encoded>
-			<enclosure length="86470701 " type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2022-06-10-S2E6.mp3" />
+			<enclosure length="86470701" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2022-06-10-S2E6.mp3" />
 			<itunes:duration>00:45:02</itunes:duration>
 			<itunes:explicit>yes</itunes:explicit>
 			<itunes:keywords>sauna,capitalismo</itunes:keywords>
@@ -660,5 +660,45 @@
 			</itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
+		<item>
+			<title>A CIA matou John F. Kennedy, seu deus não presta e Hora de Aventura é muito bom - S2E7</title>
+			<pubDate>Sat, 23 Jun 2022 14:00:00 +0000</pubDate>
+			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2022-07-23-S2E7.mp3]]></link>
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/eps/S2E7.jpg" />
+			<description>
+				<![CDATA[
+					Provavelmente o Papo de Sauna mais papo de sauna que já gravamos. Kaique entediado de férias
+					chama Lucca pra gravar de última hora e o resultado você confere nessas 2 horas de conversa
+					onde falamos sobre teorias da conspiração, religião, filosofia, rituais de suicídio,
+					Hora de Aventura, Apenas um Show, Midnight Gospel, Católicos não praticantes, discussões políticas
+					e muito mais. Também é importante ressaltar que todos os participantes deste episódio estavam
+					sóbrios no momento da gravação, não é papo de maconheiro.
+					]]>
+			</description>
+			<content:encoded>
+				<![CDATA[
+					Provavelmente o Papo de Sauna mais papo de sauna que já gravamos. Kaique entediado de férias
+					chama Lucca pra gravar de última hora e o resultado você confere nessas 2 horas de conversa
+					onde falamos sobre teorias da conspiração, religião, filosofia, rituais de suicídio,
+					Hora de Aventura, Apenas um Show, Midnight Gospel, Católicos não praticantes, discussões políticas
+					e muito mais. Também é importante ressaltar que todos os participantes deste episódio estavam
+					sóbrios no momento da gravação, não é papo de maconheiro.
+					]]>
+			</content:encoded>
+			<enclosure length="245836077" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2022-07-23-S2E7.mp3" />
+			<itunes:duration>02:08:02</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>sauna,religião,conspirações,desenhos,Hora de Aventura</itunes:keywords>
+			<itunes:subtitle><![CDATA[
+					Provavelmente o Papo de Sauna mais papo de sauna que já gravamos. Kaique entediado de férias
+					chama Lucca pra gravar de última hora e o resultado você confere nessas 2 horas de conversa
+					onde falamos sobre teorias da conspiração, religião, filosofia, rituais de suicídio,
+					Hora de Aventura, Apenas um Show, Midnight Gospel, Católicos não praticantes, discussões políticas
+					e muito mais. Também é importante ressaltar que todos os participantes deste episódio estavam
+					sóbrios no momento da gravação, não é papo de maconheiro.
+				]]>
+		</itunes:subtitle>
+		<itunes:episodeType>full</itunes:episodeType>
+	</item>
 	</channel>
 </rss>
