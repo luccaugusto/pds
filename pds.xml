@@ -700,5 +700,72 @@
 		</itunes:subtitle>
 		<itunes:episodeType>full</itunes:episodeType>
 	</item>
+	<item>
+		<title>Os Verdadeiros Influencers - S2E8</title>
+		<pubDate>Tue, 16 Aug 2022 19:42:00 +0000</pubDate>
+		<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2022-08-16-S2E8.mp3]]></link>
+		<itunes:image href="https://pds.luccaaugusto.xyz/images/eps/S2E8.jpg" />
+		<description>
+			<![CDATA[
+				Neste episódio Lucca fala sobre todos os livros/ideias/pessoas que influenciaram sua vida de alguma forma.
+				Meio que uma viagem no tempo passando por cada ponto de mudança que foi causado por ideias de alguém,
+				uma jornada bem pessoal e um episódio especial que já estava idealizado há muitos meses mas demorou pra sair.
+				Como prometido no episódio aqui vai uma lista dos livros e pessoas->
+				+ Livro Models de Mark Manson
+				+ Livro A sutil arte de ligar o foda-se de Mark Manson
+				+ Músicas de E-Dubble
+				+ O Skatista Ryan Reyes
+				+ Become What You Are de Alan Watts
+				+ O Espírito do Zen de Alan Watts
+				+ A Via de Chuang Tzu de Thomas Merton
+				+ Tao Te Ching de Laozi
+				+ Sidarta de Herman Hesse
+				+ Be Here Now de Ram Dass
+				+ The Box i call Life de Lily Lu (Little Swastika)
+				]]>
+		</description>
+		<content:encoded>
+			<![CDATA[
+				Neste episódio Lucca fala sobre todos os livros/ideias/pessoas que influenciaram sua vida de alguma forma.
+				Meio que uma viagem no tempo passando por cada ponto de mudança que foi causado por ideias de alguém,
+				uma jornada bem pessoal e um episódio especial que já estava idealizado há muitos meses mas demorou pra sair.
+				Como prometido no episódio aqui vai uma lista dos livros e pessoas->
+				+ Livro Models de Mark Manson
+				+ Livro A sutil arte de ligar o foda-se de Mark Manson
+				+ Músicas de E-Dubble
+				+ O Skatista Ryan Reyes
+				+ Become What You Are de Alan Watts
+				+ O Espírito do Zen de Alan Watts
+				+ A Via de Chuang Tzu de Thomas Merton
+				+ Tao Te Ching de Laozi
+				+ Sidarta de Herman Hesse
+				+ Be Here Now de Ram Dass
+				+ The Box i call Life de Lily Lu (Little Swastika)
+				]]>
+		</content:encoded>
+		<enclosure length="162455853" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2022-08-16-S2E8.mp3" />
+		<itunes:duration>01:24:35</itunes:duration>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:keywords>sauna,Alan Watts, Taoismo, Zen Budismo, Little Swastika, Lily Lu, Chuang Tzu, Laozi, Sidarta</itunes:keywords>
+		<itunes:subtitle><![CDATA[
+			Neste episódio Lucca fala sobre todos os livros/ideias/pessoas que influenciaram sua vida de alguma forma.
+			Meio que uma viagem no tempo passando por cada ponto de mudança que foi causado por ideias de alguém,
+			uma jornada bem pessoal e um episódio especial que já estava idealizado há muitos meses mas demorou pra sair.
+			Como prometido no episódio aqui vai uma lista dos livros e pessoas->
+			+ Livro Models de Mark Manson
+			+ Livro A sutil arte de ligar o foda-se de Mark Manson
+			+ Músicas de E-Dubble
+			+ O Skatista Ryan Reyes
+			+ Become What You Are de Alan Watts
+			+ O Espírito do Zen de Alan Watts
+			+ A Via de Chuang Tzu de Thomas Merton
+			+ Tao Te Ching de Laozi
+			+ Sidarta de Herman Hesse
+			+ Be Here Now de Ram Dass
+			+ The Box i call Life de Lily Lu (Little Swastika)
+			]]>
+	</itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+</item>
 	</channel>
 </rss>
