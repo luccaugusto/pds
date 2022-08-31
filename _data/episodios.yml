@@ -334,3 +334,18 @@
   spotify:
   img: /images/eps/S2E8.jpg
   detalhes:
+
+- nome: PDS S0E0 - O Papo De Sauna ORIGINAL
+  url: /episodios/2022-08-30-S0E0.mp3
+  desc: O primeiro episódio de papo de sauna que foi gravado, depois de quase 3 anos finalmente
+    foi editado e lançado. Perdão Churros pela demora no lançamento desse episódio.
+    Falamos bem sério e muito mal sobre software livre, numa tentativa de estabelecer o formato
+    do Papo De Sauna, mais tarde tudo que construimos aqui seria jogado fora pra criar um formato
+    onde podemos falar de qualquer coisa. Se quiser ver 3 pessoas passando vergonha e perrengue pra
+    gravar um podcast, a versão crua desse episódio está disponível nos detalhes desse episódio logo abaixo
+  temporada: 0
+  yt-link:
+  deezer:
+  spotify:
+  img: /images/eps/S0E0.jpg
+  detalhes: <a href="/episodios/2022-08-30-S0E0-cru.mp3" target="_blank">Versão sem cortes</a></li>

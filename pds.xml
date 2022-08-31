@@ -764,8 +764,48 @@
 			+ Be Here Now de Ram Dass
 			+ The Box i call Life de Lily Lu (Little Swastika)
 			]]>
-	</itunes:subtitle>
-	<itunes:episodeType>full</itunes:episodeType>
-</item>
+		</itunes:subtitle>
+		<itunes:episodeType>full</itunes:episodeType>
+	</item>
+	<item>
+		<title>O Papo De Sauna ORIGINAL - S0E0</title>
+		<pubDate>Tue, 30 Aug 2022 21:45:00 +0000</pubDate>
+		<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2022-08-30-S0E0.mp3]]></link>
+		<itunes:image href="https://pds.luccaaugusto.xyz/images/eps/S0E0.jpg" />
+		<description>
+			<![CDATA[
+				O primeiro episódio de papo de sauna que foi gravado, depois de quase 3 anos finalmente
+				foi editado e lançado. Perdão Churros pela demora no lançamento desse episódio.
+				Falamos bem sério e muito mal sobre software livre, numa tentativa de estabelecer o formato
+				do Papo De Sauna, mais tarde tudo que construimos aqui seria jogado fora pra criar um formato
+				onde podemos falar de qualquer coisa. Se quiser ver 3 pessoas passando vergonha e perrengue pra
+				gravar um podcast, a versão crua desse episódio está disponível no site (https://pds.luccaaugusto.xyz)
+				]]>
+		</description>
+		<content:encoded>
+			<![CDATA[
+				O primeiro episódio de papo de sauna que foi gravado, depois de quase 3 anos finalmente
+				foi editado e lançado. Perdão Churros pela demora no lançamento desse episódio.
+				Falamos bem sério e muito mal sobre software livre, numa tentativa de estabelecer o formato
+				do Papo De Sauna, mais tarde tudo que construimos aqui seria jogado fora pra criar um formato
+				onde podemos falar de qualquer coisa. Se quiser ver 3 pessoas passando vergonha e perrengue pra
+				gravar um podcast, a versão crua desse episódio está disponível no site (https://pds.luccaaugusto.xyz)
+				]]>
+		</content:encoded>
+		<enclosure length="117093933" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2022-08-30-S0E0.mp3" />
+		<itunes:duration>01:00:59</itunes:duration>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:keywords>sauna,free software</itunes:keywords>
+		<itunes:subtitle><![CDATA[
+			O primeiro episódio de papo de sauna que foi gravado, depois de quase 3 anos finalmente
+			foi editado e lançado. Perdão Churros pela demora no lançamento desse episódio.
+			Falamos bem sério e muito mal sobre software livre, numa tentativa de estabelecer o formato
+			do Papo De Sauna, mais tarde tudo que construimos aqui seria jogado fora pra criar um formato
+			onde podemos falar de qualquer coisa. Se quiser ver 3 pessoas passando vergonha e perrengue pra
+			gravar um podcast, a versão crua desse episódio está disponível no site (https://pds.luccaaugusto.xyz)
+			]]>
+		</itunes:subtitle>
+		<itunes:episodeType>full</itunes:episodeType>
+	</item>
 	</channel>
 </rss>
