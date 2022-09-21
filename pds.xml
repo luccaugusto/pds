@@ -809,7 +809,7 @@
 	</item>
 	<item>
 		<title>O verdadeiro Papo de Sauna são os amigos que fizemos ao longo da jornada - S2E9</title>
-		<pubDate>Tue, 20 Set 2022 09:30:00 +0000</pubDate>
+		<pubDate>Tue, 20 Sep 2022 09:30:00 +0000</pubDate>
 		<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2022-09-20-S2E9.mp3]]></link>
 		<itunes:image href="https://pds.luccaaugusto.xyz/images/eps/S2E9.jpg" />
 		<description>
@@ -841,8 +841,8 @@
 			seus ouvidos. Tem assunto sério no meio e termina com animes, é tudo que posso dizer, senta aí, bota o fone
 			e vem com a gente nessa viagem.
 			]]>
-	</itunes:subtitle>
-	<itunes:episodeType>full</itunes:episodeType>
-</item>
+		</itunes:subtitle>
+		<itunes:episodeType>full</itunes:episodeType>
+	</item>
 	</channel>
 </rss>
