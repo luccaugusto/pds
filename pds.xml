@@ -844,5 +844,36 @@
 		</itunes:subtitle>
 		<itunes:episodeType>full</itunes:episodeType>
 	</item>
+	<item>
+		<title>Adeus ano velho (2022) Feliz ano novo (2023) - S2E10</title>
+		<pubDate>Fri, 10 Feb 2023 09:30:00 +0000</pubDate>
+		<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2023-02-10-S2E10.mp3]]></link>
+		<itunes:image href="https://pds.luccaaugusto.xyz/images/eps/S2E10.jpg" />
+		<description>
+			<![CDATA[
+				E é ano novo no Papo De Sauna. Kaique, Lucca e André falam sobre como foi o último ano
+				e sobre como estão nessa virada de ano. Teoricamente esse é o início de uma tradição, o
+				mesmo conjunto de perguntas será feito no episódio de fim de ano do Papo De Sauna.
+				]]>
+		</description>
+		<content:encoded>
+			<![CDATA[
+				E é ano novo no Papo De Sauna. Kaique, Lucca e André falam sobre como foi o último ano
+				e sobre como estão nessa virada de ano. Teoricamente esse é o início de uma tradição, o
+				mesmo conjunto de perguntas será feito no episódio de fim de ano do Papo De Sauna.
+				]]>
+		</content:encoded>
+		<enclosure length="228396333" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2023-02-10-S2E10.mp3" />
+		<itunes:duration>01:58:57</itunes:duration>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:keywords>sauna,ano novo</itunes:keywords>
+		<itunes:subtitle><![CDATA[
+			E é ano novo no Papo De Sauna. Kaique, Lucca e André falam sobre como foi o último ano
+			e sobre como estão nessa virada de ano. Teoricamente esse é o início de uma tradição, o
+			mesmo conjunto de perguntas será feito no episódio de fim de ano do Papo De Sauna.
+			]]>
+	</itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+</item>
 	</channel>
 </rss>
