@@ -102,6 +102,15 @@ a {
 #temporada-2 > .central{
     box-shadow: 0px 0px 20px 20px #e2ff00;
 }
+#temporada-3 > .central{
+	box-shadow: 0px 0px 20px 20px #00b8ff;
+}
+.conteudo-3{
+	/* temporada 3 */
+	background-color: #ffa6f3;
+	padding: 2%;
+	min-height: 200pt;
+}
 .conteudo-2{
 	/* temporada 2 */
 	background-color: #f5b824;

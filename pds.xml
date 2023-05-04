@@ -872,8 +872,39 @@
 			e sobre como estão nessa virada de ano. Teoricamente esse é o início de uma tradição, o
 			mesmo conjunto de perguntas será feito no episódio de fim de ano do Papo De Sauna.
 			]]>
-	</itunes:subtitle>
-	<itunes:episodeType>full</itunes:episodeType>
-</item>
+		</itunes:subtitle>
+		<itunes:episodeType>full</itunes:episodeType>
+	</item>
+	<item>
+		<title>Gosto Musical do Felipe - S3E1</title>
+		<pubDate>Thu, 04 May 2023 09:30:00 +0000</pubDate>
+		<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2023-05-04-S3E1.mp3]]></link>
+		<itunes:image href="https://pds.luccaaugusto.xyz/images/eps/S3E1.jpg" />
+		<description>
+			<![CDATA[
+				Começamos a terceira temporada do Papo de Sauna contando a história da relação do Felipe com a música.
+				Bem possivelmente terão mais episódios com outras pessoas nesse mesmo tema, mas todos sabemos como isso
+				aqui funciona e nada é garantido né. Simbora pra mais uma temporada.
+				]]>
+		</description>
+		<content:encoded>
+			<![CDATA[
+				Começamos a terceira temporada do Papo de Sauna contando a história da relação do Felipe com a música.
+				Bem possivelmente terão mais episódios com outras pessoas nesse mesmo tema, mas todos sabemos como isso
+				aqui funciona e nada é garantido né. Simbora pra mais uma temporada.
+				]]>
+		</content:encoded>
+		<enclosure length="71494700" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2023-05-04-S3E1.mp3" />
+		<itunes:duration>00:37:14</itunes:duration>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:keywords>sauna,musica</itunes:keywords>
+		<itunes:subtitle><![CDATA[
+			Começamos a terceira temporada do Papo de Sauna contando a história da relação do Felipe com a música.
+			Bem possivelmente terão mais episódios com outras pessoas nesse mesmo tema, mas todos sabemos como isso
+			aqui funciona e nada é garantido né. Simbora pra mais uma temporada.
+			]]>
+		</itunes:subtitle>
+		<itunes:episodeType>full</itunes:episodeType>
+	</item>
 	</channel>
 </rss>
