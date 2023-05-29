@@ -387,3 +387,22 @@
   spotify: https://open.spotify.com/episode/3YeTZsCPL0k3LQOTgLbiSM?si=0650b7c70b0949da
   img: /images/eps/S3E1.jpg
   detalhes:
+
+- nome: PDS S3E2 - Gosto Musical do Kaique
+  url: /episodios/2023-05-29-S3E2.mp3
+  desc: Segundo episódio da série de entrevistas sobre gosto musical, dessa vez com Kaique,
+    que nos conta nos mínimos detalhes sua trajetória com a música.
+    Lista de recomendações que o Kaique deixou->
+    <ul>
+      <li>+Llainwire</li>
+      <li>+Mixtape pra te impressionar do YungLixo</li>
+    </ul>
+  temporada: 3
+  yt-link:
+  deezer:
+  spotify:
+  img: /images/eps/S3E2.jpg
+  detalhes:
+
+
+

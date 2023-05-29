@@ -906,5 +906,42 @@
 		</itunes:subtitle>
 		<itunes:episodeType>full</itunes:episodeType>
 	</item>
+	<item>
+		<title>Gosto Musical do Kaique - S3E2</title>
+		<pubDate>Mon, 29 May 2023 09:30:00 +0000</pubDate>
+		<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2023-05-29-S3E2.mp3]]></link>
+		<itunes:image href="https://pds.luccaaugusto.xyz/images/eps/S3E2.jpg" />
+		<description>
+			<![CDATA[
+				Segundo episódio da série de entrevistas sobre gosto musical, dessa vez com Kaique,
+				que nos conta nos mínimos detalhes sua trajetória com a música.
+				Lista de recomendações que o Kaique deixou:
+					+Llainwire
+					+Mixtape pra te impressionar do YungLixo
+				]]>
+		</description>
+		<content:encoded>
+			<![CDATA[
+				Segundo episódio da série de entrevistas sobre gosto musical, dessa vez com Kaique,
+				que nos conta nos mínimos detalhes sua trajetória com a música.
+				Lista de recomendações que o Kaique deixou:
+					+Llainwire
+					+Mixtape pra te impressionar do YungLixo
+				]]>
+		</content:encoded>
+		<enclosure length="102521900" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2023-05-29-S3E2.mp3" />
+		<itunes:duration>00:53:23</itunes:duration>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:keywords>sauna,musica</itunes:keywords>
+		<itunes:subtitle><![CDATA[
+			Segundo episódio da série de entrevistas sobre gosto musical, dessa vez com Kaique,
+			que nos conta nos mínimos detalhes sua trajetória com a música.
+			Lista de recomendações que o Kaique deixou:
+				+Llainwire
+				+Mixtape pra te impressionar do YungLixo
+			]]>
+	</itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+</item>
 	</channel>
 </rss>
