@@ -940,8 +940,42 @@
 				+Llainwire
 				+Mixtape pra te impressionar do YungLixo
 			]]>
-	</itunes:subtitle>
-	<itunes:episodeType>full</itunes:episodeType>
-</item>
+		</itunes:subtitle>
+		<itunes:episodeType>full</itunes:episodeType>
+	</item>
+	<item>
+		<title>POCS Diante do Trono - S3E3</title>
+		<pubDate>Wed, 07 Jun 2023 09:30:00 +0000</pubDate>
+		<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2023-06-07-S3E3.mp3]]></link>
+		<itunes:image href="https://pds.luccaaugusto.xyz/images/eps/S3E3.jpg" />
+		<description>
+			<![CDATA[
+				Nesse episódio mais que espetacular temos Izaque e Douglas como convidados.
+				Os dois são gays que nasceram e cresceram em familias evangélicas, frequentando comunidades
+				evangélicas e trazem várias experiências sobre essa realidade. Certamente um dos episódios de
+				Papo de Sauna mais profundos. Preparem-se pra conhecer uma nova realidade.
+				]]>
+		</description>
+		<content:encoded>
+			<![CDATA[
+				Nesse episódio mais que espetacular temos Izaque e Douglas como convidados.
+				Os dois são gays que nasceram e cresceram em familias evangélicas, frequentando comunidades
+				evangélicas e trazem várias experiências sobre essa realidade. Certamente um dos episódios de
+				Papo de Sauna mais profundos. Preparem-se pra conhecer uma nova realidade.
+				]]>
+		</content:encoded>
+		<enclosure length="197488172" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2023-06-07-S3E3.mp3" />
+		<itunes:duration>01:42:51</itunes:duration>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:keywords>sauna,musica</itunes:keywords>
+		<itunes:subtitle><![CDATA[
+			Nesse episódio mais que espetacular temos Izaque e Douglas como convidados.
+			Os dois são gays que nasceram e cresceram em familias evangélicas, frequentando comunidades
+			evangélicas e trazem várias experiências sobre essa realidade. Certamente um dos episódios de
+			Papo de Sauna mais profundos. Preparem-se pra conhecer uma nova realidade.
+				]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 	</channel>
 </rss>
