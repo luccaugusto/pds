@@ -986,5 +986,33 @@
 			</itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
+		<item>
+			<title>Gosto musical do Lucca - S3E4</title>
+			<pubDate>Thu, 29 Jun 2023 09:30:00 +0000</pubDate>
+			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2023-06-29-S3E4.mp3]]></link>
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/eps/S3E4.jpg" />
+			<description>
+				<![CDATA[
+					Mais um episódio da série documentando gostos musicais. Dessa vez com Lucca, que nos conta
+					como desde sempre foi rockeiro, de um jeito levemente confuso mas ta valendo.
+					]]>
+			</description>
+			<content:encoded>
+				<![CDATA[
+					Mais um episódio da série documentando gostos musicais. Dessa vez com Lucca, que nos conta
+					como desde sempre foi rockeiro, de um jeito levemente confuso mas ta valendo.
+					]]>
+			</content:encoded>
+			<enclosure length="125012012" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2023-06-29-S3E4.mp3" />
+			<itunes:duration>01:05:06</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>sauna,musica</itunes:keywords>
+			<itunes:subtitle><![CDATA[
+				Mais um episódio da série documentando gostos musicais. Dessa vez com Lucca, que nos conta
+				como desde sempre foi rockeiro, de um jeito levemente confuso mas ta valendo.
+				]]>
+		</itunes:subtitle>
+		<itunes:episodeType>full</itunes:episodeType>
+	</item>
 	</channel>
 </rss>

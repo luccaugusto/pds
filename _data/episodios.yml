@@ -417,7 +417,19 @@
     </ul>
   temporada: 3
   yt-link:
-  deezer:
-  spotify:
+  deezer: https://deezer.page.link/m7cVbZyP7JLAfHEg7
+  spotify: https://open.spotify.com/episode/6pECvQ5a2KrSf5AyIYQcCG?si=c5ae46f0785f4460
   img: /images/eps/S3E3.jpg
   detalhes:
+
+- nome: PDS S3E4 - Gosto Musical do Lucca
+  url: /episodios/2023-06-29-S3E4.mp3
+  desc: Mais um episódio da série documentando gostos musicais. Dessa vez com Lucca, que nos conta
+    como desde sempre foi rockeiro, de um jeito levemente confuso mas ta valendo.
+  temporada: 3
+  yt-link:
+  deezer:
+  spotify:
+  img: /images/eps/S3E4.jpg
+  detalhes:
+
