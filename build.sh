@@ -4,8 +4,7 @@
 [ -d monologos ] || mkdir monologos
 
 bundle update &&
-JEKYLL_ENV=production &&
-bundle exec jekyll build
+JEKYLL_ENV=production bundle exec jekyll build
 
 #sobe so o ultimo episodio, os outros ja estao no servidor
 #ULTIMO=$(ls episodios | tail -1) &&

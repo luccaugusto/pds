@@ -6,19 +6,18 @@ title: Papo de Sauna
 {% assign temp = site.data.episodios[-1].temporada %}
 <div class="w50 mauto text-center flex flex-center">
 	<h1 class="backshadow">Episódios</h1>
-	<a href="crescente.html">
-        <svg class="ordem icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M13 12H21M13 8H21M13 16H21M6 7V17M6 7L3 10M6 7L9 10" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path> </g></svg>
+	<a onClick="trocaOrdem()">
+        <svg class="ordem icon clickable hidden" id="arrow-up" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M13 12H21M13 8H21M13 16H21M6 7V17M6 7L3 10M6 7L9 10" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path> </g></svg>
+        <svg class="ordem icon clickable" id="arrow-down" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M13 12H21M13 8H21M13 16H21M6 7V17M6 17L3 14M6 17L9 14" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path> </g></svg>
     </a>
 </div>
-	<div id="temporada-{{ temp }}">
-		<div class="central">
+<div class="flex flex-column reversible" id="episode-list">
+	<div id="temporada-{{ temp }}" class="central flex flex-column reversible">
 	{% for ep in site.data.episodios reversed %}
 		{% if ep.temporada != temp %}
-				</div>
 			</div>
 			{% assign temp = ep.temporada %}
-			<div id="temporada-{{ temp }}">
-				<div class="central">
+			<div id="temporada-{{ temp }}" class="central flex flex-column reversible">
 		{% endif %}
 		<div class="conteudo-{{ ep.temporada }} episodio">
 			<img class="fright ep-image" src="{% if ep.img %}{{ ep.img }}{% else %}{{ site.logo}}{% endif %}" alt="{{ ep.nome }}"/>
@@ -29,7 +28,7 @@ title: Papo de Sauna
 			</div>
 			{% if ep.detalhes %}
 				<a onclick="maisDetalhes('{{ forloop.index }}')">
-					<span class="mostrar-detalhes" id="mostrar-detalhes-ep-{{ forloop.index }}">Mostrar Detalhes</span>
+					<span class="clickable" id="clickable-ep-{{ forloop.index }}">Mostrar Detalhes</span>
 				</a>
 			{% endif %}
             <h4>Escute em:</h4>
@@ -68,5 +67,5 @@ title: Papo de Sauna
 		</div>
 	{% endfor %}
 		</div>
-	</div>
+    </div>
 </div>
