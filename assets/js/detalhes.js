@@ -1,18 +1,18 @@
 function maisDetalhes(div_id) {
-	var div = document.getElementById("div-"+div_id);
-	var label = document.getElementById("span-"+div_id);
+	const div = document.getElementById("div-ep-"+div_id);
+  const label = document.getElementById("mostrar-detalhes-ep-"+div_id);
 
 	if (div.style.display === 'none') {
 		div.style.display = 'block';
-		label.innerhtml='esconder';
+		label.textContent='Esconder Detalhes';
 	}else{
 		div.style.display = 'none';
-		label.innerhtml='mostrar detalhes';
+		label.textContent='Mostrar Detalhes';
 	}
 }
 
 function mostrarTemporada(div_id) {
-	var div = document.getElementById(div_id);
+	const div = document.getElementById(div_id);
 
 	if (div.style.display === 'none') {
 		div.style.display = 'block';

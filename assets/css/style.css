@@ -12,11 +12,10 @@ body {
 
 /* cor das tags a*/
 a {
-	/*temporada 1*/
 	color: #df29c9;
 }
 
-.bg{
+.bg {
 	/* temporada 0 */
 	/*background-color: #ffce44;*/
 
@@ -26,236 +25,316 @@ a {
 
 	/* temporada 2 */
 	color: #ff8701;
-	background: linear-gradient(0deg, rgba(255,135,1,1) 0%, rgba(239,255,1,1) 34%, rgba(78,230,50,1) 86%);
+	/* background: linear-gradient(0deg, rgba(255,135,1,1) 0%, rgba(239,255,1,1) 34%, rgba(78,230,50,1) 86%); */
 
+	background-color: #000;
 }
 
 .banner {
 	z-index: -1;
 	top: 0;
 }
-.container-img{
+.container-img {
 	width: 25%;
 	max-height: 25%;
 	overflow: hidden;
 	margin: 2pt;
 }
-.imagem{
+.imagem {
 	width: 100%;
 	display: table-cell;
 }
-.thumbnail{
+.thumbnail {
 	width: 90%;
 }
-.logo{
+.logo {
 	width: 10%;
 	position: absolute;
 	top: 20pt;
 	left: 50pt;
 
 }
-.galeria{
+.galeria {
 	margin: 0 5% auto;
 	text-align: center;
 	color: black;
 	padding: 0 15pt 0 15pt;
 }
-.central{
+.lista-episodios {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	margin: 0;
+	padding: 0;
+}
+.lista-episodios li {
+    list-style-type: none;
+    width: 25%;
+    background-color: #000;
+    padding: 8pt;
+    border-radius: 10pt;
+    line-height: 40px;
+    vertical-align: middle;
+	border: solid 2pt #fff;
+}
+.lista-episodios li a {
+	color: #fff;
+	text-decoration: none;
+}
+.play-button {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.central {
 	margin: 0 25% auto;
 	text-align: left;
 	color: black;
+	padding: 1pt 0;
 }
-.fundo-neutro{
+.mostrar-detalhes:hover {
+	cursor: pointer;
+}
+.detalhes {
+	text-align: justify;
+	padding: 10pt;
+	margin-bottom: 10pt;
+	background-color: #ffffff2e;
+	border-radius: 10pt;
+}
+.fundo-neutro {
 	/* temporada 1 */
 	background-color: #ecb44d;
-    box-shadow: 0px 0px 20px 20px #ff8100;
+	box-shadow: 0px 0px 20px 20px #ff8100;
 }
-.sidebar{
+.sidebar {
 	width: 20%;
 	position: absolute;
 	left: 2%;
 }
-.text-center{
+.text-center {
 	text-align: center;
 }
-.fright{
+.fright {
 	float: right;
 }
-.ordem{
-	position: relative;
-	left: 30%;
+.flex {
+	display: flex;
 }
-.geral{
+.flex-center {
+	align-items: center;
+	justify-content: center;
+}
+.ordem {
+	position: relative;
+	left: 100%;
+}
+.geral {
 	width: 100%;
 	height: 100%;
 	text-align: center;
 }
-.bipartido{
+.bipartido {
 	display: inline-flex;
+}
+.episodio {
+	border-radius: 10pt;
+	margin: 15pt;
+	text-align: justify;
+	border: 5pt solid;
+}
+.episodio > img {
+	border-radius: 5pt;
+	margin: 0 0 10pt 10pt;
+	max-width: 30%;
 }
 #temporada-0 {
 	padding: 20pt 0 0 0 ;
 }
-#temporada-0 > .central{
-    box-shadow: 0px 0px 20px 20px #ffd357;
+#temporada-0 > .central {
+	box-shadow: 0px 0px 20px 20px #ffd357;
+	background-color: #ffd357;
 }
-#temporada-1 > .central{
-    box-shadow: 0px 0px 20px 20px #00f3ff;
+#temporada-1 > .central {
+	box-shadow: 0px 0px 20px 20px #ad30ff;
+	background-color: #ad30ff;
 }
-#temporada-2 > .central{
-    box-shadow: 0px 0px 20px 20px #e2ff00;
+#temporada-1 a {
+	color: #ff7def;
 }
-#temporada-3 > .central{
+#temporada-2 > .central {
+	box-shadow: 0px 0px 20px 20px #e2ff00;
+	background-color: #e2ff00;
+}
+#temporada-3 > .central {
 	box-shadow: 0px 0px 20px 20px #00b8ff;
+	background-color: #00b8ff;
 }
-.conteudo-3{
+.conteudo-3 {
 	/* temporada 3 */
 	background-color: #ffa6f3;
 	padding: 2%;
 	min-height: 200pt;
+	border-color: #ff6aeb;
 }
-.conteudo-2{
+.conteudo-2 {
 	/* temporada 2 */
 	background-color: #f5b824;
 	padding: 2%;
 	min-height: 200pt;
+	border-color: #db9b00;
 }
-.conteudo-1{
+.conteudo-1 {
 	/* temporada 1 */
-	background-color: #9e9e9e;
+	background-color: #501da6;
+	color: #ddac38;
+	/* background-color: #d92487; */
 	padding: 2%;
 	min-height: 200pt;
+	border-color: #a57beb;
 }
-.conteudo-0{
+.conteudo-0 {
 	/* temporada 1 */
 	background-color: #ffe7a4;
 	padding: 2%;
 	min-height: 200pt;
+	border-color: #fffaeb;
 }
-.desktop-hidden{
+.hidden {
 	display: none;
 }
-.pradireita, .praesquerda{
+.desktop-hidden {
+	display: none;
+}
+.pradireita, .praesquerda {
 	text-align: justify;
 	padding: 15pt;
 }
-.praesquerda img{
+.praesquerda img {
 	float: right;
 	max-width: 50%;
 	max-height: 100%;
 	margin-left: 1%;
 }
-.pradireita img{
+.pradireita img {
 	float: left;
 	max-width: 50%;
 	max-height: 100%;
 	margin-right: 1%;
 }
-.font10{
+.font10 {
 	font-size: 10pt;
 }
-.font15{
+.font15 {
 	font-size: 15pt;
 }
-.font20{
+.font20 {
 	font-size: 20pt;
 }
-.font25{
+.font25 {
 	font-size: 25pt;
 }
-.m25{
+.m25 {
 	margin: 0 25pt;
 }
-.mauto{
+.mauto {
 	margin: auto;
 }
-.badge{
+.badge {
 	width: 180px;
 }
-.w25{
+.w25 {
 	width: 25%;
 }
-.w30m{
+.w30m {
 	max-width: 30%;
 }
-.w50{
+.w50 {
 	width: 50%;
 }
-.w75{
+.w75 {
 	width: 75%;
 }
-.w100{
+.w100 {
 	width: 100%;
 }
-.h100{
+.h100 {
 	height: 100%;
 }
-.font20{
+.font20 {
 	font-size: 20px;
 }
-.menuzinho{
+.menuzinho {
 	padding-top: 10pt;
 	text-align: center;
 	background-color: #000;
 }
-.icon-list{
-    display: flex;
-    flex-wrap: wrap;
-    align-content: space-between;
-    justify-content: center;
-    align-items: center;
-    margin: auto;
+.icon-list {
+	display: flex;
+	flex-wrap: wrap;
+	align-content: space-between;
+	justify-content: center;
+	align-items: center;
+	margin: auto;
 }
-.backshadow{
+.backshadow {
 	background-color: #0000006b;
 }
-.neutro{
+.neutro {
 	text-decoration: none;
 	/* temporada 1 */
 	color: #fc9900;
 }
-.linha{
+.linha {
 	width: 100%;
 	display: inline-flex;
 }
-.icon{
+.icon {
 	width: 40px;
 	margin: 5pt 0 0 0;
 }
+.icon-small {
+	width: 25px;
+}
 /* Responsivo */
 @media only screen and (max-width: 808px) {
-	.mobile-hidden{
+	.episodio > img {
+		max-width: 50%;
+	}
+	.mobile-hidden {
 		display: none;
 	}
-	.desktop-hidden{
+	.desktop-hidden {
 		display: block;
 	}
-	.central{
+	.central {
 		margin: unset;
 	}
-	.mtm5{
+	.mtm5 {
 		margin-top: -5%;
 	}
-	.sidebar{
+	.sidebar {
 		width: 20%;
 		position: absolute;
 		left: 3%;
 		top: 10%;
 	}
-	.imagem{
+	.imagem {
 		width: 40%;
 		display: block;
 	}
-	.wallpaper{
+	.wallpaper {
 		width: 100% !important;
 	}
-	.container-img{
+	.container-img {
 		width: 100% !important;
 	}
-	.linha{
+	.linha {
 		display: block;
 	}
-	#desc{
+	#desc {
 		width: unset;
 	}
 }

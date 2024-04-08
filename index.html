@@ -3,16 +3,13 @@ layout: default
 title: Papo de Sauna
 ---
 
-{% comment %} busca a numeracao da ultima temporada ja que esta em ordem decrescente {% endcomment %}
-{% assign temp = 0 %}
-{% for ep in site.data.episodios reversed %}
-	{% assign temp = ep.temporada %}
-	{% break %}
-{% endfor %}
-<div class="w50 mauto text-center">
+{% assign temp = site.data.episodios[-1].temporada %}
+<div class="w50 mauto text-center flex flex-center">
 	<h1 class="backshadow">Episódios</h1>
+	<a href="crescente.html">
+        <svg class="ordem icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M13 12H21M13 8H21M13 16H21M6 7V17M6 7L3 10M6 7L9 10" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path> </g></svg>
+    </a>
 </div>
-	<a href="crescente.html"><span class="ordem">Ordem crescente</span></a>
 	<div id="temporada-{{ temp }}">
 		<div class="central">
 	{% for ep in site.data.episodios reversed %}
@@ -23,32 +20,51 @@ title: Papo de Sauna
 			<div id="temporada-{{ temp }}">
 				<div class="central">
 		{% endif %}
-		<div class="conteudo-{{ ep.temporada }}">
-			<img class="fright w30m mobile-hidden" src="{% if ep.img %}{{ ep.img }}{% else %}{{ site.logo}}{% endif %}" alt="{{ ep.nome }}"/>
+		<div class="conteudo-{{ ep.temporada }} episodio">
+			<img class="fright ep-image" src="{% if ep.img %}{{ ep.img }}{% else %}{{ site.logo}}{% endif %}" alt="{{ ep.nome }}"/>
 			<h3>{{ ep.nome }}</h3>
 			<p>{{ ep.desc }}</p>
-            <h4>Escute em:</h4>
-			<ul>
-				<li><a href="{{ ep.url }}" target="_blank">Mp3</a></li>
-				{% if ep.yt-link %}
-				<li><a href="{{ ep.yt-link }}" target="_blank">Youtube</a></li>
-				{% endif %}
-				{% if ep.spotify %}
-					<li><a href="{{ ep.spotify }}" target="_blank">Spotify</a></li>
-				{% endif %}
-				{% if ep.deezer %}
-					<li><a href="{{ ep.deezer }}" target="_blank">Deezer</a></li>
-				{% endif %}
-			</ul>
-			{% if ep.detalhes %}
-				<a href="#ep-{{ forloop.index }}" id="ep-{{ forloop.index }}" onclick="maisDetalhes('ep-{{ forloop.index }}')">
-					<span class="fright mtm5" id="span-ep-{{ forloop.index }}">Mostrar detalhes</span>
-				</a>
-			{% endif %}
-			<div id="div-ep-{{ forloop.index }}" style="display: none">
-				<img class="w30m desktop-hidden" src="{{ ep.img }}" alt="{{ ep.nome }}"/>
+			<div id="div-ep-{{ forloop.index }}" class="detalhes" style="display: none">
 				{{ ep.detalhes }}
 			</div>
+			{% if ep.detalhes %}
+				<a onclick="maisDetalhes('{{ forloop.index }}')">
+					<span class="mostrar-detalhes" id="mostrar-detalhes-ep-{{ forloop.index }}">Mostrar Detalhes</span>
+				</a>
+			{% endif %}
+            <h4>Escute em:</h4>
+			<ul class="lista-episodios">
+				<li><a href="{{ ep.url }}" target="_blank">
+                    <div class="play-button">
+                        <img class="icon-small" src="/images/icons/music-icon.jpg"/>
+                        MP3
+                    </div>
+                </a></li>
+				{% if ep.yt-link %}
+				    <li><a href="{{ ep.yt-link }}" target="_blank">
+                        <div class="play-button">
+                            <img class="icon-small" src="/images/icons/youtube-icon.png"/>
+                            YouTube
+                        </div>
+                    </a></li>
+				{% endif %}
+				{% if ep.spotify %}
+                    <li><a href="{{ ep.spotify }}" target="_blank">
+                        <div class="play-button">
+                            <img class="icon-small" src="/images/icons/spotify-icon.png"/>
+                            Spotify
+                        </div>
+                    </a></li>
+				{% endif %}
+				{% if ep.deezer %}
+					<li><a href="{{ ep.deezer }}" target="_blank">
+                        <div class="play-button">
+                            <img class="icon-small" src="/images/icons/deezer-icon.png"/>
+                            Deezer
+                        </div>
+                    </a></li>
+				{% endif %}
+			</ul>
 		</div>
 	{% endfor %}
 		</div>
