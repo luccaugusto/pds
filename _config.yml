@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -26,8 +26,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pds.luccaaugusto.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: opapodesauna
 instagram_username: opapodesauna
-site_lucca: "https://luccaaugusto.xyz"
-portfolio_lucca: "https://portfolio.luccaaugusto.xyz"
+site_lucca: "https://blog.luccaaugusto.xyz"
+portfolio_lucca: "https://luccaaugusto.xyz"
 port_felipe: "https://fefer.luccaaugusto.xyz"
 spotify_url: "https://open.spotify.com/show/5VWdkyfClOExKXW0iVtjBk?si=RPFANC-FQny1Q7G87fYRXw"
 deezer_url: "https://www.deezer.com/us/show/1517652"

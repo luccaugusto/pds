@@ -3,7 +3,6 @@ layout: default
 title: Papo de Sauna
 ---
 
-{% assign temp = site.data.episodios[-1].temporada %}
 <div class="w50 mauto text-center flex flex-center">
 	<h1 class="backshadow">Episódios</h1>
 	<a onClick="trocaOrdem()">
@@ -12,14 +11,11 @@ title: Papo de Sauna
     </a>
 </div>
 <div class="flex flex-column reversible" id="episode-list">
+	{% for temporada in site.data.episodios reversed %}
+    {% assign temp = temporada.nome | remove_first: "temporada-"%}
 	<div id="temporada-{{ temp }}" class="central flex flex-column reversible">
-	{% for ep in site.data.episodios reversed %}
-		{% if ep.temporada != temp %}
-			</div>
-			{% assign temp = ep.temporada %}
-			<div id="temporada-{{ temp }}" class="central flex flex-column reversible">
-		{% endif %}
-		<div class="conteudo-{{ ep.temporada }} episodio">
+        {% for ep in temporada.episodios reversed%}
+		<div class="conteudo-{{ temp }} episodio">
 			<img class="fright ep-image" src="{% if ep.img %}{{ ep.img }}{% else %}{{ site.logo}}{% endif %}" alt="{{ ep.nome }}"/>
 			<h3>{{ ep.nome }}</h3>
 			<p>{{ ep.desc }}</p>
@@ -65,7 +61,8 @@ title: Papo de Sauna
 				{% endif %}
 			</ul>
 		</div>
+        {% endfor %}
+	</div>
 	{% endfor %}
-		</div>
     </div>
 </div>
