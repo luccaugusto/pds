@@ -10,7 +10,7 @@
 		<copyright><![CDATA[]]></copyright>
 		<docs>https://pds.luccaaugusto.xyz</docs>
 		<managingEditor>opapodesauna@gmail.com (opapodesauna@gmail.com)</managingEditor>
-		<itunes:summary><![CDATA[Um papo aleatório sobre diversos assuntos. Pega sua toalha e toma uma ducha que a sauna já ta quente.
+		<itunes:summary><![CDATA[Uma conversa de muita humidade sobre diversos assuntos. Pega sua toalha e toma uma ducha que a sauna já ta quente.
 			Aviso aos novos ouvintes: Se você acabou de chegar sugiro que comece pelo último episódio da temporada 0 ou pelo primeiro da temporada 1. A temporada 0 foi bem experimental e o ínicio é muito mais íntimo e sem rumo. É claro que a temporada 0 tem incríveis episódios, mas pode ser um pouco estranho se você não conhece a gente pessoalmente (talvez seja estranho mesmo se você já conheça a gente).]]></itunes:summary>
 		<image>
 			<url>https://pds.luccaaugusto.xyz/images/pds-logo.jpg</url>
@@ -19,13 +19,13 @@
 		</image>
 		<itunes:author>Papo de Sauna</itunes:author>
 		<itunes:keywords>sauna, entretenimento</itunes:keywords>
-		<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-s2-logo.jpg" />
+		<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:owner>
 			<itunes:name><![CDATA[Papo De Sauna]]></itunes:name>
 			<itunes:email>opapodesauna@gmail.com </itunes:email>
 		</itunes:owner>
-		<description><![CDATA[Um papo aleatório sobre diversos assuntos.]]></description>
+		<description><![CDATA[Uma conversa de muita humidade sobre diversos assuntos.]]></description>
 		<itunes:subtitle><![CDATA[Uma conversa de muita humidade]]></itunes:subtitle>
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://pds.luccaaugusto.xyz/pds.xml</itunes:new-feed-url>
@@ -35,7 +35,7 @@
 			<title>Primeiro Episódio S0E1</title>
 			<pubDate>Fri, 05 Jun 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-05-21-S0E1.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/icons/temp_0/pds_temp_0.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/eps/S0E1.jpg" />
 			<description><![CDATA[Primeiro episódio, falatório sem rumo saltitando por diversos assuntos interessantes.]]></description>
 			<content:encoded><![CDATA[Primeiro episódio, falatório sem rumo saltitando por diversos assuntos interessantes.]]></content:encoded>
 			<enclosure length="123373261" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-05-21-S0E1.mp3" />
@@ -49,7 +49,7 @@
 			<title>Redes sociais que deveríamos usar. Livro o corpo fala - S0E2</title>
 			<pubDate>Wed, 24 Jun 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-06-11-S0E2.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/icons/temp_0/pds_temp_0.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/eps/S0E2.jpg" />
 			<description><![CDATA[Redes sociais (ou coisas parecidas com elas) que não estamos usando e deveríamos estar usando. Falamos também do livro "o corpo fala" de Pierre Wel e Roland Tompakow.]]></description>
 			<content:encoded><![CDATA[Redes sociais (ou coisas parecidas com elas) que não estamos usando e deveríamos estar usando. Falamos também do livro "o corpo fala" de Pierre Wel e Roland Tompakow.]]></content:encoded>
 			<enclosure length="100886012" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-06-11-S0E2.mp3" />
@@ -63,7 +63,7 @@
 			<title>Vídeo Jogos e nostalgia - S0E3</title>
 			<pubDate>Wed, 01 Jul 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-06-25-S0E3.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/icons/temp_0/pds_temp_0.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/eps/S0E3.jpg" />
 			<description><![CDATA[Gente nova entrando na sauna, velhos amigos Luiz Mário e Fernando Takayanagi já chegam relembrando as épocas de jogatina insana. Nesse episódio falamos sobre videogames e como influenciaram nossas vidas, avisamos sobre os perigos de entrar no mundo do MOBA e deixamos nossas recomendações de jogos.]]></description>
 			<content:encoded><![CDATA[Gente nova entrando na sauna, velhos amigos Luiz Mário e Fernando Takayanagi já chegam relembrando as épocas de jogatina insana. Nesse episódio falamos sobre videogames e como influenciaram nossas vidas, avisamos sobre os perigos de entrar no mundo do MOBA e deixamos nossas recomendações de jogos.]]></content:encoded>
 			<enclosure length="145668249" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-06-25-S0E3.mp3" />
@@ -77,7 +77,7 @@
 			<title>Inteligencia Artificial - S0E4</title>
 			<pubDate>Wed, 08 Jul 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-07-08-S0E4.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/icons/temp_0/pds_temp_0.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/eps/S0E4.jpg" />
 			<description><![CDATA[Conversando sobre inteligencia artificial. Lucca milita sobre linux (de novo). Muitas sugestões de filmes incríveis sobre o assunto.]]></description>
 			<content:encoded><![CDATA[Conversando sobre inteligencia artificial. Lucca milita sobre linux (de novo). Muitas sugestões de filmes incríveis sobre o assunto.]]></content:encoded>
 			<enclosure length="151316968" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-07-08-S0E4.mp3" />
@@ -91,7 +91,7 @@
 			<title>ANIMES - S0E5</title>
 			<pubDate>Wed, 15 Jul 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-07-15-S0E5.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/icons/temp_0/pds_temp_0.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/eps/S0E5.jpg" />
 			<description><![CDATA[Animes, waifus e tudo que há de bom. Junte-se a nós nessa conversa sobre a oitava maravilha do mundo. Ao lado de Richard Mariano e Kaique Augusto xingamos shonens e isekais, desprezamos ecchi e exaltamos bons animes.]]></description>
 			<content:encoded><![CDATA[Animes, waifus e tudo que há de bom. Junte-se a nós nessa conversa sobre a oitava maravilha do mundo. Ao lado de Richard Mariano e Kaique Augusto xingamos shonens e isekais, desprezamos ecchi e exaltamos bons animes.]]></content:encoded>
 			<enclosure length="177698551" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-07-15-S0E5.mp3" />
@@ -105,7 +105,7 @@
 			<title>Livros, adaptações e opiniões - S0E6</title>
 			<pubDate>Wed, 22 Jul 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-07-22-S0E6.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/icons/temp_0/pds_temp_0.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/eps/S0E6.jpg" />
 			<description><![CDATA[Ahh os livros. Nesse episódio falamos sobre o que achamos de livros, se o kindle vai cometer genocídio sobre os livros físicos, adaptações merda e mais.]]></description>
 			<content:encoded><![CDATA[Ahh os livros. Nesse episódio falamos sobre o que achamos de livros, se o kindle vai cometer genocídio sobre os livros físicos, adaptações merda e mais.]]></content:encoded>
 			<enclosure length="185813229" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-07-22-S0E6.mp3" />
@@ -119,7 +119,7 @@
 			<title>Filmes, Morra Hollywood - S0E7</title>
 			<pubDate>Wed, 29 Jul 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-07-29-S0E7.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/icons/temp_0/pds_temp_0.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/eps/S0E7.jpg" />
 			<description><![CDATA[Foda-se ficou grande mesmo. Versão extendida. Nesse episódio, presenteados com a primeira presença feminina no PDS, falamos muito de filmes. Filmes bons, O Resgate, filmes ruins, O Resgate, serviços de streaming, O Resgate, etc. Pagamos de cinéfilos um pouco e discutimos sobre o que é um bom filme. Adeus filmes de Hollywood, a moda agora é filmes que tenham conteúdo. E é claro, falamos um pouco mais sobre O Resgate.]]></description>
 			<content:encoded><![CDATA[Foda-se ficou grande mesmo. Versão extendida. Nesse episódio, presenteados com a primeira presença feminina no PDS, falamos muito de filmes. Filmes bons, O Resgate, filmes ruins, O Resgate, serviços de streaming, O Resgate, etc. Pagamos de cinéfilos um pouco e discutimos sobre o que é um bom filme. Adeus filmes de Hollywood, a moda agora é filmes que tenham conteúdo. E é claro, falamos um pouco mais sobre O Resgate.]]></content:encoded>
 			<enclosure length="259513017" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-07-29-S0E7.mp3" />
@@ -133,7 +133,7 @@
 			<title>Perguntas e quase respostas - S0E8</title>
 			<pubDate>Wed, 05 Aug 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-08-05-S0E8.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/icons/temp_0/pds_temp_0.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/eps/S0E8.jpg" />
 			<description><![CDATA[Divagamos sobre muitos assuntos. Uma pergunta aleatória de um site de 500 e poucas perguntas começa discussões que não tem nada a ver com o tema original da pergunta, nada diferente do papo de sauna.
 ]]></description>
 			<content:encoded><![CDATA[Divagamos sobre muitos assuntos. Uma pergunta aleatória de um site de 500 e poucas perguntas começa discussões que não tem nada a ver com o tema original da pergunta, nada diferente do papo de sauna.
@@ -150,7 +150,7 @@
 			<title>TRANSAções na internet (vulgo tinder) - S0E9</title>
 			<pubDate>Wed, 12 Aug 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-08-12-S0E9.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/icons/temp_0/pds_temp_0.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/eps/S0E9.jpg" />
 			<description><![CDATA[Esse episódio foi o terceiro episódio que gravamos mas o Caio trollou com o microfone e o Lucca regravou o áudio dele, por isso ta lançando com 2 meses de atraso. Tem uma voz bizarra no meio que é a que representa a voz do Caio. Falamos sobre tinder e apps de relacionamentos, nossas experiências com eles e o que achamos da ideia.]]></description>
 			<content:encoded><![CDATA[Esse episódio foi o terceiro episódio que gravamos mas o Caio trollou com o microfone e o Lucca regravou o áudio dele, por isso ta lançando com 2 meses de atraso. Tem uma voz bizarra no meio que é a que representa a voz do Caio. Falamos sobre tinder e apps de relacionamentos, nossas experiências com eles e o que achamos da ideia.]]></content:encoded>
 			<enclosure length="112465572" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-08-12-S0E9.mp3" />
@@ -164,7 +164,7 @@
 			<title>Músicas, rexpeita o funk e rap de anime - S0E10</title>
 			<pubDate>Wed, 20 Aug 2020 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-08-20-S0E10.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/icons/temp_0/pds_temp_0.png" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/eps/S0E10.jpg" />
 			<description><![CDATA[Olhamos pra trás buscando as músicas que ouvíamos antigamente. Nostalgia. NÃO SINTA VERGONHA DO SEUS RAPS DE ANIME. Logo em seguida avaliamos o valor da música culturalmente, por que brasileiro não gosta de música brasileira? Por que tanto preconceito com o funk? respostas para essas e outras perguntas no Papo De Sauna. Além disso este é o último episódio da temporada zero, prepare-se para uma íNcRíVéL PRIMEIRA TEMPORADA.]]></description>
 			<content:encoded><![CDATA[Olhamos pra trás buscando as músicas que ouvíamos antigamente. Nostalgia. NÃO SINTA VERGONHA DO SEUS RAPS DE ANIME. Logo em seguida avaliamos o valor da música culturalmente, por que brasileiro não gosta de música brasileira? Por que tanto preconceito com o funk? respostas para essas e outras perguntas no Papo De Sauna. Além disso este é o último episódio da temporada zero, prepare-se para uma íNcRíVéL PRIMEIRA TEMPORADA.]]></content:encoded>
 			<enclosure length="165991514" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2020-08-20-S0E10.mp3" />
@@ -430,7 +430,7 @@
 			<title>O Futuro do Papo De Sauna - S1E10</title>
 			<pubDate>Sun, 03 Jan 2021 14:00:00 +0000</pubDate>
 			<link><![CDATA[https://pds.luccaaugusto.xyz/episodios/2021-01-03-S1E10.mp3]]></link>
-			<itunes:image href="https://pds.luccaaugusto.xyz/images/pds-logo.jpg" />
+			<itunes:image href="https://pds.luccaaugusto.xyz/images/S1E10.jpg" />
 			<description><![CDATA[Veja todas nossas ideias sobre o que queríamos que fosse o Papo de Sauna e a temporada 2. Esse episódio foi gravado antes de decretarmos a morte do Papo de Sauna,e só conseguimos lançar muito tempo depois. Deleite-se com nossos erros.]]></description>
 			<content:encoded><![CDATA[Veja todas nossas ideias sobre o que queríamos que fosse o Papo de Sauna e a temporada 2. Esse episódio foi gravado antes de decretarmos a morte do Papo de Sauna,e só conseguimos lançar muito tempo depois. Deleite-se com nossos erros.]]></content:encoded>
 			<enclosure length="110989101" type="audio/mpeg" url="https://pds.luccaaugusto.xyz/episodios/2021-01-03-S1E10.mp3" />

@@ -11,7 +11,7 @@ title: Papo de Sauna
     </a>
 </div>
 <div class="flex flex-column reversible" id="episode-list">
-	{% for temporada in site.data.episodios reversed %}
+	{% for temporada in site.data.temporadas reversed %}
     {% assign temp = temporada.nome | remove_first: "temporada-"%}
 	<div id="temporada-{{ temp }}" class="central flex flex-column reversible">
         {% for ep in temporada.episodios reversed%}

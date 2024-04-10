@@ -1,5 +1,5 @@
 <ul>
-    {% for temporada in site.data.episodios %}
+    {% for temporada in site.data.temporadas %}
     {% assign temp = temporada.nome | remove_first: "temporada-"%}
 	<li>
         <a href="#li-temp-{{ temp }}" id="li-temp-{{ temp }}" onclick="mostrarTemporada('temporada-{{temp}}')">
