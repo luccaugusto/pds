@@ -1011,8 +1011,65 @@
 				Mais um episódio da série documentando gostos musicais. Dessa vez com Lucca, que nos conta
 				como desde sempre foi rockeiro, de um jeito levemente confuso mas ta valendo.
 				]]>
-		</itunes:subtitle>
-		<itunes:episodeType>full</itunes:episodeType>
-	</item>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2024-15-02-S3E5.mp3</guid>
+			<title>PDS S3E5 - Adeus 2023, Annyeong-Haseyo 2024</title>
+			<pubDate>Tue, 30 Jan 2024 09:30:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2024-15-02-S3E5.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S3E5.jpg'/>
+			<description>
+				<![CDATA[Mantendo a tradição, Felipe, Kaique e Lucca conversam sobre como foi o ano de 2023 e como estão os planos pra 2024. E que fiquem registradas aqui todas as respostas de cada um para as perguntas.
+			Metas para 2023 (3'31")
+			 Kaique - triste noticia, metas eram ler pelo menos um livro e estudar
+			 Não realizou. Leu um livro e decidiu que não vale a pena.
+			 Não estudou pois já sabe muito.
+
+			 Lucca - boas e mas noticias, metas eram pegar um bichinho na maquina de garra e conseguir um emprego
+			 Perdeu 2 empregos mas conseguiu pegar um pinguim azul depois de tentar por alguns meses
+
+			 Felipe - top 1 batedor de metas do papo de sauna, metas eram ser aprovado no mestrado em uma universidade em Braga, juntar grana pra mudar e ler livros.
+			 Conseguiu juntar grana e entrar no mestrado de psicologia da educação
+			 Leu livros na faculdade.
+
+			 Questionamentos e lutas do ano (20'00")
+			 Kaique - perdeu o brilho no olhar (como recuperar) (desrealizacao)
+			 Lucca - o que fazer da vida, e o relacionamento com NaiNai
+			 Felipe - questionamento pré-mudança -> o que realmente quer e não quer em um relacionamento amoroso
+			 Questionamento pós-mudança -> valor da bolha academia na sociedade e produção acadêmica
+
+			 Melhor coisa do ano (42'15")
+			 Kaique - Retiro espiritual pro sitio da Fernanda e subsequente documentário sobre tal retiro.
+			 Lucca - Namoro com a Nai S2, entrar como aprendiz na casa trama ateliê (estúdio de tatuagem de alto nível) e terapia.
+			 Felipe - Ter se mudado de Covilhã (vulgo bad vibes land). Cidade onde todo mundo ou é bancado pelos pais ou é absolutamente explorado pelo capitalismo e todos usam drogas (menos o Felipe, fica tranquila Maire) me prenderam nessa cidade.mp4 (https://youtu.be/FNga0F9FpZQ?si=XQ7JMyATbdPNbW55).
+
+			 Como eu me vejo agora (1°09'00")
+			 Kaique - Imaturo criativamente, tem que começar a fazer o que quer. Meio frustrado de não estar fazendo o que quer. No geral se vê bem, melhorou a desrealização desligando o cérebro.
+			 Lucca - frustrado com onde está na vida porém esperançoso com para onde está indo
+			 Felipe -  com frio, mas não muito. Se vê capaz de aplicar tudo que tem aprendido nesses últimos anos. Se sente uma pessoa coerente e presente. Uma pessoa feliz.
+
+			 O que vai mudar de acordo com o que aprendeu esse ano (1°30'00")
+			 Kaique - Por ter visto algo que queria que desse certo dar certo, me fez perceber que eu consigo fazer o que quero.
+			 Lucca - Dedicar ao que não me interessa tanto e manter uma vida mais equilibrada, ao invés de focar em ser produtivo e ficar pilhadão e não conseguir fazer muito no final
+			 Felipe - Valorizar o que me faz bem mais do que tapa um buraco. Repensar relações
+
+			 Metas para 2024 (1°38'00")
+			 Kaique - Fazer alguma coisa do caderninho. Fazer um documentário pra viagem de Porto Seguro e um documentário pra viagem pro sitio de uma amiga.
+			 Lucca - Renda mensal. Gravar mais videos de skate. Manter uma vida equilibrada entre trabalho, arte e skate.
+			 Felipe - Desenvolver uma tese com Pedro Rosário. Ter um projeto de iniciação cientifica remunerado. Ler 12 livros no ano. Manter uma media superior ou igual a 85%. Gravar mais videos de skate. Gravar mais podcasts.]]>
+			</description>
+			<enclosure length='184075053' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2024-15-02-S3E5.mp3'/>
+			<itunes:duration>01:35:52</itunes:duration>
+			<itunes:explic>true</itunes:explic>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Mantendo a tradição, Felipe, Kaique e Lucca conversam sobre como foi o ano de 2023 e como estão os planos pra 2024. E que fiquem registradas aqui todas as respostas de cada um para as perguntas.]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 	</channel>
 </rss>
