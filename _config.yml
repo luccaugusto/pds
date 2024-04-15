@@ -50,7 +50,7 @@ podcast:
   datetime_format_string: '%a, %d %b %Y %H:%M:%S %z'
   author: 'Papo De Sauna'
   language: 'pt-BR'
-  feed_file: 'new-pds.xml'
+  feed_file: 'pds.xml'
   keywords: "sauna, entretenimento, humor, filosofia"
   episode_data:
     - monologos
