@@ -48,11 +48,11 @@ class FeedGenerator
     atom_link.set_propperty 'rel', 'self'
     atom_link.set_propperty 'type', 'application/rss+xml'
     channel.add_child atom_link
-    channel.add_child XMLFeed::XMLNode.new('title', content: @config['title'])
-    channel.add_child XMLFeed::XMLNode.new('pubDate', content: @episode_list[0]['pub_date'])
-    channel.add_child XMLFeed::XMLNode.new('lastBuildDate', content: build_date)
-    channel.add_child XMLFeed::XMLNode.new('link', content: base_url)
-    channel.add_child XMLFeed::XMLNode.new('language', content: 'pt')
+    channel.add_child XMLFeed::XMLNode.new 'title', content: @config['title']
+    channel.add_child XMLFeed::XMLNode.new 'pubDate', content: @episode_list[0]['pub_date']
+    channel.add_child XMLFeed::XMLNode.new 'lastBuildDate', content: build_date
+    channel.add_child XMLFeed::XMLNode.new 'link', content: base_url
+    channel.add_child XMLFeed::XMLNode.new 'language', content: 'pt'
     channel.add_child(
       XMLFeed::XMLNode.new(
         'copyright',
@@ -74,25 +74,19 @@ class FeedGenerator
     channel.add_child category
     channel.add_child XMLFeed::XMLNode.new('itunes:keywords', content: @config['podcast']['keywords'])
     channel.add_child XMLFeed::XMLNode.new('itunes:image', propperties: { href: "#{base_url}#{@config['logo']}" })
-    channel.add_child XMLFeed::XMLNode.new('itunes:explict', content: 'true')
+    channel.add_child XMLFeed::XMLNode.new('itunes:explicit', content: true)
     owner = XMLFeed::XMLNode.new 'itunes:owner'
-    owner.add_child(XMLFeed::XMLNode.new('itunes:email', content: @config['email']))
-    itunes_name = XMLFeed::XMLNode.new 'itunes:name'
-    itunes_name.add_child XMLFeed::XMLNode.new('cdata', content: @config['title'])
-    owner.add_child(itunes_name)
+    owner.add_child XMLFeed::XMLNode.new('itunes:email', content: @config['email'])
+    owner.add_child XMLFeed::XMLNode.new('itunes:name', content: @config['title'])
     channel.add_child owner
-    description = XMLFeed::XMLNode.new 'description'
-    description.add_child(XMLFeed::XMLNode.new('cdata', content: desc, cdata: true))
-    channel.add_child description
-    subtitle = XMLFeed::XMLNode.new 'itunes:subtitle'
-    subtitle.add_child(
+    channel.add_child(XMLFeed::XMLNode.new('description', content: desc, cdata: true))
+    channel.add_child(
       XMLFeed::XMLNode.new(
-        'cdata',
+        'itunes:subtitle',
         content: @config['short_description'],
         cdata: true
       )
     )
-    channel.add_child subtitle
     channel.add_child XMLFeed::XMLNode.new('itunes:type', content: 'episodic')
     channel.add_child XMLFeed::XMLNode.new('itunes:new-feed-url', content: "#{base_url}/#{feed_file}")
     channel.add_children generate_episode_items
@@ -109,23 +103,17 @@ class FeedGenerator
       next if episode['hide']
 
       description = format_description(episode['desc'], details: episode['detalhes'], indent_level: 3)
-      subtitle = format_description(
-        episode['desc'].length > 255 ? "#{episode['desc'].slice(0, 252)}..." : episode['desc']
-      )
+      subtitle = format_subtitle(episode['desc'])
       current_item = XMLFeed::XMLNode.new 'item'
       current_item.add_child XMLFeed::XMLNode.new('guid', content: "#{@config['url']}#{episode['url']}")
       current_item.add_child XMLFeed::XMLNode.new('title', content: episode['nome'])
       current_item.add_child XMLFeed::XMLNode.new('pubDate', content: episode['pub_date'])
-      link = XMLFeed::XMLNode.new 'link'
-      link.add_child(XMLFeed::XMLNode.new('cdata', cdata: true, content: "#{@config['url']}#{episode['url']}"))
-      current_item.add_child link
+      current_item.add_child(XMLFeed::XMLNode.new('link', cdata: true, content: "#{@config['url']}#{episode['url']}"))
       current_item.add_child XMLFeed::XMLNode.new(
         'itunes:image',
         propperties: { href: "#{@config['url']}#{episode['img']}" }
       )
-      description_attr = XMLFeed::XMLNode.new 'description'
-      description_attr.add_child(XMLFeed::XMLNode.new('cdata', cdata: true, content: description))
-      current_item.add_child description_attr
+      current_item.add_child XMLFeed::XMLNode.new('description', cdata: true, content: description)
       current_item.add_child(
         XMLFeed::XMLNode.new(
           'enclosure',
@@ -137,14 +125,12 @@ class FeedGenerator
         )
       )
       current_item.add_child XMLFeed::XMLNode.new('itunes:duration', content: episode_duration(episode['url']))
-      current_item.add_child XMLFeed::XMLNode.new('itunes:explic', content: true)
+      current_item.add_child XMLFeed::XMLNode.new('itunes:explicit', content: true)
       current_item.add_child XMLFeed::XMLNode.new(
         'itunes:keywords',
         content: @config['podcast']['keywords']
       )
-      subtitle_attr = XMLFeed::XMLNode.new('itunes:subtitle')
-      subtitle_attr.add_child(XMLFeed::XMLNode.new('cdata', content: subtitle, cdata: true))
-      current_item.add_child subtitle_attr
+      current_item.add_child XMLFeed::XMLNode.new('itunes:subtitle', content: subtitle, cdata: true)
       current_item.add_child XMLFeed::XMLNode.new('itunes:episodeType', content: 'full')
       episode_items << current_item
     rescue StandardError => e
@@ -153,7 +139,7 @@ class FeedGenerator
     episode_items
   end
 
-  def format_description(description, details: '', indent_level: 0)
+  def format_description(description, details: '', indent_level: 0, strip_all: false)
     indentation = "\t" * indent_level
     description = "#{description}\n#{indentation}#{details}".gsub '</br>', "\n#{indentation}"
     description.gsub! '<p>', ''
@@ -163,9 +149,18 @@ class FeedGenerator
     description.gsub! '</li>', ''
     description.gsub! '</ul>', "\n#{indentation}"
 
-    # strip rest of html tags (a tags are allowed)
-    description.gsub!(%r{<[^a][^a]/?[^>]+>}, '')
+    if strip_all
+      description.gsub!(/<.?[^>]+>/, '')
+    else
+      # strip rest of html tags (a tags are allowed)
+      description.gsub!(%r{<[^a][^a]/?[^>]+>}, '')
+    end
     description.strip
+  end
+
+  def format_subtitle(subtitle)
+    desc = format_description(subtitle, strip_all: true)
+    desc.length > 255 ? "#{desc.slice(0, 252)}..." : desc
   end
 
   def episode_bytes_length(episode_path)
@@ -237,8 +232,8 @@ module XMLFeed
 
     def header
       "<?xml version='1.0' encoding='UTF-8'?>\n<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'"\
-      "xmlns:cc='http://web.resource.org/cc/' xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd'"\
-      "xmlns:media='http://search.yahoo.com/mrss/' xmlns:content='http://purl.org/rss/1.0/modules/content/' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>\n"
+      " xmlns:cc='http://web.resource.org/cc/' xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd'"\
+      " xmlns:media='http://search.yahoo.com/mrss/' xmlns:content='http://purl.org/rss/1.0/modules/content/' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>\n"
     end
 
     def footer
@@ -285,25 +280,25 @@ module XMLFeed
       @children += children
     end
 
-    def open_tag
+    def open_tag(indent_level)
       if @cdata
-        '<![CDATA['
+        "<#{@tag_name}>\n#{"\t" * indent_level}<![CDATA["
       elsif @propperties.empty?
         "<#{@tag_name}>"
       else
         prop_string = @propperties.reduce('') { |prev, values| "#{prev} #{values[0]}='#{values[1]}'" }
-        "<#{@tag_name} #{prop_string.strip}#{@content ? '' : '/'}>"
+        "<#{@tag_name} #{prop_string.strip}#{@content ? '' : ' /'}>"
       end
     end
 
     def to_s(indent_level = 1)
-      result_str = "#{"\t" * indent_level}#{open_tag}"
+      result_str = "#{"\t" * indent_level}#{open_tag(indent_level + 1)}"
       if parent?
         result_str += "\n"
         @children.each { |child| result_str += child.to_s(indent_level + 1) }
         result_str += "#{"\t" * indent_level}</#{@tag_name}>"
       elsif @propperties.empty?
-        result_str += "#{@content}#{@cdata ? ']]>' : "</#{@tag_name}>"}"
+        result_str += "#{@content}#{@cdata ? "]]>\n#{"\t" * indent_level}" : ''}</#{@tag_name}>"
       end
       "#{result_str}\n"
     end
