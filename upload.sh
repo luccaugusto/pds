@@ -1,14 +1,13 @@
 #!/bin/sh
 
-echo "UPLOADING"
-rsync -avz _site/ root@luccaaugusto.xyz:/var/www/pds.luccaaugusto.xyz/html/
+#sobe so o ultimo episodio e monologo, os outros ja estao no servidor
+ep=$(ls episodios | tail -1) &&
+[ "$ep" ] &&
+rsync -avz "episodios/$ep" root@luccaaugusto.xyz:/var/www/pds.luccaaugusto.xyz/html/episodios &&
 
-#echo "UPDATE GIT"
-#EP=$(ls _site/episodios/)
-#MON=$(ls _site/monologos/)
-#
-#[ "$EP" ] && MSG="update relacionado a "$EP
-#[ "$MON" ] && MSG="update relacionado a "$MON
-#git add .
-#git commit #-m "$MSG"
-#git push
+mono=$(ls monologos | tail -1) &&
+[ "$mono" ] &&
+rsync -avz "monologos/$mono" root@luccaaugusto.xyz:/var/www/pds.luccaaugusto.xyz/html/monologos &&
+
+# dispara CICD
+git push
