@@ -1,0 +1,1113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom' xmlns:cc='http://web.resource.org/cc/' xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd' xmlns:media='http://search.yahoo.com/mrss/' xmlns:content='http://purl.org/rss/1.0/modules/content/' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+	<channel>
+		<atom:link href='https://pds.luccaaugusto.xyz/pds.xml' rel='self' type='application/rss+xml' />
+		<title>Papo de Sauna</title>
+		<pubDate>Fri, 05 Jun 2020 14:00:00 +0000</pubDate>
+		<lastBuildDate>Mon, 15 Apr 2024 19:39:25 -0300</lastBuildDate>
+		<link>https://pds.luccaaugusto.xyz</link>
+		<language>pt</language>
+		<copyright>
+			<![CDATA[Papo de Sauna 2024, todos os direitos reservados.]]>
+		</copyright>
+		<docs>https://pds.luccaaugusto.xyz</docs>
+		<managingEditor>lucca@luccaaugusto.xyz (Lucca Augusto)</managingEditor>
+		<itunes:summary>
+			<![CDATA[Uma conversa de muita humidade sobre diversos assuntos. Pega sua toalha e toma uma ducha que a sauna já ta quente. Aviso aos novos ouvintes: Se você acabou de chegar sugiro que
+  comece pelo último episódio da temporada 0 ou pelo primeiro da temporada 1.
+  A temporada 0 foi bem experimental e o ínicio é muito mais íntimo e sem rumo.
+  É claro que a temporada 0 tem incríveis episódios, mas pode ser um pouco estranho
+  se você não conhece a gente pessoalmente (talvez seja estranho mesmo se você já conheça a gente).]]>
+		</itunes:summary>
+		<image>
+			<url>https://pds.luccaaugusto.xyz/images/pds-logo.jpg</url>
+			<title>Papo de Sauna</title>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz]]>
+			</link>
+		</image>
+		<itunes:author>Papo De Sauna</itunes:author>
+		<itunes:category text='Society &amp; Culture' />
+		<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+		<itunes:image href='https://pds.luccaaugusto.xyz/images/pds-logo.jpg' />
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:owner>
+			<itunes:email>opapodesauna@gmail.com</itunes:email>
+			<itunes:name>Papo de Sauna</itunes:name>
+		</itunes:owner>
+		<description>
+			<![CDATA[Uma conversa de muita humidade sobre diversos assuntos. Pega sua toalha e toma uma ducha que a sauna já ta quente. Aviso aos novos ouvintes: Se você acabou de chegar sugiro que
+  comece pelo último episódio da temporada 0 ou pelo primeiro da temporada 1.
+  A temporada 0 foi bem experimental e o ínicio é muito mais íntimo e sem rumo.
+  É claro que a temporada 0 tem incríveis episódios, mas pode ser um pouco estranho
+  se você não conhece a gente pessoalmente (talvez seja estranho mesmo se você já conheça a gente).]]>
+		</description>
+		<itunes:subtitle>
+			<![CDATA[Uma conversa de muita humidade sobre diversos assuntos]]>
+		</itunes:subtitle>
+		<itunes:type>episodic</itunes:type>
+		<itunes:new-feed-url>https://pds.luccaaugusto.xyz/pds.xml</itunes:new-feed-url>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2020-05-21-S0E1.mp3</guid>
+			<title>Primeiro Episódio - S0E1</title>
+			<pubDate>Fri, 05 Jun 2020 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-05-21-S0E1.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S0E1.jpg' />
+			<description>
+				<![CDATA[Primeiro episódio, falatório sem rumo saltitando por diversos assuntos interessantes.
+			<a href="https://pds.luccaaugusto.xyz/images/originals/S0E1.jpg" target="blank">Imagem original</a>]]>
+			</description>
+			<enclosure length='123373261' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2020-05-21-S0E1.mp3' />
+			<itunes:duration>00:51:24</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Primeiro episódio, falatório sem rumo saltitando por diversos assuntos interessantes.]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2020-06-11-S0E2.mp3</guid>
+			<title>Redes sociais que deveríamos usar. Livro o corpo fala - S0E2</title>
+			<pubDate>Wed, 24 Jun 2020 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-06-11-S0E2.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S0E2.jpg' />
+			<description>
+				<![CDATA[Redes sociais (ou coisas parecidas com elas) que não estamos usando e deveríamos estar usando. Falamos também do livro "o corpo fala" de Pierre Wel e Roland Tompakow. <a href="https://www.youtube.com/watch?time_continue=1639&v=OE12-oUC9zE&feature=emb_title">Playlist das músicas de fundo</a>
+			<a href="https://pds.luccaaugusto.xyz/images/originals/S0E2.jpg" target="blank">Imagem original</a>]]>
+			</description>
+			<enclosure length='100886012' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2020-06-11-S0E2.mp3' />
+			<itunes:duration>00:42:02</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Redes sociais (ou coisas parecidas com elas) que não estamos usando e deveríamos estar usando. Falamos também do livro "o corpo fala" de Pierre Wel e Roland Tompakow. Playlist das músicas de fundo]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2020-06-25-S0E3.mp3</guid>
+			<title>Vídeo Jogos e Nostalgia - S0E3</title>
+			<pubDate>Wed, 01 Jul 2020 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-06-25-S0E3.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S0E3.jpg' />
+			<description>
+				<![CDATA[Gente nova entrando na sauna, velhos amigos Luiz Mário e Fernando Takayanagi já chegam relembrando as épocas de jogatina insana. Nesse episódio falamos sobre videogames e como influenciaram nossas vidas, avisamos sobre os perigos de entrar no mundo do MOBA e deixamos nossas recomendações de jogos.
+			<a href="https://pds.luccaaugusto.xyz/images/originals/S0E3.jpg" target="blank">Imagem original</a>]]>
+			</description>
+			<enclosure length='145668249' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2020-06-25-S0E3.mp3' />
+			<itunes:duration>01:00:41</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Gente nova entrando na sauna, velhos amigos Luiz Mário e Fernando Takayanagi já chegam relembrando as épocas de jogatina insana. Nesse episódio falamos sobre videogames e como influenciaram nossas vidas, avisamos sobre os perigos de entrar no mundo do ...]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2020-07-08-S0E4.mp3</guid>
+			<title>IA - S0E4</title>
+			<pubDate>Wed, 08 Jul 2020 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-07-08-S0E4.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S0E4.jpg' />
+			<description>
+				<![CDATA[Conversando sobre inteligencia artificial. Lucca milita sobre linux (de novo). Muitas sugestões de filmes incríveis sobre o assunto.
+			<a href="https://pds.luccaaugusto.xyz/images/originals/S0E4.jpg" target="blank">Imagem original</a>Filmes recomendados:
+
+			 + Ex Machina
+			 + What the health
+			 + Cowspiracy
+			 + Série onisciente
+			<a href="https://pds.luccaaugusto.xyz/images/detalhes/AI/softVsHard.png">Tabela software vs hardware:</a>]]>
+			</description>
+			<enclosure length='151316968' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2020-07-08-S0E4.mp3' />
+			<itunes:duration>01:03:02</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Conversando sobre inteligencia artificial. Lucca milita sobre linux (de novo). Muitas sugestões de filmes incríveis sobre o assunto.]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2020-07-15-S0E5.mp3</guid>
+			<title>ANIMES - S0E5</title>
+			<pubDate>Wed, 15 Jul 2020 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-07-15-S0E5.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S0E5.jpg' />
+			<description>
+				<![CDATA[Animes, waifus e tudo que há de bom. Junte-se a nós nessa conversa sobre a oitava maravilha do mundo. Ao lado de Richard Mariano e Kaique Augusto xingamos shonens e isekais, desprezamos ecchi e exaltamos bons animes.
+			<a href="https://pds.luccaaugusto.xyz/images/originals/S0E5.jpg" target="blank">Imagem original</a>Recomendações:
+
+			 + Shigatsu wa kimi no uso (your lie in april)
+			 + Fullmetal Alchemist Brotherhood
+			 + Steins Gate
+			 + Babylon
+			Menções Honrosas:
+
+			 + Shoujo kakumei utena
+			 + Kimi no na wa (Your name)
+			 + Koe no katachi (the shape of your voice)
+			 + Hunter X Hunter
+			 + Shingeki no Kyojin
+			Nossos perfis no MyAnimeList:
+
+			 + <a href="https://myanimelist.net/profile/Richard99" target="blank">Richard99</a>
+			 + <a href="https://myanimelist.net/profile/luccaugusto" target="blank">luccaugusto</a>
+			 + <a href="https://myanimelist.net/profile/SeuKiks" target="blank">SeuKiks</a>]]>
+			</description>
+			<enclosure length='177698551' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2020-07-15-S0E5.mp3' />
+			<itunes:duration>01:14:02</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Animes, waifus e tudo que há de bom. Junte-se a nós nessa conversa sobre a oitava maravilha do mundo. Ao lado de Richard Mariano e Kaique Augusto xingamos shonens e isekais, desprezamos ecchi e exaltamos bons animes.]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2020-07-22-S0E6.mp3</guid>
+			<title>Livros, adaptações e opiniões - S0E6</title>
+			<pubDate>Wed, 22 Jul 2020 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-07-22-S0E6.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S0E6.jpg' />
+			<description>
+				<![CDATA[Ahh os livros. Nesse episódio falamos sobre o que achamos de livros, se o kindle vai cometer genocídio sobre os livros físicos, adaptações merda e mais.
+			<a href="https://pds.luccaaugusto.xyz/images/originals/S0E6.jpg" target="blank">Imagem original</a>livros recomendados:
+
+			 + Fundação
+			 + Sandman
+			 + Simulations and Simulacra - Jean Bouldrilard
+			 + O Nome do Vento
+			 + Metamorfose - Kafka
+			 + A Menina que Roubava Livros
+			 + Battle Royale
+			 + O Guia Dos Mochileiros dass Galáxias
+			 + Espadachim de Carvão 1 e 2
+			<a href="https://pds.luccaaugusto.xyz/images/detalhes/livros/dudao.jpg">Meme que o Luiz Mário mandou no chat e todo mundo riu do nada</a>]]>
+			</description>
+			<enclosure length='185813229' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2020-07-22-S0E6.mp3' />
+			<itunes:duration>01:17:25</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Ahh os livros. Nesse episódio falamos sobre o que achamos de livros, se o kindle vai cometer genocídio sobre os livros físicos, adaptações merda e mais.]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2020-07-29-S0E7.mp3</guid>
+			<title>Filmes, Morra Hollywood - S0E7</title>
+			<pubDate>Wed, 29 Jul 2020 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-07-29-S0E7.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S0E7.jpg' />
+			<description>
+				<![CDATA[Foda-se ficou grande mesmo. Versão extendida. Nesse episódio, presenteados com a primeira presença feminina no PDS, falamos muito de filmes. Filmes bons, O Resgate, filmes ruins, O Resgate, serviços de streaming, O Resgate, etc. Pagamos de cinéfilos um pouco e discutimos sobre o que é um bom filme. Adeus filmes de Hollywood, a moda agora é filmes que tenham conteúdo. E é claro, falamos um pouco mais sobre O Resgate.
+			<a href="https://pds.luccaaugusto.xyz/images/originals/S0E7.jpg" target="blank">Imagem original</a>Sites de torrent recomendado <a href="https://filmescult.net" target="blank">filmescult.net</a>
+			filmes recomendados:
+
+			 + A vida de Brian - Monty Python
+			 + Senhor dos anéis (versão extendida DÃ)
+			 + Anjos caídos - wong kar wai (1995)
+			 + Beleza Americana
+			 + Brilho Eterno de uma Mente sem Lembraças
+			Mensões Honrosas
+
+			 + 500 dias com ela
+			 + Show de Truman
+			 + High School Musical (em especial o 2)
+			 + Memento
+			 + Donnie Darko
+			Letterboxd
+
+			 + <a href="https://letterboxd.com/luccaugusto/" target="blank">luccaugusto</a>
+			 + <a href="https://letterboxd.com/fernandaalmi_/" target="blank">fernandaalmi_</a>
+			 + <a href="https://letterboxd.com/seukiks/" target="blank">SeuKiks</a>
+			 + <a href="https://letterboxd.com/felipepontomp4/" target="blank">felipepontomp4</a>
+			 + <a href="https://letterboxd.com/richard_vrm/" target="blank">richardmariano</a>]]>
+			</description>
+			<enclosure length='259513017' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2020-07-29-S0E7.mp3' />
+			<itunes:duration>01:48:07</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Foda-se ficou grande mesmo. Versão extendida. Nesse episódio, presenteados com a primeira presença feminina no PDS, falamos muito de filmes. Filmes bons, O Resgate, filmes ruins, O Resgate, serviços de streaming, O Resgate, etc. Pagamos de cinéfilos um...]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2020-08-05-S0E8.mp3</guid>
+			<title>Perguntas e quase respostas - S0E8</title>
+			<pubDate>Wed, 05 Aug 2020 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-08-05-S0E8.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S0E1.jpg' />
+			<description>
+				<![CDATA[Divagamos sobre muitos assuntos. Uma pergunta aleatória de um site de 500 e poucas perguntas começa discussões que não tem nada a ver com o tema original da pergunta, nada diferente do Papo de Sauna.]]>
+			</description>
+			<enclosure length='159400298' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2020-08-05-S0E8.mp3' />
+			<itunes:duration>01:06:25</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Divagamos sobre muitos assuntos. Uma pergunta aleatória de um site de 500 e poucas perguntas começa discussões que não tem nada a ver com o tema original da pergunta, nada diferente do Papo de Sauna.]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2020-08-12-S0E9.mp3</guid>
+			<title>TRANSAções na internet (vulgo tinder) - S0E9</title>
+			<pubDate>Wed, 12 Aug 2020 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-08-12-S0E9.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S0E9.jpg' />
+			<description>
+				<![CDATA[Esse episódio foi o terceiro episódio que gravamos mas o Caio trollou com o microfone e o Lucca regravou o áudio dele, por isso ta lançando com 2 meses de atraso. Tem uma voz bizarra no meio que é a que representa a voz do Caio. Falamos sobre tinder e apps de relacionamentos, nossas experiências com eles e o que achamos da ideia.]]>
+			</description>
+			<enclosure length='112465572' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2020-08-12-S0E9.mp3' />
+			<itunes:duration>00:46:51</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Esse episódio foi o terceiro episódio que gravamos mas o Caio trollou com o microfone e o Lucca regravou o áudio dele, por isso ta lançando com 2 meses de atraso. Tem uma voz bizarra no meio que é a que representa a voz do Caio. Falamos sobre tinder e ...]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2020-08-20-S0E10.mp3</guid>
+			<title>Músicas, rexpeita o funk e rap de anime - S0E10</title>
+			<pubDate>Thu, 20 Aug 2020 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-08-20-S0E10.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S0E1.jpg' />
+			<description>
+				<![CDATA[Olhamos pra trás buscando as músicas que ouvíamos antigamente. Nostalgia. NÃO SINTA VERGONHA DO SEUS RAPS DE ANIME. Logo em seguida avaliamos o valor da música culturalmente, por que brasileiro não gosta de música brasileira? Por que tanto preconceito com o funk? respostas para essas e outras perguntas no Papo de Sauna. Além disso este é o último episódio da temporada zero, prepare-se para uma íNcRíVéL PRIMEIRA TEMPORADA.
+			recomendações
+
+			 + charlie brown jr
+			 + Bring me the horizon
+			 + My chemical romance
+			 + Clair de lune
+			 + IOWA slipknot
+			 + Rex Orange Country
+			Mencao honrosa
+
+			 + jai jagdeesh
+			 + yogi ji
+			 + yunglixo
+			 + Vessel Twenty One Pilots
+			 + Mandragora (o dj)]]>
+			</description>
+			<enclosure length='165991514' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2020-08-20-S0E10.mp3' />
+			<itunes:duration>01:09:09</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Olhamos pra trás buscando as músicas que ouvíamos antigamente. Nostalgia. NÃO SINTA VERGONHA DO SEUS RAPS DE ANIME. Logo em seguida avaliamos o valor da música culturalmente, por que brasileiro não gosta de música brasileira? Por que tanto preconceito ...]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2020-09-01-S1E1.mp3</guid>
+			<title>Um bando de drogados - S1E1</title>
+			<pubDate>Wed, 02 Sep 2020 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-09-01-S1E1.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S1E1.jpg' />
+			<description>
+				<![CDATA[Com o grande especialista Fernando Takayanagi Takanayagi Pugliese, vindo diretamente da universidade do Miskatonic, avaliamos o mal que as drogas legalizadas fazem para sua vida (por que obviamente as drogas ilegais só trazem coisas boas). Abordamos formas alternativas de tratamentos e nosso especialista fala dos efeitos colaterais do uso de drogas farmaceuticas. Pega sua toalha e se prepara pra cortar remédios da sua vida, a sauna já ta quente, vem chegando.
+			<a href="https://pds.luccaaugusto.xyz/images/originals/S1E1.jpg" target="blank">Imagem original</a>]]>
+			</description>
+			<enclosure length='144805163' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2020-09-01-S1E1.mp3' />
+			<itunes:duration>01:00:20</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Com o grande especialista Fernando Takayanagi Takanayagi Pugliese, vindo diretamente da universidade do Miskatonic, avaliamos o mal que as drogas legalizadas fazem para sua vida (por que obviamente as drogas ilegais só trazem coisas boas). Abordamos fo...]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/monologos/1-lucca-fundacao.mp3</guid>
+			<title>Monólogo: Lucca fala sobre a série da Fundação - #01</title>
+			<pubDate>Tue, 08 Sep 2020 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/monologos/1-lucca-fundacao.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz' />
+			<description>
+				<![CDATA[enquanto a sauna esquenta e o pessoal vai chegando, Lucca, que chegou adiantado, fala sobre a adaptação do livro fundação para uma série pela apple tv. Spoiler A serie ficou uma merda]]>
+			</description>
+			<enclosure length='20695104' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/monologos/1-lucca-fundacao.mp3' />
+			<itunes:duration>00:14:22</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[enquanto a sauna esquenta e o pessoal vai chegando, Lucca, que chegou adiantado, fala sobre a adaptação do livro fundação para uma série pela apple tv. Spoiler A serie ficou uma merda]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2020-09-09-S1E2.mp3</guid>
+			<title>Experiências fora de BH - S1E2</title>
+			<pubDate>Wed, 09 Sep 2020 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-09-09-S1E2.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S1E2.jpg' />
+			<description>
+				<![CDATA[Felipe abre este episódio contando do ano que passou estudando em portugal, Richard e Lucca contam da vez que foram pro rock in rio, e algumas outras experiências que aconteceram fora de BH. Você que sai do via shopping, cuidado ao pegar o 6350.]]>
+			</description>
+			<enclosure length='94832710' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2020-09-09-S1E2.mp3' />
+			<itunes:duration>00:56:26</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Felipe abre este episódio contando do ano que passou estudando em portugal, Richard e Lucca contam da vez que foram pro rock in rio, e algumas outras experiências que aconteceram fora de BH. Você que sai do via shopping, cuidado ao pegar o 6350.]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/monologos/2-felipe-niilismopositivo.mp3</guid>
+			<title>Monólogo: Felipe fala sobre Niilismo Positivo.</title>
+			<pubDate>Tue, 15 Sep 2020 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/monologos/2-felipe-niilismopositivo.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz' />
+			<description>
+				<![CDATA[enquanto a sauna esquenta e o pessoal vai chegando, Felipe fala sobre o niilismo positivo. Convertendo a bad que bate à sua porta com o pensamento niilista em uma liberdade (também niilista) que leva à felicidade.]]>
+			</description>
+			<enclosure length='22203106' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/monologos/2-felipe-niilismopositivo.mp3' />
+			<itunes:duration>00:15:25</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[enquanto a sauna esquenta e o pessoal vai chegando, Felipe fala sobre o niilismo positivo. Convertendo a bad que bate à sua porta com o pensamento niilista em uma liberdade (também niilista) que leva à felicidade.]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2020-09-16-S1E3.mp3</guid>
+			<title>Militando contra a militância - S1E3</title>
+			<pubDate>Wed, 16 Sep 2020 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-09-16-S1E3.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S1E3.jpg' />
+			<description>
+				<![CDATA[Nesse episódio, paradoxalmente, militamos contra a militância. Até quando é possível falar sobre um assunto sem ele virar meme ou ficar insuportável? Também não sabemos, mas abordamos essas e outras questões.]]>
+			</description>
+			<enclosure length='69586095' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2020-09-16-S1E3.mp3' />
+			<itunes:duration>00:57:59</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Nesse episódio, paradoxalmente, militamos contra a militância. Até quando é possível falar sobre um assunto sem ele virar meme ou ficar insuportável? Também não sabemos, mas abordamos essas e outras questões.]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/monologos/3-lucca-yoga.mp3</guid>
+			<title>Monólogo: Lucca fala (denovo) sobre kundalini yoga</title>
+			<pubDate>Tue, 22 Sep 2020 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/monologos/3-lucca-yoga.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz' />
+			<description>
+				<![CDATA[Lucca, como sempre falando sobre yoga, mas desta vez uma análise mais aprofundada sobre suas vivências.]]>
+			</description>
+			<enclosure length='12381066' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/monologos/3-lucca-yoga.mp3' />
+			<itunes:duration>00:10:19</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Lucca, como sempre falando sobre yoga, mas desta vez uma análise mais aprofundada sobre suas vivências.]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2020-09-23-S1E4.mp3</guid>
+			<title>Feministo - S1E4</title>
+			<pubDate>Wed, 23 Sep 2020 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-09-23-S1E4.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S1E4.jpg' />
+			<description>
+				<![CDATA[Nesse episódio, com a nossa especialista <a href="https://www.instagram.com/alinetattoobh/" target="_blank">@alinetatoobh</a>, ouvimos sobre o feminismo, a situação atual do machismo, como ser feministo, um homem menos escroto e que apoia o feminismo, entre outros assuntos. Pedrada, uma verdadeira aula por parte da Aline. Esse episódio não é espelho mas causa muitas reflexões.
+			Instagram da aline-> <a href="https://www.instagram.com/alinetattoobh/" target="_blank">@alinetatoobh</a>
+			Canal da Aline-> <a href="https://www.youtube.com/channel/UCAwKF4nxTPYfugQxTsNse-g" target="_blank">Forever Aline</a>
+			Livro recomendado-> O Mito da Beleza - Naomi Wolf
+			Podcast recomendado-> <a href="https://open.spotify.com/show/1592iJQt0IlC5u5lKXrbyS" target="_blank">Bom dia, Obvious</a>]]>
+			</description>
+			<enclosure length='73477294' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2020-09-23-S1E4.mp3' />
+			<itunes:duration>01:16:32</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Nesse episódio, com a nossa especialista @alinetatoobh, ouvimos sobre o feminismo, a situação atual do machismo, como ser feministo, um homem menos escroto e que apoia o feminismo, entre outros assuntos. Pedrada, uma verdadeira aula por parte da Aline....]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/monologos/4-luiz-e-gabi.mp3</guid>
+			<title>Monólogo: Luiz e Gabi falam sobre relacionamentos</title>
+			<pubDate>Tue, 29 Sep 2020 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/monologos/4-luiz-e-gabi.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz' />
+			<description>
+				<![CDATA[Luiz e sua namorada Gabi falam sobre relacionamentos. Instagram da gabi:<a href="https://www.instagram.com/uaigabs/" target="_blank">@uaigabs</a>]]>
+			</description>
+			<enclosure length='21280879' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/monologos/4-luiz-e-gabi.mp3' />
+			<itunes:duration>00:22:10</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Luiz e sua namorada Gabi falam sobre relacionamentos. Instagram da gabi:@uaigabs]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2020-09-30-S1E5.mp3</guid>
+			<title>Dedo no Cu e Terapia - S1E5</title>
+			<pubDate>Wed, 30 Sep 2020 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-09-30-S1E5.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S1E5.jpg' />
+			<description>
+				<![CDATA[To nem ai, to nem ai, pode falar dos seus problemas que não vou ouvir. Neste episódio comentamos sobre problemas que estamos passando neste momento. Lucca advoca contra a faculdade, seu maior problema, falamos de círculos sociais, minimalismo, zé droguinhas (salve alonso) e muitas coisas que estão acontecendo em nossa vida no momento. Bem temporada 0 vibes, porém bom agora.]]>
+			</description>
+			<enclosure length='69344932' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2020-09-30-S1E5.mp3' />
+			<itunes:duration>01:12:14</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[To nem ai, to nem ai, pode falar dos seus problemas que não vou ouvir. Neste episódio comentamos sobre problemas que estamos passando neste momento. Lucca advoca contra a faculdade, seu maior problema, falamos de círculos sociais, minimalismo, zé drogu...]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/monologos/5-lucca-faculdade.mp3</guid>
+			<title>Monólogo: Lucca fala sobre faculdade</title>
+			<pubDate>Tue, 06 Oct 2020 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/monologos/5-lucca-faculdade.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz' />
+			<description>
+				<![CDATA[Faculdade pode não ser pra você, faça esse teste guiado e descubra qual o seu futuro.]]>
+			</description>
+			<enclosure length='6200495' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/monologos/5-lucca-faculdade.mp3' />
+			<itunes:duration>00:05:10</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Faculdade pode não ser pra você, faça esse teste guiado e descubra qual o seu futuro.]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2020-10-07-S1E6.mp3</guid>
+			<title>A Vila Da Folha - S1E6</title>
+			<pubDate>Wed, 07 Oct 2020 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-10-07-S1E6.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S1E6.jpg' />
+			<description>
+				<![CDATA[Convidada especial na sauna, a amiga de Felipe, <a href="https://www.instagram.com/isanishi/" target="_blank">@Isanishi</a>, fala sobre veganismo. Discussões deveras interessantes, relatos dos benefícios (boatos de que o richard ficou menos chato), e nossas experiências. Venha ser convertido você também ao veganismo.
+			Documentários que citamos-> What the health, cowspiracy, dominion, the game changer (dieta dos gladiadores)]]>
+			</description>
+			<enclosure length='96033507' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2020-10-07-S1E6.mp3' />
+			<itunes:duration>01:20:01</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Convidada especial na sauna, a amiga de Felipe, @Isanishi, fala sobre veganismo. Discussões deveras interessantes, relatos dos benefícios (boatos de que o richard ficou menos chato), e nossas experiências. Venha ser convertido você também ao veganismo.]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/monologos/6-fernando-macroeconomia.mp3</guid>
+			<title>Monólogo: Fernando fala sobre o pai da macroeconomia</title>
+			<pubDate>Tue, 13 Oct 2020 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/monologos/6-fernando-macroeconomia.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz' />
+			<description>
+				<![CDATA[Aproveite a voz sedosa e macia de Fernando e conheça o pai da macroeconomia (também não sabemos o que é macroeconomia, rlx)]]>
+			</description>
+			<enclosure length='16857409' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/monologos/6-fernando-macroeconomia.mp3' />
+			<itunes:duration>00:14:02</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Aproveite a voz sedosa e macia de Fernando e conheça o pai da macroeconomia (também não sabemos o que é macroeconomia, rlx)]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2020-10-14-S1E7.mp3</guid>
+			<title>Empreses Sociolucratives - S1E7</title>
+			<pubDate>Wed, 14 Oct 2020 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-10-14-S1E7.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S1E7.jpg' />
+			<description>
+				<![CDATA[Junte-se à né nesse converse incrível sobre empreses sociolucratives ne saune. Falames de incrível <a href="https://querodobra.com.br" target="_blank">quereDobre</a> e come consegue gerer impacte sociel além de lucre em capitel. É muite importante que além de gerer dinheire es empreses pensem também em gerer prosperidade pare todes e menes impacte ambientel.]]>
+			</description>
+			<enclosure length='93797421' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2020-10-14-S1E7.mp3' />
+			<itunes:duration>00:48:51</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Junte-se à né nesse converse incrível sobre empreses sociolucratives ne saune. Falames de incrível quereDobre e come consegue gerer impacte sociel além de lucre em capitel. É muite importante que além de gerer dinheire es empreses pensem também em gere...]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/monologos/7-felipe-minimalismo.mp3</guid>
+			<title>Monólogo: Felipe fala sobre Minimalismo</title>
+			<pubDate>Tue, 20 Oct 2020 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/monologos/7-felipe-minimalismo.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz' />
+			<description>
+				<![CDATA[Felipe fala um pouco sobre minimalismo.]]>
+			</description>
+			<enclosure length='7423025' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/monologos/7-felipe-minimalismo.mp3' />
+			<itunes:duration>00:06:11</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Felipe fala um pouco sobre minimalismo.]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2020-10-21-S1E8.mp3</guid>
+			<title>Entremenitento - S1E8</title>
+			<pubDate>Wed, 21 Oct 2020 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-10-21-S1E8.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S1E8.jpg' />
+			<description>
+				<![CDATA[Primeiro episódio filler do Papo de Sauna (ZOAS). Nesse episódio vamos mais sem tema, falando sobre entremetinento. Comentamos sobre alguns podcasts que ouvimos, nenhum à altura do Papo de Sauna, óbvio, séries, filmes, jogos. Por favor joguem tibia com o Lucca, é um jogo incrível. Falamos a senha do cartão do Fernando pra ver se temos algum ouvite.
+			<a href="https://www.chimichangas.com.br/manga/pedofilia-no-japao-o-que-precisamos-saber-para-debater-o-tema-no-cenario-otaku/" target="_blank">texto que o richard falou sobre pedofilia no japão.</a>]]>
+			</description>
+			<enclosure length='80911221' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2020-10-21-S1E8.mp3' />
+			<itunes:duration>01:07:25</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Primeiro episódio filler do Papo de Sauna (ZOAS). Nesse episódio vamos mais sem tema, falando sobre entremetinento. Comentamos sobre alguns podcasts que ouvimos, nenhum à altura do Papo de Sauna, óbvio, séries, filmes, jogos. Por favor joguem tibia com...]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/monologos/8-monologo-calaboca.mp3</guid>
+			<title>Monólogo: CALABOCAAA</title>
+			<pubDate>Tue, 27 Oct 2020 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/monologos/8-monologo-calaboca.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz' />
+			<description>
+				<![CDATA[Cale-se Calice Cale-se você me deixa LOUCO.]]>
+			</description>
+			<enclosure length='10213677' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/monologos/8-monologo-calaboca.mp3' />
+			<itunes:duration>00:05:19</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Cale-se Calice Cale-se você me deixa LOUCO.]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2020-10-28-S1E9.mp3</guid>
+			<title>Traders - S1E9</title>
+			<pubDate>Wed, 28 Oct 2020 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2020-10-28-S1E9.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S1E9.jpg' />
+			<description>
+				<![CDATA[Mais um episódio com diversos assuntos. Sabia que no butão se mede Felicidade per capta? Sabia que day-trader é a profissão do futuro? OMBRO CABEÇA OMBRO. Entenda a mesóclise de Temer e suas implicações. Briga de filósofos, façam suas apostas. Os seres humanos não eram conscientes antigamente. Achou confuso? tá mesmo, mas ta engraçado, vale a pena.
+			livro sobre o início da consciência humana-> The Origin of Consciousness in the Breakdown of the Bicameral Mind por Julian Jaynes.]]>
+			</description>
+			<enclosure length='80936299' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2020-10-28-S1E9.mp3' />
+			<itunes:duration>01:07:26</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Mais um episódio com diversos assuntos. Sabia que no butão se mede Felicidade per capta? Sabia que day-trader é a profissão do futuro? OMBRO CABEÇA OMBRO. Entenda a mesóclise de Temer e suas implicações. Briga de filósofos, façam suas apostas. Os seres...]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/monologos/9-monologo-conversas-fractais-computadores-doceis.mp3</guid>
+			<title>Monólogo: Conversas Fractais - Computadores Dóceis</title>
+			<pubDate>Tue, 03 Nov 2020 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/monologos/9-monologo-conversas-fractais-computadores-doceis.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz' />
+			<description>
+				<![CDATA[Uma apresentação que Lucca deu pra galera da yoga sobre segurança online e como ser menos manipulável pelas mídias digitais. Um bom ponto pra começar a pensar na sua privacidade e segurança online, só a ponta do iceber, é claro, mas é assim que começa.]]>
+			</description>
+			<enclosure length='30993909' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/monologos/9-monologo-conversas-fractais-computadores-doceis.mp3' />
+			<itunes:duration>00:33:25</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Uma apresentação que Lucca deu pra galera da yoga sobre segurança online e como ser menos manipulável pelas mídias digitais. Um bom ponto pra começar a pensar na sua privacidade e segurança online, só a ponta do iceber, é claro, mas é assim que começa.]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2021-01-03-S1E10.mp3</guid>
+			<title>O futuro do Papo de Sauna - S1E10</title>
+			<pubDate>Sun, 03 Jan 2021 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2021-01-03-S1E10.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/pds-s1-logo.jpg' />
+			<description>
+				<![CDATA[Veja todas nossas ideias sobre o que queríamos que fosse o Papo de Sauna e a temporada 2. Esse episódio foi gravado antes de decretarmos a morte do Papo de Sauna,e só conseguimos lançar muito tempo depois. Deleite-se com nossos erros.]]>
+			</description>
+			<enclosure length='110989101' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2021-01-03-S1E10.mp3' />
+			<itunes:duration>00:57:48</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Veja todas nossas ideias sobre o que queríamos que fosse o Papo de Sauna e a temporada 2. Esse episódio foi gravado antes de decretarmos a morte do Papo de Sauna,e só conseguimos lançar muito tempo depois. Deleite-se com nossos erros.]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2021-01-03-S2E1.mp3</guid>
+			<title>Natal e o Grandioso Filme da ViihTube - S2E1</title>
+			<pubDate>Sun, 03 Jan 2021 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2021-01-03-S2E1.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S2E1.jpg' />
+			<description>
+				<![CDATA[Recomeçando de novo formato, Lucca e Richard comentam sobre o natal e Fernando, Felipe e Luiz analisam o Grandioso filme da Viih Tube.]]>
+			</description>
+			<enclosure length='67906943' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2021-01-03-S2E1.mp3' />
+			<itunes:duration>00:28:17</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Recomeçando de novo formato, Lucca e Richard comentam sobre o natal e Fernando, Felipe e Luiz analisam o Grandioso filme da Viih Tube.]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2022-04-06-S2E2.mp3</guid>
+			<title>O que é o gongo terapêutico - S2E2</title>
+			<pubDate>Wed, 06 Apr 2022 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2022-04-06-S2E2.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S2E2.jpg' />
+			<description>
+				<![CDATA[Lucca fala sobre o que é o gongo terapeutico e quais os efeitos do gongo. Esse assunto é abordado de alguns pontos de vista diferentes, passando pelo cultural, místico/religioso, biológico e mental.
+
+			Referências->
+			 + <a href="https://www.youtube.com/watch?v=yUNqN0G-7Zw" target="blank">Análise de sangue antes e depois do gongo</a>
+			 + <a href="https://www.youtube.com/watch?v=aQ-JDNfviDM" target="blank">Análise de sangue antes e depois com algumas explicacoes</a>
+			 + <a href="https://www.instagram.com/renatomourayoga/" target="blank">Instagram do meu professor de Yoga (também toca gongo)-> Renato Moura</a>
+			 + <a href="https://www.instagram.com/paulohg.psi/" target="blank">Instagram do meu professor de Gongo-> Paulo HG</a>]]>
+			</description>
+			<enclosure length='64785453' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2022-04-06-S2E2.mp3' />
+			<itunes:duration>00:33:44</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Lucca fala sobre o que é o gongo terapeutico e quais os efeitos do gongo. Esse assunto é abordado de alguns pontos de vista diferentes, passando pelo cultural, místico/religioso, biológico e mental.]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2022-04-17-S2E3.mp3</guid>
+			<title>Kaique olha pra trás - S2E3</title>
+			<pubDate>Sun, 17 Apr 2022 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2022-04-17-S2E3.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S2E3.jpg' />
+			<description>
+				<![CDATA[Nesse episódio Kaique olha para seu passado e analisa quem ele era, quem ele é e quem ele vai ser.
+
+			Referências->
+			 +
+			+ <a href="https://www.youtube.com/channel/UCm5TtnejcDYLHZxSQcg8QHw" target="blank">Yung Lixo</a>
+			 +
+			+ <a href="https://www.youtube.com/watch?v=mShT2gJUhbw" target="blank">Mixtape pra te impressionar</a>]]>
+			</description>
+			<enclosure length='38039853' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2022-04-17-S2E3.mp3' />
+			<itunes:duration>00:19:48</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Nesse episódio Kaique olha para seu passado e analisa quem ele era, quem ele é e quem ele vai ser.]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2022-04-18-S2E4.mp3</guid>
+			<title>Segundo primeiro episódio - S2E4</title>
+			<pubDate>Mon, 18 Apr 2022 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2022-04-18-S2E4.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S2E4.jpg' />
+			<description>
+				<![CDATA[Uma releitura do primeiro episódio que lançamos. Lucca e Felipe conversam sem rumo sobre como estão as coisas em suas vidas hoje. Novamente um falatório sem rumo saltitando por diversos assuntos interessantes.
+			Durante o podcast falamos de algumas pessoas/bandas/coisas, aqui estão os links->
+			 + <a href="https://www.youtube.com/channel/UCxqkOxQYocXRtSqlotgXh7w" target="blank">FKJ</a>
+			 + <a href="https://www.youtube.com/channel/UCKKKYE55BVswHgKihx5YXew" target="blank">Porter Robinson</a>
+			 + <a href="https://www.youtube.com/channel/UCNiyS8zr2RIddszLwtoyUow" target="blank">King Gizzard and the Lizard Wizard</a>
+			 + <a href="https://www.youtube.com/channel/UCAayZDDj3uom0QpSJiwLoUw" target="blank">Bring Me The Horizon</a>
+			 + <a href="https://www.youtube.com/channel/UCqLOZtEdRzXDzF-1CyJFc2Q" target="blank">Russian Circles</a>
+			 + <a href="https://www.youtube.com/channel/UCfO3MSoheHzZL4GkK_gKfuw" target="blank">Primus</a>
+			 + <a href="https://www.youtube.com/channel/UC1wUo-29zS7m_Jp-U_xYcFQ" target="blank">Tool</a>
+			 + <a href="https://www.youtube.com/watch?v=-oSAcyt5WZo" target="blank">Na ponta do pé, MC Livinho</a>]]>
+			</description>
+			<enclosure length='143547693' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2022-04-18-S2E4.mp3' />
+			<itunes:duration>01:14:45</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Uma releitura do primeiro episódio que lançamos. Lucca e Felipe conversam sem rumo sobre como estão as coisas em suas vidas hoje. Novamente um falatório sem rumo saltitando por diversos assuntos interessantes.]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2022-05-14-S2E5.mp3</guid>
+			<title>Good Vibes, Escola, Bad Vibes e música - S2E5</title>
+			<pubDate>Sat, 14 May 2022 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2022-05-14-S2E5.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S2E5.jpg' />
+			<description>
+				<![CDATA[Lucca e Kaique conversam sobre as varias coisas que acontecem em suas vidas no momento. Kaique se mostra um grande preguiçoso, Lucca se orgulha de sua preguiça. Lembramos de como a vida já foi boa e também lembramos de como a vida já foi ruim. Um verdadeiro Papo de Sauna, de tudo um pouco.]]>
+			</description>
+			<enclosure length='128904237' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2022-05-14-S2E5.mp3' />
+			<itunes:duration>01:07:08</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Lucca e Kaique conversam sobre as varias coisas que acontecem em suas vidas no momento. Kaique se mostra um grande preguiçoso, Lucca se orgulha de sua preguiça. Lembramos de como a vida já foi boa e também lembramos de como a vida já foi ruim. Um verda...]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2022-06-10-S2E6.mp3</guid>
+			<title>Capitalismo, por favor PARE! - S2E6</title>
+			<pubDate>Fri, 10 Jun 2022 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2022-06-10-S2E6.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S2E6.jpg' />
+			<description>
+				<![CDATA[Papo de Sauna ficando chique, neste episodio temos a primeira convidada que pediu para participar, Natalia Caroninhas. Lucca e Natalia conversam sem rumo sobre a vida, sociedade, empregos chatos e a ideia de quebrar esse paradigma e fazer o que gosta de verdade.]]>
+			</description>
+			<enclosure length='86470701' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2022-06-10-S2E6.mp3' />
+			<itunes:duration>00:45:02</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Papo de Sauna ficando chique, neste episodio temos a primeira convidada que pediu para participar, Natalia Caroninhas. Lucca e Natalia conversam sem rumo sobre a vida, sociedade, empregos chatos e a ideia de quebrar esse paradigma e fazer o que gosta d...]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2022-07-23-S2E7.mp3</guid>
+			<title>A CIA matou John F. Kennedy, seu deus não presta e Hora de Aventura é muito bom - S2E7</title>
+			<pubDate>Thu, 23 Jun 2022 14:00:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2022-07-23-S2E7.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S2E7.jpg' />
+			<description>
+				<![CDATA[Provavelmente o Papo de Sauna mais papo de sauna que já gravamos. Kaique entediado de férias chama Lucca pra gravar de última hora e o resultado você confere nessas 2 horas de conversa onde falamos sobre teorias da conspiração, religião, filosofia, rituais de suicídio, Hora de Aventura, Apenas um Show, Midnight Gospel, Católicos não praticantes, discussões políticas e muito mais. Também é importante ressaltar que todos os participantes deste episódio estavam sóbrios no momento da gravação, não é papo de maconheiro.]]>
+			</description>
+			<enclosure length='245836077' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2022-07-23-S2E7.mp3' />
+			<itunes:duration>02:08:02</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Provavelmente o Papo de Sauna mais papo de sauna que já gravamos. Kaique entediado de férias chama Lucca pra gravar de última hora e o resultado você confere nessas 2 horas de conversa onde falamos sobre teorias da conspiração, religião, filosofia, rit...]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2022-08-16-S2E8.mp3</guid>
+			<title>Os Verdadeiros Influencers - S2E8</title>
+			<pubDate>Tue, 16 Aug 2022 19:42:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2022-08-16-S2E8.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S2E8.jpg' />
+			<description>
+				<![CDATA[Neste episódio Lucca fala sobre todos os livros/ideias/pessoas que influenciaram sua vida de alguma forma. Meio que uma viagem no tempo passando por cada ponto de mudança que foi causado por ideias de alguém, uma jornada bem pessoal e um episódio especial que já estava idealizado há muitos meses mas demorou pra sair.
+			Como prometido no episódio aqui vai uma lista dos livros e pessoas->
+			 + Livro Models de Mark Manson
+			 + Livro A sutil arte de ligar o foda-se de Mark Manson
+			 + Músicas de E-Dubble
+			 + O Skatista Ryan Reyes
+			 + Become What You Are de Alan Watts
+			 + O Espírito do Zen de Alan Watts
+			 + A Via de Chuang Tzu de Thomas Merton
+			 + Tao Te Ching de Laozi
+			 + Sidarta de Herman Hesse
+			 + Be Here Now de Ram Dass
+			 + The Box i call Life de Lily Lu (Little Swastika)]]>
+			</description>
+			<enclosure length='162455853' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2022-08-16-S2E8.mp3' />
+			<itunes:duration>01:24:36</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Neste episódio Lucca fala sobre todos os livros/ideias/pessoas que influenciaram sua vida de alguma forma. Meio que uma viagem no tempo passando por cada ponto de mudança que foi causado por ideias de alguém, uma jornada bem pessoal e um episódio espec...]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2022-08-30-S0E0.mp3</guid>
+			<title>O Papo De Sauna ORIGINAL - S0E0</title>
+			<pubDate>Tue, 30 Aug 2022 21:45:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2022-08-30-S0E0.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S0E0.jpg' />
+			<description>
+				<![CDATA[O primeiro episódio de papo de sauna que foi gravado, depois de quase 3 anos finalmente foi editado e lançado. Perdão Churros pela demora no lançamento desse episódio. Falamos bem sério e muito mal sobre software livre, numa tentativa de estabelecer o formato do Papo De Sauna, mais tarde tudo que construimos aqui seria jogado fora pra criar um formato onde podemos falar de qualquer coisa. Se quiser ver 3 pessoas passando vergonha e perrengue pra gravar um podcast, a versão crua desse episódio está disponível nos detalhes desse episódio logo abaixo
+			<a href="https://pds.luccaaugusto.xyz/episodios/2022-08-30-S0E0-cru.mp3" target="_blank">Versão sem cortes</a>]]>
+			</description>
+			<enclosure length='117093933' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2022-08-30-S0E0.mp3' />
+			<itunes:duration>01:00:59</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[O primeiro episódio de papo de sauna que foi gravado, depois de quase 3 anos finalmente foi editado e lançado. Perdão Churros pela demora no lançamento desse episódio. Falamos bem sério e muito mal sobre software livre, numa tentativa de estabelecer o ...]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2022-09-20-S2E9.mp3</guid>
+			<title>O verdadeiro Papo de Sauna são os amigos que fizemos ao longo da jornada - S2E9</title>
+			<pubDate>Tue, 20 Sep 2022 09:30:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2022-09-20-S2E9.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S2E9.jpg' />
+			<description>
+				<![CDATA[Nesse episódio Lucca, Felipe e Kaique vão longe, nos confins de suas mentes para trazer todo tipo de brisa, viagem, noia, pira, ideia, conceito, teoria, sucrilhos, fruit loops e nescau que conseguem encontrar. Gravado logo após 2 horas dentro da sauna, esse episódio traz a verdadeira essência do papo de sauna para seus ouvidos. Tem assunto sério no meio e termina com animes, é tudo que posso dizer, senta aí, bota o fone e vem com a gente nessa viagem.]]>
+			</description>
+			<enclosure length='213025581' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2022-09-20-S2E9.mp3' />
+			<itunes:duration>01:50:57</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Nesse episódio Lucca, Felipe e Kaique vão longe, nos confins de suas mentes para trazer todo tipo de brisa, viagem, noia, pira, ideia, conceito, teoria, sucrilhos, fruit loops e nescau que conseguem encontrar. Gravado logo após 2 horas dentro da sauna,...]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2023-02-10-S2E10.mp3</guid>
+			<title>Adeus ano velho (2022) Feliz ano novo (2023) - S2E10</title>
+			<pubDate>Fri, 10 Feb 2023 09:30:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2023-02-10-S2E10.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S2E10.jpg' />
+			<description>
+				<![CDATA[E é ano novo no Papo De Sauna. Kaique, Lucca e André falam sobre como foi o último ano e sobre como estão nessa virada de ano. Teoricamente esse é o início de uma tradição, o mesmo conjunto de perguntas será feito no episódio de fim de ano do Papo De Sauna.]]>
+			</description>
+			<enclosure length='228396333' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2023-02-10-S2E10.mp3' />
+			<itunes:duration>01:58:57</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[E é ano novo no Papo De Sauna. Kaique, Lucca e André falam sobre como foi o último ano e sobre como estão nessa virada de ano. Teoricamente esse é o início de uma tradição, o mesmo conjunto de perguntas será feito no episódio de fim de ano do Papo De S...]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2023-05-04-S3E1.mp3</guid>
+			<title>Gosto Musical do Felipe - S3E1</title>
+			<pubDate>Thu, 04 May 2023 09:30:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2023-05-04-S3E1.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S3E1.jpg' />
+			<description>
+				<![CDATA[Começamos a terceira temporada do Papo de Sauna contando a história da relação do Felipe com a música. Bem possivelmente terão mais episódios com outras pessoas nesse mesmo tema, mas todos sabemos como isso aqui funciona e nada é garantido né. Simbora pra mais uma temporada.]]>
+			</description>
+			<enclosure length='71494700' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2023-05-04-S3E1.mp3' />
+			<itunes:duration>00:37:14</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Começamos a terceira temporada do Papo de Sauna contando a história da relação do Felipe com a música. Bem possivelmente terão mais episódios com outras pessoas nesse mesmo tema, mas todos sabemos como isso aqui funciona e nada é garantido né. Simbora ...]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2023-05-29-S3E2.mp3</guid>
+			<title>Gosto Musical do Kaique - S3E2</title>
+			<pubDate>Mon, 29 May 2023 09:30:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2023-05-29-S3E2.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S3E2.jpg' />
+			<description>
+				<![CDATA[Segundo episódio da série de entrevistas sobre gosto musical, dessa vez com Kaique, que nos conta nos mínimos detalhes sua trajetória com a música.
+			Lista de recomendações que o Kaique deixou->
+			 + Llainwire
+			 + Mixtape pra te impressionar do YungLixo]]>
+			</description>
+			<enclosure length='102521900' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2023-05-29-S3E2.mp3' />
+			<itunes:duration>00:53:23</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Segundo episódio da série de entrevistas sobre gosto musical, dessa vez com Kaique, que nos conta nos mínimos detalhes sua trajetória com a música.]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2023-06-07-S3E3.mp3</guid>
+			<title>POCS Diante do Trono - S3E3</title>
+			<pubDate>Wed, 07 Jun 2023 09:30:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2023-06-07-S3E3.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S3E3.jpg' />
+			<description>
+				<![CDATA[Nesse episódio mais que espetacular temos Izaque e Douglas como convidados. Os dois são gays que nasceram e cresceram em familias evangélicas, frequentando comunidades evangélicas e trazem várias experiências sobre essa realidade. Certamente um dos episódios de Papo de Sauna mais profundos. Preparem-se pra conhecer uma nova realidade.
+			Recomendações->
+			 + Documentário Pray Away (disponível na Netflix), fala sobre a cura Gay.
+			 + Documentário Fé e Fúria (disponível no ClaroTV), fala sobre intolerância religiosa e a ascensão do neopentecostalismo no Brasil]]>
+			</description>
+			<enclosure length='197490476' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2023-06-07-S3E3.mp3' />
+			<itunes:duration>01:42:51</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Nesse episódio mais que espetacular temos Izaque e Douglas como convidados. Os dois são gays que nasceram e cresceram em familias evangélicas, frequentando comunidades evangélicas e trazem várias experiências sobre essa realidade. Certamente um dos epi...]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2023-06-29-S3E4.mp3</guid>
+			<title>Gosto Musical do Lucca - S3E4</title>
+			<pubDate>Thu, 29 Jun 2023 09:30:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2023-06-29-S3E4.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S3E4.jpg' />
+			<description>
+				<![CDATA[Mais um episódio da série documentando gostos musicais. Dessa vez com Lucca, que nos conta como desde sempre foi rockeiro, de um jeito levemente confuso mas ta valendo.]]>
+			</description>
+			<enclosure length='125012012' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2023-06-29-S3E4.mp3' />
+			<itunes:duration>01:05:06</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Mais um episódio da série documentando gostos musicais. Dessa vez com Lucca, que nos conta como desde sempre foi rockeiro, de um jeito levemente confuso mas ta valendo.]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<guid>https://pds.luccaaugusto.xyz/episodios/2024-15-02-S3E5.mp3</guid>
+			<title>Adeus 2023, Annyeong-Haseyo 2024 - S3E5</title>
+			<pubDate>Tue, 30 Jan 2024 09:30:00 +0000</pubDate>
+			<link>
+				<![CDATA[https://pds.luccaaugusto.xyz/episodios/2024-15-02-S3E5.mp3]]>
+			</link>
+			<itunes:image href='https://pds.luccaaugusto.xyz/images/eps/S3E5.jpg' />
+			<description>
+				<![CDATA[Mantendo a tradição, Felipe, Kaique e Lucca conversam sobre como foi o ano de 2023 e como estão os planos pra 2024. E que fiquem registradas aqui todas as respostas de cada um para as perguntas.
+			Metas para 2023 (3'31")
+			 Kaique - triste noticia, metas eram ler pelo menos um livro e estudar
+			 Não realizou. Leu um livro e decidiu que não vale a pena.
+			 Não estudou pois já sabe muito.
+
+			 Lucca - boas e mas noticias, metas eram pegar um bichinho na maquina de garra e conseguir um emprego
+			 Perdeu 2 empregos mas conseguiu pegar um pinguim azul depois de tentar por alguns meses
+
+			 Felipe - top 1 batedor de metas do papo de sauna, metas eram ser aprovado no mestrado em uma universidade em Braga, juntar grana pra mudar e ler livros.
+			 Conseguiu juntar grana e entrar no mestrado de psicologia da educação
+			 Leu livros na faculdade.
+
+			 Questionamentos e lutas do ano (20'00")
+			 Kaique - perdeu o brilho no olhar (como recuperar) (desrealizacao)
+			 Lucca - o que fazer da vida, e o relacionamento com NaiNai
+			 Felipe - questionamento pré-mudança -> o que realmente quer e não quer em um relacionamento amoroso
+			 Questionamento pós-mudança -> valor da bolha academia na sociedade e produção acadêmica
+
+			 Melhor coisa do ano (42'15")
+			 Kaique - Retiro espiritual pro sitio da Fernanda e subsequente documentário sobre tal retiro.
+			 Lucca - Namoro com a Nai S2, entrar como aprendiz na casa trama ateliê (estúdio de tatuagem de alto nível) e terapia.
+			 Felipe - Ter se mudado de Covilhã (vulgo bad vibes land). Cidade onde todo mundo ou é bancado pelos pais ou é absolutamente explorado pelo capitalismo e todos usam drogas (menos o Felipe, fica tranquila Maire) me prenderam nessa cidade.mp4 (https://youtu.be/FNga0F9FpZQ?si=XQ7JMyATbdPNbW55).
+
+			 Como eu me vejo agora (1°09'00")
+			 Kaique - Imaturo criativamente, tem que começar a fazer o que quer. Meio frustrado de não estar fazendo o que quer. No geral se vê bem, melhorou a desrealização desligando o cérebro.
+			 Lucca - frustrado com onde está na vida porém esperançoso com para onde está indo
+			 Felipe -  com frio, mas não muito. Se vê capaz de aplicar tudo que tem aprendido nesses últimos anos. Se sente uma pessoa coerente e presente. Uma pessoa feliz.
+
+			 O que vai mudar de acordo com o que aprendeu esse ano (1°30'00")
+			 Kaique - Por ter visto algo que queria que desse certo dar certo, me fez perceber que eu consigo fazer o que quero.
+			 Lucca - Dedicar ao que não me interessa tanto e manter uma vida mais equilibrada, ao invés de focar em ser produtivo e ficar pilhadão e não conseguir fazer muito no final
+			 Felipe - Valorizar o que me faz bem mais do que tapa um buraco. Repensar relações
+
+			 Metas para 2024 (1°38'00")
+			 Kaique - Fazer alguma coisa do caderninho. Fazer um documentário pra viagem de Porto Seguro e um documentário pra viagem pro sitio de uma amiga.
+			 Lucca - Renda mensal. Gravar mais videos de skate. Manter uma vida equilibrada entre trabalho, arte e skate.
+			 Felipe - Desenvolver uma tese com Pedro Rosário. Ter um projeto de iniciação cientifica remunerado. Ler 12 livros no ano. Manter uma media superior ou igual a 85%. Gravar mais videos de skate. Gravar mais podcasts.]]>
+			</description>
+			<enclosure length='184075053' type='audio/mpeg' url='https://pds.luccaaugusto.xyz/episodios/2024-15-02-S3E5.mp3' />
+			<itunes:duration>01:35:52</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>sauna, entretenimento, humor, filosofia</itunes:keywords>
+			<itunes:subtitle>
+				<![CDATA[Mantendo a tradição, Felipe, Kaique e Lucca conversam sobre como foi o ano de 2023 e como estão os planos pra 2024. E que fiquem registradas aqui todas as respostas de cada um para as perguntas.]]>
+			</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
