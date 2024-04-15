@@ -1,6 +1,6 @@
 - nome: temporada-0
   episodios:
-    - nome: PDS S0E0 - O Papo De Sauna ORIGINAL
+    - nome: O Papo De Sauna ORIGINAL - S0E0
       pub_date: Tue, 30 Aug 2022 21:45:00 +0000
       url: /episodios/2022-08-30-S0E0.mp3
       desc: O primeiro episódio de papo de sauna que foi gravado, depois de quase 3 anos finalmente
@@ -15,7 +15,7 @@
       img: /images/eps/S0E0.jpg
       detalhes: <a href="/episodios/2022-08-30-S0E0-cru.mp3" target="_blank">Versão sem cortes</a></li>
 
-    - nome: Papo de Sauna S0 E1 - Nada a ver
+    - nome: Primeiro Episódio - S0E1
       pub_date: Fri, 05 Jun 2020 14:00:00 +0000
       yt-link: https://www.youtube.com/watch?v=JinqV4t69u8
       spotify: https://open.spotify.com/episode/6TNPvxbUjrvIt5qSDNKRZz
@@ -23,9 +23,9 @@
       url: /episodios/2020-05-21-S0E1.mp3
       desc: Primeiro episódio, falatório sem rumo saltitando por diversos assuntos interessantes.
       img: /images/eps/S0E1.jpg
-      detalhes: <a href="/images/originals/S0E1.jpg" target="blank">Imagem original</a>
+      detalhes: <a href="https://pds.luccaaugusto.xyz/images/originals/S0E1.jpg" target="blank">Imagem original</a>
 
-    - nome: PDS S0E2 - Redes sociais e livro
+    - nome: Redes sociais que deveríamos usar. Livro o corpo fala - S0E2
       pub_date: Wed, 24 Jun 2020 14:00:00 +0000
       yt-link: https://youtu.be/Mzu4dQGM7w0
       deezer: https://www.deezer.com/us/episode/232723812
@@ -33,9 +33,9 @@
       url: /episodios/2020-06-11-S0E2.mp3
       desc: Redes sociais (ou coisas parecidas com elas) que não estamos usando e deveríamos estar usando. Falamos também do livro "o corpo fala" de Pierre Wel e Roland Tompakow. <a href="https://www.youtube.com/watch?time_continue=1639&v=OE12-oUC9zE&feature=emb_title">Playlist das músicas de fundo</a>
       img: /images/eps/S0E2.jpg
-      detalhes: <a href="/images/originals/S0E2.jpg" target="blank">Imagem original</a>
+      detalhes: <a href="https://pds.luccaaugusto.xyz/images/originals/S0E2.jpg" target="blank">Imagem original</a>
 
-    - nome: PDS S0E3 - Vídeo Jogos e Nostalgia
+    - nome: Vídeo Jogos e Nostalgia - S0E3
       pub_date: Wed, 01 Jul 2020 14:00:00 +0000
       yt-link: https://youtu.be/EYaQebL39JI
       deezer: https://www.deezer.com/us/episode/232723832
@@ -43,9 +43,9 @@
       url: /episodios/2020-06-25-S0E3.mp3
       desc: Gente nova entrando na sauna, velhos amigos Luiz Mário e Fernando Takayanagi já chegam relembrando as épocas de jogatina insana. Nesse episódio falamos sobre videogames e como influenciaram nossas vidas, avisamos sobre os perigos de entrar no mundo do MOBA e deixamos nossas recomendações de jogos.
       img: /images/eps/S0E3.jpg
-      detalhes: <a href="/images/originals/S0E3.jpg" target="blank">Imagem original</a>
+      detalhes: <a href="https://pds.luccaaugusto.xyz/images/originals/S0E3.jpg" target="blank">Imagem original</a>
 
-    - nome: PDS S0E4 - IA
+    - nome: IA - S0E4
       pub_date: Wed, 08 Jul 2020 14:00:00 +0000
       yt-link: https://youtu.be/N-JINeeTBSI
       deezer: https://www.deezer.com/us/episode/232723852
@@ -53,9 +53,9 @@
       url: /episodios/2020-07-08-S0E4.mp3
       desc: Conversando sobre inteligencia artificial. Lucca milita sobre linux (de novo). Muitas sugestões de filmes incríveis sobre o assunto.
       img: /images/eps/S0E4.jpg
-      detalhes: <a href="/images/originals/S0E4.jpg" target="blank">Imagem original</a><p>Filmes recomendados:</p><ul><li>Ex Machina</li><li>What the health</li><li>Cowspiracy</li><li>Série onisciente</li></ul><p>Tabela software vs hardware:</p><img src="/images/detalhes/AI/softVsHard.png" alt="softVsHard" />
+      detalhes: <a href="https://pds.luccaaugusto.xyz/images/originals/S0E4.jpg" target="blank">Imagem original</a><p>Filmes recomendados:</p><ul><li>Ex Machina</li><li>What the health</li><li>Cowspiracy</li><li>Série onisciente</li></ul><p><a href="https://pds.luccaaugusto.xyz/images/detalhes/AI/softVsHard.png">Tabela software vs hardware:</a></p>
 
-    - nome: PDS S0E5 - ANIMES
+    - nome: ANIMES - S0E5
       pub_date: Wed, 15 Jul 2020 14:00:00 +0000
       yt-link: https://youtu.be/ZPPQ35nAJiE
       deezer: https://www.deezer.com/us/episode/232723862
@@ -63,9 +63,9 @@
       url: /episodios/2020-07-15-S0E5.mp3
       desc: Animes, waifus e tudo que há de bom. Junte-se a nós nessa conversa sobre a oitava maravilha do mundo. Ao lado de Richard Mariano e Kaique Augusto xingamos shonens e isekais, desprezamos ecchi e exaltamos bons animes.
       img: /images/eps/S0E5.jpg
-      detalhes: <a href="/images/originals/S0E5.jpg" target="blank">Imagem original</a><p>Recomendações:</p><ul><li>Shigatsu wa kimi no uso (your lie in april)</li><li>Fullmetal Alchemist Brotherhood</li><li>Steins Gate</li><li>Babylon</li></ul><p>Menções Honrosas:</p><ul><li>Shoujo kakumei utena</li><li>Kimi no na wa (Your name)</li><li>Koe no katachi (the shape of your voice)</li><li>Hunter X Hunter</li><li>Shingeki no Kyojin</li></ul><p>Nossos perfis no MyAnimeList:</p><ul><li><a href="https://myanimelist.net/profile/Richard99" target="blank">Richard99</a></li><li><a href="https://myanimelist.net/profile/luccaugusto" target="blank">luccaugusto</a></li><li><a href="https://myanimelist.net/profile/SeuKiks" target="blank">SeuKiks</a></li></ul>
+      detalhes: <a href="https://pds.luccaaugusto.xyz/images/originals/S0E5.jpg" target="blank">Imagem original</a><p>Recomendações:</p><ul><li>Shigatsu wa kimi no uso (your lie in april)</li><li>Fullmetal Alchemist Brotherhood</li><li>Steins Gate</li><li>Babylon</li></ul><p>Menções Honrosas:</p><ul><li>Shoujo kakumei utena</li><li>Kimi no na wa (Your name)</li><li>Koe no katachi (the shape of your voice)</li><li>Hunter X Hunter</li><li>Shingeki no Kyojin</li></ul><p>Nossos perfis no MyAnimeList:</p><ul><li><a href="https://myanimelist.net/profile/Richard99" target="blank">Richard99</a></li><li><a href="https://myanimelist.net/profile/luccaugusto" target="blank">luccaugusto</a></li><li><a href="https://myanimelist.net/profile/SeuKiks" target="blank">SeuKiks</a></li></ul>
 
-    - nome: PDS S0E6 - Livros, adaptações e opiniões
+    - nome: Livros, adaptações e opiniões - S0E6
       pub_date: Wed, 22 Jul 2020 14:00:00 +0000
       yt-link: https://youtu.be/mX5dpFIDw-U
       deezer: https://www.deezer.com/us/episode/234435682
@@ -73,9 +73,9 @@
       url: /episodios/2020-07-22-S0E6.mp3
       desc: Ahh os livros. Nesse episódio falamos sobre o que achamos de livros, se o kindle vai cometer genocídio sobre os livros físicos, adaptações merda e mais.
       img: /images/eps/S0E6.jpg
-      detalhes: <a href="/images/originals/S0E6.jpg" target="blank">Imagem original</a><p>livros recomendados:</p><ul><li>Fundação</li><li>Sandman</li><li>Simulations and Simulacra - Jean Bouldrilard</li><li>O Nome do Vento</li><li>Metamorfose - Kafka</li><li>A Menina que Roubava Livros</li><li>Battle Royale</li><li>O Guia Dos Mochileiros dass Galáxias</li><li>Espadachim de Carvão 1 e 2</li></ul><p>Meme que o Luiz Mário mandou no chat e todo mundo riu do nada:</p><img src="/images/detalhes/livros/dudao.jpg" alt="dudao"/>
+      detalhes: <a href="https://pds.luccaaugusto.xyz/images/originals/S0E6.jpg" target="blank">Imagem original</a><p>livros recomendados:</p><ul><li>Fundação</li><li>Sandman</li><li>Simulations and Simulacra - Jean Bouldrilard</li><li>O Nome do Vento</li><li>Metamorfose - Kafka</li><li>A Menina que Roubava Livros</li><li>Battle Royale</li><li>O Guia Dos Mochileiros dass Galáxias</li><li>Espadachim de Carvão 1 e 2</li></ul><p><a href="https://pds.luccaaugusto.xyz/images/detalhes/livros/dudao.jpg">Meme que o Luiz Mário mandou no chat e todo mundo riu do nada</a></p>
 
-    - nome: PDS S0E7 - Filmes, Morra Hollywood
+    - nome: Filmes, Morra Hollywood - S0E7
       pub_date: Wed, 29 Jul 2020 14:00:00 +0000
       yt-link: https://youtu.be/o5buBe9ZtkQ
       deezer: https://www.deezer.com/us/episode/237833932
@@ -83,19 +83,20 @@
       url: /episodios/2020-07-29-S0E7.mp3
       desc: Foda-se ficou grande mesmo. Versão extendida. Nesse episódio, presenteados com a primeira presença feminina no PDS, falamos muito de filmes. Filmes bons, O Resgate, filmes ruins, O Resgate, serviços de streaming, O Resgate, etc. Pagamos de cinéfilos um pouco e discutimos sobre o que é um bom filme. Adeus filmes de Hollywood, a moda agora é filmes que tenham conteúdo. E é claro, falamos um pouco mais sobre O Resgate.
       img: /images/eps/S0E7.jpg
-      detalhes: <a href="/images/originals/S0E7.jpg" target="blank">Imagem original</a><p>Sites de torrent recomendado <a href="https://filmescult.net" target="blank">filmescult.net</a></p><p>filmes recomendados:</p><ul><li>A vida de Brian - Monty Python</li><li>Senhor dos anéis (versão extendida DÃ)</li><li>Anjos caídos - wong kar wai (1995)</li><li>Beleza Americana</li><li>Brilho Eterno de uma Mente sem Lembraças</li></ul><p>Mensões Honrosas</p><ul><li>500 dias com ela</li><li>Show de Truman</li><li>High School Musical (em especial o 2)</li><li>Memento</li><li>Donnie Darko</li></ul><p>Letterboxd</p><ul><li><a href="https://letterboxd.com/luccaugusto/" target="blank">luccaugusto</a></li><li><a href="https://letterboxd.com/fernandaalmi_/" target="blank">fernandaalmi_</a></li><li><a href="https://letterboxd.com/seukiks/" target="blank">SeuKiks</a></li><li><a href="https://letterboxd.com/felipepontomp4/" target="blank">felipepontomp4</a></li><li><a href="https://letterboxd.com/richard_vrm/" target="blank">richardmariano</a></li></ul>
+      detalhes: <a href="https://pds.luccaaugusto.xyz/images/originals/S0E7.jpg" target="blank">Imagem original</a><p>Sites de torrent recomendado <a href="https://filmescult.net" target="blank">filmescult.net</a></p><p>filmes recomendados:</p><ul><li>A vida de Brian - Monty Python</li><li>Senhor dos anéis (versão extendida DÃ)</li><li>Anjos caídos - wong kar wai (1995)</li><li>Beleza Americana</li><li>Brilho Eterno de uma Mente sem Lembraças</li></ul><p>Mensões Honrosas</p><ul><li>500 dias com ela</li><li>Show de Truman</li><li>High School Musical (em especial o 2)</li><li>Memento</li><li>Donnie Darko</li></ul><p>Letterboxd</p><ul><li><a href="https://letterboxd.com/luccaugusto/" target="blank">luccaugusto</a></li><li><a href="https://letterboxd.com/fernandaalmi_/" target="blank">fernandaalmi_</a></li><li><a href="https://letterboxd.com/seukiks/" target="blank">SeuKiks</a></li><li><a href="https://letterboxd.com/felipepontomp4/" target="blank">felipepontomp4</a></li><li><a href="https://letterboxd.com/richard_vrm/" target="blank">richardmariano</a></li></ul>
 
-    - nome: PDS S0E7 - Filmes, Morra Hollywood (Original)
+    - nome: Filmes, Morra Hollywood (Original) - S0E7
       pub_date: Wed, 29 Jul 2020 14:00:00 +0000
+      hide: true
       yt-link:
       deezer:
       spotify:
       url: /episodios/2020-07-29-S0E7-original.mp3
       desc: Essa é a versão original (pq não existe versão extendida na verdade, escute para entender), como gravamos, do episódio sobre filmes. Sem cortes, todos os erros e loucuras que acontecem em Off. Foda-se ficou grande mesmo. Nesse episódio, presenteados com a primeira presença feminina no PDS, falamos muito de filmes. Filmes bons, O Resgate, filmes ruins, O Resgate, serviços de streaming, O Resgate, etc. Pagamos de cinéfilos um pouco e discutimos sobre o que é um bom filme. Adeus filmes de Hollywood, a moda agora é filmes que tenham conteúdo. E é claro, falamos um pouco mais sobre O Resgate.
       img: /images/eps/S0E7.jpg
-      detalhes: <a href="/images/originals/S0E7.jpg" target="blank">Imagem original</a><p>Sites de torrent recomendado <a href="https://filmescult.net" target="blank">filmescult.net</a></p><p>filmes recomendados:</p><ul><li>A vida de Brian - Monty Python</li><li>Senhor dos anéis (versão extendida DÃ)</li><li>Anjos caídos - wong kar wai (1995)</li><li>Beleza Americana</li><li>Brilho Eterno de uma Mente sem Lembraças</li></ul><p>Mensões Honrosas</p><ul><li>500 dias com ela</li><li>Show de Truman</li><li>High School Musical (em especial o 2)</li><li>Memento</li><li>Donnie Darko</li></ul><p>Letterboxd</p><ul><li><a href="https://letterboxd.com/luccaugusto/" target="blank">luccaugusto</a></li><li><a href="https://letterboxd.com/fernandaalmi_/" target="blank">fernandaalmi_</a></li><li><a href="https://letterboxd.com/seukiks/" target="blank">SeuKiks</a></li><li><a href="https://letterboxd.com/felipepontomp4/" target="blank">felipepontomp4</a></li><li><a href="https://letterboxd.com/richard_vrm/" target="blank">richardmariano</a></li></ul>
+      detalhes: <a href="https://pds.luccaaugusto.xyz/images/originals/S0E7.jpg" target="blank">Imagem original</a><p>Sites de torrent recomendado <a href="https://filmescult.net" target="blank">filmescult.net</a></p><p>filmes recomendados:</p><ul><li>A vida de Brian - Monty Python</li><li>Senhor dos anéis (versão extendida DÃ)</li><li>Anjos caídos - wong kar wai (1995)</li><li>Beleza Americana</li><li>Brilho Eterno de uma Mente sem Lembraças</li></ul><p>Mensões Honrosas</p><ul><li>500 dias com ela</li><li>Show de Truman</li><li>High School Musical (em especial o 2)</li><li>Memento</li><li>Donnie Darko</li></ul><p>Letterboxd</p><ul><li><a href="https://letterboxd.com/luccaugusto/" target="blank">luccaugusto</a></li><li><a href="https://letterboxd.com/fernandaalmi_/" target="blank">fernandaalmi_</a></li><li><a href="https://letterboxd.com/seukiks/" target="blank">SeuKiks</a></li><li><a href="https://letterboxd.com/felipepontomp4/" target="blank">felipepontomp4</a></li><li><a href="https://letterboxd.com/richard_vrm/" target="blank">richardmariano</a></li></ul>
 
-    - nome: PDS S0E8 - Perguntas e quase respostas
+    - nome: Perguntas e quase respostas - S0E8
       pub_date: Wed, 05 Aug 2020 14:00:00 +0000
       yt-link: https://www.youtube.com/watch?v=ywiC07yHrb0
       deezer: https://www.deezer.com/us/episode/238170422
@@ -105,7 +106,7 @@
       img: /images/eps/S0E1.jpg
       detalhes:
 
-    - nome: PDS S0E9 - TRANSAções na internet (vulgo tinder)
+    - nome: TRANSAções na internet (vulgo tinder) - S0E9
       pub_date: Wed, 12 Aug 2020 14:00:00 +0000
       yt-link: https://www.youtube.com/watch?v=quZ4-pc2G-c
       deezer: https://www.deezer.com/us/episode/239622102
@@ -115,7 +116,7 @@
       img: /images/eps/S0E9.jpg
       detalhes:
 
-    - nome: PDS S0E10 Season Finale - Músicas, rexpeita o funk e rap de anime
+    - nome: Músicas, rexpeita o funk e rap de anime - S0E10
       pub_date: Thu, 20 Aug 2020 14:00:00 +0000
       yt-link: https://youtu.be/UC9_HUX5VWE
       deezer: https://www.deezer.com/us/episode/241378702
@@ -127,7 +128,7 @@
 
 - nome: temporada-1
   episodios:
-    - nome: PDS S1E1 - Um bando de drogados
+    - nome: Um bando de drogados - S1E1
       pub_date: Wed, 02 Sep 2020 14:00:00 +0000
       yt-link: https://youtu.be/8Th6ZZ1U4_k
       deezer: https://www.deezer.com/us/episode/244134582
@@ -137,7 +138,7 @@
       img: /images/eps/S1E1.jpg
       detalhes: <a href="/images/originals/S1E1.jpg" target="blank">Imagem original</a>
 
-    - nome: PDS S1E2 - Experiências fora de BH
+    - nome: Experiências fora de BH - S1E2
       pub_date: Wed, 09 Sep 2020 14:00:00 +0000
       yt-link:
       deezer: https://www.deezer.com/us/episode/245397382
@@ -147,7 +148,7 @@
       img: /images/eps/S1E2.jpg
       detalhes:
 
-    - nome: PDS S1E3 - Militando contra a militância
+    - nome: Militando contra a militância - S1E3
       pub_date: Wed, 16 Sep 2020 14:00:00 +0000
       yt-link: https://youtu.be/_QlHgoM4POQ
       deezer: https://www.deezer.com/us/episode/246974212
@@ -157,7 +158,7 @@
       img: /images/eps/S1E3.jpg
       detalhes:
 
-    - nome: PDS S1E4 - Feministo
+    - nome: Feministo - S1E4
       pub_date: Wed, 23 Sep 2020 14:00:00 +0000
       yt-link: https://youtu.be/FL4_Cv7ZWsg
       deezer: https://www.deezer.com/us/episode/248613302
@@ -167,7 +168,7 @@
       img: /images/eps/S1E4.jpg
       detalhes: Instagram da aline-> <a href="https://www.instagram.com/alinetattoobh/" target="_blank">@alinetatoobh</a></br>Canal da Aline-> <a href="https://www.youtube.com/channel/UCAwKF4nxTPYfugQxTsNse-g" target="_blank">Forever Aline</a></br>Livro recomendado-> O Mito da Beleza - Naomi Wolf </br>Podcast recomendado-> <a href="https://open.spotify.com/show/1592iJQt0IlC5u5lKXrbyS" target="_blank">Bom dia, Obvious</a>
 
-    - nome: PDS S1E5 - Dedo no Cu e Terapia
+    - nome: Dedo no Cu e Terapia - S1E5
       pub_date: Wed, 30 Sep 2020 14:00:00 +0000
       yt-link: https://youtu.be/MvcCyq74HGc
       deezer: https://www.deezer.com/us/episode/250070922
@@ -177,7 +178,7 @@
       img: /images/eps/S1E5.jpg
       detalhes:
 
-    - nome: PDS S1E6 - A Vila Da Folha
+    - nome: A Vila Da Folha - S1E6
       pub_date: Wed, 07 Oct 2020 14:00:00 +0000
       yt-link: https://youtu.be/r7PC8cOh6KM
       deezer:
@@ -187,7 +188,7 @@
       img: /images/eps/S1E6.jpg
       detalhes: Documentários que citamos-> What the health, cowspiracy, dominion, the game changer (dieta dos gladiadores)
 
-    - nome: PDS S1E7 - Empreses Sociolucratives
+    - nome: Empreses Sociolucratives - S1E7
       pub_date: Wed, 14 Oct 2020 14:00:00 +0000
       yt-link: https://youtu.be/p522zpBkBCU
       deezer: https://www.deezer.com/us/episode/252751032
@@ -197,7 +198,7 @@
       img: /images/eps/S1E7.jpg
       detalhes:
 
-    - nome: PDS S1E8 - Entremenitento
+    - nome: Entremenitento - S1E8
       pub_date: Wed, 21 Oct 2020 14:00:00 +0000
       yt-link: https://youtu.be/jV9uvCaXVBA
       deezer: https://www.deezer.com/us/episode/254476692
@@ -207,7 +208,7 @@
       img: /images/eps/S1E8.jpg
       detalhes: <a href="https://www.chimichangas.com.br/manga/pedofilia-no-japao-o-que-precisamos-saber-para-debater-o-tema-no-cenario-otaku/" target="_blank">texto que o richard falou sobre pedofilia no japão.</a>
 
-    - nome: PDS S1E9 - Traders
+    - nome: Traders - S1E9
       pub_date: Wed, 28 Oct 2020 14:00:00 +0000
       yt-link:
       deezer: https://www.deezer.com/us/episode/256395502
@@ -217,7 +218,7 @@
       img: /images/eps/S1E9.jpg
       detalhes: livro sobre o início da consciência humana-> The Origin of Consciousness in the Breakdown of the Bicameral Mind por Julian Jaynes.
 
-    - nome: PDS S1E10 - O futuro do Papo de Sauna
+    - nome: O futuro do Papo de Sauna - S1E10
       pub_date: Sun, 03 Jan 2021 14:00:00 +0000
       yt-link:
       deezer: https://www.deezer.com/us/episode/269225092
@@ -229,7 +230,7 @@
 
 - nome: temporada-2
   episodios:
-    - nome: PDS S2E1 - Sobre o natal e o Grandioso Filme da ViihTube
+    - nome: Natal e o Grandioso Filme da ViihTube - S2E1
       pub_date: Sun, 03 Jan 2021 14:00:00 +0000
       yt-link:
       deezer: https://www.deezer.com/us/episode/269225102
@@ -239,56 +240,62 @@
       img: /images/eps/S2E1.jpg
       detalhes:
 
-    - nome: PDS S2E2 - O que é o gongo terapêutico
+    - nome: O que é o gongo terapêutico - S2E2
       pub_date: Wed, 06 Apr 2022 14:00:00 +0000
       yt-link:
       deezer: https://deezer.page.link/2gL4rub1KcqqEp6B7
       spotify: https://open.spotify.com/episode/4nrocmwl0Fms3NJWUcdkmF?si=LoVxlhd8ReSwVStqXkaEBg
       url: /episodios/2022-04-06-S2E2.mp3
       desc: Lucca fala sobre o que é o gongo terapeutico e quais os efeitos do gongo. Esse assunto é abordado de alguns pontos de vista diferentes, passando pelo cultural, místico/religioso, biológico e mental.
-        </br>Referências->
-        </br>+ <a href="https://www.youtube.com/watch?v=yUNqN0G-7Zw" target="blank">Análise de sangue antes e depois do gongo</a>
-        </br>+ <a href="https://www.youtube.com/watch?v=aQ-JDNfviDM" target="blank">Análise de sangue antes e depois com algumas explicacoes</a>
-        </br>+ <a href="https://www.instagram.com/renatomourayoga/" target="blank">Instagram do meu professor de Yoga (também toca gongo)-> Renato Moura</a>
-        </br>+ <a href="https://www.instagram.com/paulohg.psi/" target="blank">Instagram do meu professor de Gongo-> Paulo HG</a>
       img: /images/eps/S2E2.jpg
       detalhes:
+        </br>Referências->
+        <ul>
+        <li><a href="https://www.youtube.com/watch?v=yUNqN0G-7Zw" target="blank">Análise de sangue antes e depois do gongo</a></li>
+        <li><a href="https://www.youtube.com/watch?v=aQ-JDNfviDM" target="blank">Análise de sangue antes e depois com algumas explicacoes</a></li>
+        <li><a href="https://www.instagram.com/renatomourayoga/" target="blank">Instagram do meu professor de Yoga (também toca gongo)-> Renato Moura</a></li>
+        <li><a href="https://www.instagram.com/paulohg.psi/" target="blank">Instagram do meu professor de Gongo-> Paulo HG</a></li>
+        </ul>
 
-    - nome: PDS S2E3 - Kaique olha pra trás
+    - nome: Kaique olha pra trás - S2E3
       pub_date: Sun, 17 Apr 2022 14:00:00 +0000
       url: /episodios/2022-04-17-S2E3.mp3
       desc: Nesse episódio Kaique olha para seu passado e analisa quem ele era, quem ele é e quem ele vai ser.
-        </br>Referências->
-        </br>+ <a href="https://www.youtube.com/channel/UCm5TtnejcDYLHZxSQcg8QHw" target="blank">Yung Lixo</a>
-        </br>+ <a href="https://www.youtube.com/watch?v=mShT2gJUhbw" target="blank">Mixtape pra te impressionar</a>
       yt-link:
       deezer: https://deezer.page.link/ZoP5BJdTFQmQxZQT8
       spotify: https://open.spotify.com/episode/4sxpNF637so0o2C4PYW51e
       img: /images/eps/S2E3.jpg
       detalhes:
+        </br>Referências->
+        <ul>
+        <li></br>+ <a href="https://www.youtube.com/channel/UCm5TtnejcDYLHZxSQcg8QHw" target="blank">Yung Lixo</a></li>
+        <li></br>+ <a href="https://www.youtube.com/watch?v=mShT2gJUhbw" target="blank">Mixtape pra te impressionar</a></li>
+        </ul>
 
-    - nome: PDS S2E4 - Segundo primeiro episódio
+    - nome: Segundo primeiro episódio - S2E4
       pub_date: Mon, 18 Apr 2022 14:00:00 +0000
       url: /episodios/2022-04-18-S2E4.mp3
       desc: Uma releitura do primeiro episódio que lançamos.
         Lucca e Felipe conversam sem rumo sobre como estão as coisas em suas vidas hoje.
         Novamente um falatório sem rumo saltitando por diversos assuntos interessantes.
-        Durante o podcast falamos de algumas pessoas/bandas/coisas, aqui estão os links->
-        </br>+ <a href="https://www.youtube.com/channel/UCxqkOxQYocXRtSqlotgXh7w" target="blank">FKJ</a>
-        </br>+ <a href="https://www.youtube.com/channel/UCKKKYE55BVswHgKihx5YXew" target="blank">Porter Robinson</a>
-        </br>+ <a href="https://www.youtube.com/channel/UCNiyS8zr2RIddszLwtoyUow" target="blank">King Gizzard and the Lizard Wizard</a>
-        </br>+ <a href="https://www.youtube.com/channel/UCAayZDDj3uom0QpSJiwLoUw" target="blank">Bring Me The Horizon</a>
-        </br>+ <a href="https://www.youtube.com/channel/UCqLOZtEdRzXDzF-1CyJFc2Q" target="blank">Russian Circles</a>
-        </br>+ <a href="https://www.youtube.com/channel/UCfO3MSoheHzZL4GkK_gKfuw" target="blank">Primus</a>
-        </br>+ <a href="https://www.youtube.com/channel/UC1wUo-29zS7m_Jp-U_xYcFQ" target="blank">Tool</a>
-        </br>+ <a href="https://www.youtube.com/watch?v=-oSAcyt5WZo" target="blank">Na ponta do pé, MC Livinho</a>
       yt-link:
       deezer: https://deezer.page.link/Ae5JpgukBLSorvr89
       spotify: https://open.spotify.com/episode/6ESYUdBR9sPbcsj4NDkDg5?si=xVoCf1JZQDqOL8-WIlq5Cg
       img: /images/eps/S2E4.jpg
       detalhes:
+        Durante o podcast falamos de algumas pessoas/bandas/coisas, aqui estão os links->
+        <ul>
+        <li><a href="https://www.youtube.com/channel/UCxqkOxQYocXRtSqlotgXh7w" target="blank">FKJ</a></li>
+        <li><a href="https://www.youtube.com/channel/UCKKKYE55BVswHgKihx5YXew" target="blank">Porter Robinson</a></li>
+        <li><a href="https://www.youtube.com/channel/UCNiyS8zr2RIddszLwtoyUow" target="blank">King Gizzard and the Lizard Wizard</a></li>
+        <li><a href="https://www.youtube.com/channel/UCAayZDDj3uom0QpSJiwLoUw" target="blank">Bring Me The Horizon</a></li>
+        <li><a href="https://www.youtube.com/channel/UCqLOZtEdRzXDzF-1CyJFc2Q" target="blank">Russian Circles</a></li>
+        <li><a href="https://www.youtube.com/channel/UCfO3MSoheHzZL4GkK_gKfuw" target="blank">Primus</a></li>
+        <li><a href="https://www.youtube.com/channel/UC1wUo-29zS7m_Jp-U_xYcFQ" target="blank">Tool</a></li>
+        <li><a href="https://www.youtube.com/watch?v=-oSAcyt5WZo" target="blank">Na ponta do pé, MC Livinho</a></li>
+        </ul>
 
-    - nome: PDS S2E5 - Good Vibes, Escola, Bad Vibes e música
+    - nome: Good Vibes, Escola, Bad Vibes e música - S2E5
       pub_date: Sat, 14 May 2022 14:00:00 +0000
       url: /episodios/2022-05-14-S2E5.mp3
       desc: Lucca e Kaique conversam sobre as varias coisas que acontecem
@@ -303,7 +310,7 @@
       img: /images/eps/S2E5.jpg
       detalhes:
 
-    - nome: PDS S2E6 - Capitalismo, por favor PARE!
+    - nome: Capitalismo, por favor PARE! - S2E6
       pub_date: Fri, 10 Jun 2022 14:00:00 +0000
       url: /episodios/2022-06-10-S2E6.mp3
       desc: Papo de Sauna ficando chique, neste episodio temos a primeira convidada que
@@ -316,7 +323,7 @@
       img: /images/eps/S2E6.jpg
       detalhes:
 
-    - nome: PDS S2E7 - A CIA matou John F. Kennedy, seu deus não presta e Hora de Aventura é muito bom
+    - nome: A CIA matou John F. Kennedy, seu deus não presta e Hora de Aventura é muito bom - S2E7
       pub_date: Thu, 23 Jun 2022 14:00:00 +0000
       url: /episodios/2022-07-23-S2E7.mp3
       desc: Provavelmente o Papo de Sauna mais papo de sauna que já gravamos. Kaique entediado de férias
@@ -331,31 +338,33 @@
       img: /images/eps/S2E7.jpg
       detalhes:
 
-    - nome: PDS S2E8 - Os Verdadeiros Influencers
+    - nome: Os Verdadeiros Influencers - S2E8
       pub_date: Tue, 16 Aug 2022 19:42:00 +0000
       url: /episodios/2022-08-16-S2E8.mp3
       desc: Neste episódio Lucca fala sobre todos os livros/ideias/pessoas que influenciaram sua vida de alguma forma.
         Meio que uma viagem no tempo passando por cada ponto de mudança que foi causado por ideias de alguém,
         uma jornada bem pessoal e um episódio especial que já estava idealizado há muitos meses mas demorou pra sair.
-        Como prometido no episódio aqui vai uma lista dos livros e pessoas->
-        </br>+ Livro Models de Mark Manson
-        </br>+ Livro A sutil arte de ligar o foda-se de Mark Manson
-        </br>+ Músicas de E-Dubble
-        </br>+ O Skatista Ryan Reyes
-        </br>+ Become What You Are de Alan Watts
-        </br>+ O Espírito do Zen de Alan Watts
-        </br>+ A Via de Chuang Tzu de Thomas Merton
-        </br>+ Tao Te Ching de Laozi
-        </br>+ Sidarta de Herman Hesse
-        </br>+ Be Here Now de Ram Dass
-        </br>+ The Box i call Life de Lily Lu (Little Swastika)
       yt-link:
       deezer: https://deezer.page.link/eyqJUye62Z5LfdW37
       spotify: https://open.spotify.com/episode/2NAAAwYQo2eqEA22xCmPHg?si=305fcc2ada6e42af
       img: /images/eps/S2E8.jpg
       detalhes:
+        Como prometido no episódio aqui vai uma lista dos livros e pessoas->
+        <ul>
+        <li>Livro Models de Mark Manson</li>
+        <li>Livro A sutil arte de ligar o foda-se de Mark Manson</li>
+        <li>Músicas de E-Dubble</li>
+        <li>O Skatista Ryan Reyes</li>
+        <li>Become What You Are de Alan Watts</li>
+        <li>O Espírito do Zen de Alan Watts</li>
+        <li>A Via de Chuang Tzu de Thomas Merton</li>
+        <li>Tao Te Ching de Laozi</li>
+        <li>Sidarta de Herman Hesse</li>
+        <li>Be Here Now de Ram Dass</li>
+        <li>The Box i call Life de Lily Lu (Little Swastika)</li>
+        </ul>
 
-    - nome: PDS S2E9 - O verdadeiro Papo de Sauna são os amigos que fizemos ao longo da jornada
+    - nome: O verdadeiro Papo de Sauna são os amigos que fizemos ao longo da jornada - S2E9
       pub_date: Tue, 20 Sep 2022 09:30:00 +0000
       url: /episodios/2022-09-20-S2E9.mp3
       desc: Nesse episódio Lucca, Felipe e Kaique vão longe, nos confins de suas mentes para trazer todo tipo de brisa,
@@ -369,7 +378,7 @@
       img: /images/eps/S2E9.jpg
       detalhes:
 
-    - nome: PDS S2E10 - Adeus ano velho (2022) Feliz ano novo (2023)
+    - nome: Adeus ano velho (2022) Feliz ano novo (2023) - S2E10
       pub_date: Fri, 10 Feb 2023 09:30:00 +0000
       url: /episodios/2023-02-10-S2E10.mp3
       desc: E é ano novo no Papo De Sauna. Kaique, Lucca e André falam sobre como foi o último ano
@@ -383,7 +392,7 @@
 
 - nome: temporada-3
   episodios:
-    - nome: PDS S3E1 - Gosto Musical do Felipe
+    - nome: Gosto Musical do Felipe - S3E1
       pub_date: Thu, 04 May 2023 09:30:00 +0000
       url: /episodios/2023-05-04-S3E1.mp3
       desc: Começamos a terceira temporada do Papo de Sauna contando a história da relação do Felipe com a música.
@@ -395,41 +404,41 @@
       img: /images/eps/S3E1.jpg
       detalhes:
 
-    - nome: PDS S3E2 - Gosto Musical do Kaique
+    - nome: Gosto Musical do Kaique - S3E2
       pub_date: Mon, 29 May 2023 09:30:00 +0000
       url: /episodios/2023-05-29-S3E2.mp3
       desc: Segundo episódio da série de entrevistas sobre gosto musical, dessa vez com Kaique,
         que nos conta nos mínimos detalhes sua trajetória com a música.
-        Lista de recomendações que o Kaique deixou->
-        <ul>
-          <li>+Llainwire</li>
-          <li>+Mixtape pra te impressionar do YungLixo</li>
-        </ul>
       yt-link:
       deezer: https://deezer.page.link/drdCfPSe5qXTsAQaA
       spotify: https://open.spotify.com/episode/1wyWc20dQgwLz70YNqlzfJ?si=3512e5dd20f54269
       img: /images/eps/S3E2.jpg
       detalhes:
+        Lista de recomendações que o Kaique deixou->
+        <ul>
+          <li>Llainwire</li>
+          <li>Mixtape pra te impressionar do YungLixo</li>
+        </ul>
 
-    - nome: PDS S3E3 - POCS Diante do Trono
+    - nome: POCS Diante do Trono - S3E3
       pub_date: Wed, 07 Jun 2023 09:30:00 +0000
       url: /episodios/2023-06-07-S3E3.mp3
       desc: Nesse episódio mais que espetacular temos Izaque e Douglas como convidados.
         Os dois são gays que nasceram e cresceram em familias evangélicas, frequentando comunidades
         evangélicas e trazem várias experiências sobre essa realidade. Certamente um dos episódios de
         Papo de Sauna mais profundos. Preparem-se pra conhecer uma nova realidade.
-        Recomendações->
-        <ul>
-          <li>+ Documentário Pray Away (disponível na Netflix), fala sobre a cura Gay.</li>
-          <li>+ Documentário Fé e Fúria (disponível no ClaroTV), fala sobre intolerância religiosa e a ascensão do neopentecostalismo no Brasil</li>
-        </ul>
       yt-link:
       deezer: https://deezer.page.link/m7cVbZyP7JLAfHEg7
       spotify: https://open.spotify.com/episode/6pECvQ5a2KrSf5AyIYQcCG?si=c5ae46f0785f4460
       img: /images/eps/S3E3.jpg
       detalhes:
+        Recomendações->
+        <ul>
+          <li>Documentário Pray Away (disponível na Netflix), fala sobre a cura Gay.</li>
+          <li>Documentário Fé e Fúria (disponível no ClaroTV), fala sobre intolerância religiosa e a ascensão do neopentecostalismo no Brasil</li>
+        </ul>
 
-    - nome: PDS S3E4 - Gosto Musical do Lucca
+    - nome: Gosto Musical do Lucca - S3E4
       pub_date: Thu, 29 Jun 2023 09:30:00 +0000
       url: /episodios/2023-06-29-S3E4.mp3
       desc: Mais um episódio da série documentando gostos musicais. Dessa vez com Lucca, que nos conta
@@ -440,7 +449,7 @@
       img: /images/eps/S3E4.jpg
       detalhes:
 
-    - nome: PDS S3E5 - Adeus 2023, Annyeong-Haseyo 2024
+    - nome: Adeus 2023, Annyeong-Haseyo 2024 - S3E5
       pub_date: Tue, 30 Jan 2024 09:30:00 +0000
       url: /episodios/2024-15-02-S3E5.mp3
       desc: Mantendo a tradição, Felipe, Kaique e Lucca conversam sobre como foi o ano de 2023
