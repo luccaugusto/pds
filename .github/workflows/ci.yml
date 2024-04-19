@@ -23,7 +23,7 @@ jobs:
         run: sudo gem install jekyll bundler
 
       - name: Build the website
-        run: sudo bundle update && sudo JEKYLL_ENV=production bundle exec jekyll build
+        run: sudo bundle update && sudo JEKYLL_ENV=production bundle exec jekyll build && rm _site/.*sh
 
       - name: Scan the host key
         run: mkdir -p ~/.ssh/ && ssh-keyscan -H $DEPLOY_SERVER >> ~/.ssh/known_hosts

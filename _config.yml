@@ -52,17 +52,25 @@ podcast:
   language: 'pt-BR'
   feed_file: 'pds.xml'
   keywords: "sauna, entretenimento, humor, filosofia"
+  copyright: "todos os direitos reservados"
   episode_data:
     - monologos
   season_data:
     - temporadas
-  season_name_attribute: nome
-  season_episode_list_attribute: episodios
+  ep_name: nome
+  ep_pub_date: pub_date
+  ep_url: url
+  ep_desc: desc
+  ep_img: img
+  ep_details: detalhes
+  season_name: nome
+  season_episode_list: episodios
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-fede
 
 # Exclude from processing.
 # The following items will not be processed, by default.
