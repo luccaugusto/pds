@@ -23,8 +23,8 @@ function mostrarTemporada(div_id) {
 
 function trocaOrdem() {
   const epList = document.querySelectorAll(".reversible");
-  const arrowUp = document.getElementById("arrow-up");
-  const arrowDown = document.getElementById("arrow-down");
+  const arrowUp = document.getElementById("library-arrow-up");
+  const arrowDown = document.getElementById("library-arrow-down");
   arrowUp.classList.toggle('hidden');
   arrowDown.classList.toggle('hidden');
   epList.forEach(function(ep){

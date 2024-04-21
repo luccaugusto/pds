@@ -141,9 +141,11 @@ a {
 }
 .flex-column {
 	flex-direction: column;
+	transition: all 0.5s;
 }
 .flex-column-reverse {
 	flex-direction: column-reverse;
+	transition: all 0.5s;
 }
 .flex-row {
 	flex-direction: row;
