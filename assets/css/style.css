@@ -226,6 +226,20 @@ a {
 	min-height: 200pt;
 	border-color: #fffaeb;
 }
+.fade-out {
+	animation: fadeOut 1s;
+}
+@keyframes fadeOut {
+  0% { opacity: 1; }
+  100% { opacity: 0; }
+}
+.fade-in {
+	animation: fadeIn 1s;
+}
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
 .hidden {
 	display: none;
 }

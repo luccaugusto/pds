@@ -21,14 +21,28 @@ function mostrarTemporada(div_id) {
 	}
 }
 
+const fadeOutIn = [
+  { opacity: 1 },
+  { opacity: 0 },
+  { opacity: 1 },
+];
+
+const fadeTiming = {
+  duration: 1000,
+  iterations: 1,
+};
+
 function trocaOrdem() {
   const epList = document.querySelectorAll(".reversible");
   const arrowUp = document.getElementById("library-arrow-up");
   const arrowDown = document.getElementById("library-arrow-down");
   arrowUp.classList.toggle('hidden');
   arrowDown.classList.toggle('hidden');
-  epList.forEach(function(ep){
-    ep.classList.toggle('flex-column');
-    ep.classList.toggle('flex-column-reverse');
+  epList.forEach(function(list){
+    list.animate(fadeOutIn, fadeTiming);
+    setTimeout(() => {
+      list.classList.toggle('flex-column');
+      list.classList.toggle('flex-column-reverse');
+    }, 500);
   });
 }
