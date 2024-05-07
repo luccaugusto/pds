@@ -1,0 +1,20 @@
+<li><a href="{{ include.url }}" target="_blank">
+    <div class="play-button {{include.class}}">
+        {% if include.type == 'mp3' %}
+            <img class="icon-small" src="/images/icons/music-icon.jpg"/>
+            MP3
+        {% elsif include.type == 'youtube' %}
+            <img class="icon-small" src="/images/icons/youtube-icon.png"/>
+            YouTube
+        {% elsif include.type == 'spotify' %}
+            <img class="icon-small" src="/images/icons/spotify-icon.png"/>
+            Spotify
+        {% elsif include.type == 'deezer' %}
+            <img class="icon-small" src="/images/icons/deezer-icon.png"/>
+            Deezer
+        {% elsif include.type == 'instagram' %}
+            <img class="icon-small" src="/images/icons/instagram-icon.png"/>
+            IGTV
+        {% endif %}
+    </div>
+</a></li>

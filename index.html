@@ -30,35 +30,15 @@ title: Papo de Sauna
 			{% endif %}
             <h4>Escute em:</h4>
 			<ul class="lista-episodios">
-				<li><a href="{{ ep.url }}" target="_blank">
-                    <div class="play-button">
-                        <img class="icon-small" src="/images/icons/music-icon.jpg"/>
-                        MP3
-                    </div>
-                </a></li>
+                {% include listen-button.html url=ep.url type="mp3" %}
 				{% if ep.yt-link %}
-				    <li><a href="{{ ep.yt-link }}" target="_blank">
-                        <div class="play-button">
-                            <img class="icon-small" src="/images/icons/youtube-icon.png"/>
-                            YouTube
-                        </div>
-                    </a></li>
+                    {% include listen-button.html url=ep.yt-link type="youtube" %}
 				{% endif %}
 				{% if ep.spotify %}
-                    <li><a href="{{ ep.spotify }}" target="_blank">
-                        <div class="play-button">
-                            <img class="icon-small" src="/images/icons/spotify-icon.png"/>
-                            Spotify
-                        </div>
-                    </a></li>
+                    {% include listen-button.html url=ep.spotify type="spotify" %}
 				{% endif %}
 				{% if ep.deezer %}
-					<li><a href="{{ ep.deezer }}" target="_blank">
-                        <div class="play-button">
-                            <img class="icon-small" src="/images/icons/deezer-icon.png"/>
-                            Deezer
-                        </div>
-                    </a></li>
+                    {% include listen-button.html url=ep.deezer type="deezer" %}
 				{% endif %}
 			</ul>
 		</div>
