@@ -6,17 +6,6 @@ permalink: /wallpapers/
 <div class="w50 mauto text-center" id="desc">
 	<h1 class="backshadow">Wallpapers temáticos de cada temporada do seu podcast preferido</h1>
 </div>
-<div id="grid" class="galeria conteudo fundo-neutro">
-	<div class="linha">
-	{% for img in site.data.wallpapers %}
-		{% assign mod = forloop.index0 | modulo: 5 %}
-		{% if mod == 0 %}
-			</div>
-			<div class="linha">
-		{% endif %}
-		<div class="container-img">
-			<a href="{{ img.link }}" target="blank"><img src="{{ img.link }}" alt="{{ img.nome }}" class="wallpaper imagem"/></a>
-		</div>
-	{% endfor %}
-	</div>
+<div id="grid" class="masonry conteudo fundo-neutro">
+    {% include galery.html content=site.data.wallpapers %}
 </div>

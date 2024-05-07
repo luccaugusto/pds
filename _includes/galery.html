@@ -1,0 +1,16 @@
+{% for img in include.content limit:include.limit %}
+    {% assign titulo = img.nome | split: '.' %}
+    {% if titulo[1] == 'mp4' %}
+        <div class="item">
+            <video class="imagem" controls preload="auto">
+                <source src="{{ img.link }}" type="video/mp4">
+            </video>
+        </div>
+    {% else %}
+        <div class="item">
+            <a href="{{ img.link }}" target="blank">
+                <img src="{{ img.link }}" alt="{{ img.nome }}" class="imagem"/>
+            </a>
+        </div>
+    {% endif %}
+{% endfor %}

@@ -53,10 +53,36 @@ a {
 	overflow: hidden;
 	margin: 2pt;
 }
-.imagem {
+.imagem{
 	width: 100%;
 	display: table-cell;
 }
+.masonry {
+	-webkit-column-count: 4;
+	-moz-column-count:4;
+	column-count: 4;
+	-webkit-column-gap: 1em;
+	-moz-column-gap: 1em;
+	column-gap: 1em;
+	margin: 1.5em;
+	padding: 0;
+	-moz-column-gap: 1.5em;
+	-webkit-column-gap: 1.5em;
+	column-gap: 1.5em;
+	font-size: .85em;
+}
+.item {
+	display: inline-block;
+	padding: 6px;
+	margin: 0 0 1.5em;
+	width: 100%;
+	border-radius: 5px;
+	-webkit-transition:1s ease all;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+.item img{max-width:100%;}
 .thumbnail {
 	width: 90%;
 }
@@ -73,6 +99,11 @@ a {
 	color: black;
 	padding: 0 15pt 0 15pt;
 }
+.monologo{
+	background-color: #82d8f6;
+	box-shadow: 0px 0px 10px 10px #196b87;
+	width: 66%;
+}
 .lista-episodios {
 	display: flex;
 	flex-wrap: wrap;
@@ -82,17 +113,20 @@ a {
 }
 .lista-episodios li {
     list-style-type: none;
-    width: 25%;
+    width: 6rem;
     background-color: #000;
     padding: 8pt;
     border-radius: 10pt;
-    line-height: 40px;
+    line-height: 20px;
     vertical-align: middle;
 	border: solid 2pt #fff;
 }
 .lista-episodios li a {
 	color: #fff;
 	text-decoration: none;
+}
+.btn-small{
+	line-height: 20px;
 }
 .play-button {
     display: flex;
@@ -130,6 +164,9 @@ a {
 .text-center {
 	text-align: center;
 }
+.text-left {
+	text-align: left;
+}
 .fright {
 	float: right;
 }
@@ -150,6 +187,15 @@ a {
 }
 .flex-row {
 	flex-direction: row;
+}
+.flex-wrap {
+	flex-wrap: wrap;
+}
+.justify-around {
+	justify-content: space-around;
+}
+.justify-between {
+	justify-content: space-between;
 }
 .ordem {
 	position: relative;
@@ -275,6 +321,9 @@ a {
 .w25 {
 	width: 25%;
 }
+.w30 {
+	width: 30%;
+}
 .w30m {
 	max-width: 30%;
 }
@@ -354,6 +403,9 @@ a {
 	.imagem {
 		width: 40%;
 		display: block;
+	}
+	.item {
+		height: unset;
 	}
 	.wallpaper {
 		width: 100% !important;
