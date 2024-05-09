@@ -1,36 +1,17 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
 title: Papo de Sauna
 email: opapodesauna@gmail.com
 short_description: Uma conversa de muita humidade sobre diversos assuntos
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   Uma conversa de muita humidade sobre diversos assuntos.
   Pega sua toalha e toma uma ducha que a sauna já ta quente.
-  Aviso aos novos ouvintes: Se você acabou de chegar sugiro que
-    comece pelo último episódio da temporada 0 ou pelo primeiro da temporada 1.
-    A temporada 0 foi bem experimental e o ínicio é muito mais íntimo e sem rumo.
-    É claro que a temporada 0 tem incríveis episódios, mas pode ser um pouco estranho
-    se você não conhece a gente pessoalmente (talvez seja estranho mesmo se você já conheça a gente).
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pds.luccaaugusto.xyz" # the base hostname & protocol for your site, e.g. http://example.com
+  Meio papo cabeça e meio jogação de conversa fora, esse podcast já teve muitos estilos diferentes.
+  Atualmente estamos na temporada 3, nossa quarta temporada (0 base indexing hell yeah), e a ideia
+  é que ela seja uma capsula do tempo, os episódios são histórias, relatos e o registro de um momento
+  das nossas vidas. Temos outras temporadas com episódios de temas variados e aleatórios, alguns simplesmente
+  PIKA e outros legalzinhos.
+  Então chega mais, entra ai, só não deixa a porta aberta pro vapor não sair.
+baseurl: ""
+url: "https://pds.luccaaugusto.xyz"
 twitter_username: opapodesauna
 instagram_username: opapodesauna
 site_lucca: "https://blog.luccaaugusto.xyz"
@@ -40,6 +21,7 @@ spotify_url: "https://open.spotify.com/show/5VWdkyfClOExKXW0iVtjBk?si=RPFANC-FQn
 deezer_url: "https://www.deezer.com/us/show/1517652"
 youtube_url: "https://www.youtube.com/channel/UCB2sL-zF7bVGNVCX8YrLthQ"
 orkut_url: "https://www.orkut.br.com/MainProfile?uid=2739208"
+instagram_url: "https://instagram.com/papodesauna"
 orkut: "Papo de Sauna"
 rss_url: "https://pds.luccaaugusto.xyz/pds.xml"
 logo: "/images/pds-logo.jpg"

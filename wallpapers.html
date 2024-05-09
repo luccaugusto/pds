@@ -3,9 +3,11 @@ layout: gallery
 title: Wallpapers
 permalink: /wallpapers/
 ---
-<div class="w50 mauto text-center" id="desc">
-	<h1 class="backshadow">Wallpapers temáticos de cada temporada do seu podcast preferido</h1>
+<div class="w75 mauto text-center" id="desc">
+	<h1 class="heading">Wallpapers temáticos de cada temporada do seu podcast preferido</h1>
 </div>
-<div id="grid" class="masonry conteudo fundo-neutro">
-    {% include galery.html content=site.data.wallpapers %}
+<div class="extended-up">
+    <div id="grid" class="masonry">
+        {% include galery.html content=site.data.wallpapers %}
+    </div>
 </div>

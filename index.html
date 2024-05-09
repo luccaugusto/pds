@@ -3,21 +3,26 @@ layout: default
 title: Papo de Sauna
 ---
 
-<div class="w50 mauto text-center flex flex-center">
-	<h1 class="backshadow">Episódios</h1>
-	<a onClick="trocaOrdem()">
-	    {% include library-arrow-up-svg.html %}
-	    {% include library-arrow-down-svg.html %}
-    </a>
+<div class="central text-center">
+	<h1 class="heading">
+        Episódios
+        <a onClick="trocaOrdem()">
+            {% include library-arrow-up-svg.html %}
+            {% include library-arrow-down-svg.html %}
+        </a>
+    </h1>
 </div>
 {% include back-to-top.html %}
 <div class="flex flex-column reversible" id="episode-list">
 	{% for temporada in site.data.temporadas reversed %}
     {% assign temp = temporada.nome | remove_first: "temporada-"%}
-	<div id="temporada-{{ temp }}" class="central flex flex-column reversible">
+	<div id="temporada-{{ temp }}" class="temporadas central flex flex-column reversible">
         {% for ep in temporada.episodios reversed%}
 		<div class="conteudo-{{ temp }} episodio">
 			<img class="fright ep-image" src="{% if ep.img %}{{ ep.img }}{% else %}{{ site.logo}}{% endif %}" alt="{{ ep.nome }}"/>
+            {% assign pub_date = ep.pub_date | split: ":00 +" %}
+            {% assign pub_date = pub_date[0] | split: ", " %}
+            <span class="hint">{{ pub_date[1] }}</span>
 			<h3>{{ ep.nome }}</h3>
 			<p>{{ ep.desc }}</p>
 			<div id="div-ep-{{ forloop.index }}" class="detalhes" style="display: none">

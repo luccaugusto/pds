@@ -4,105 +4,87 @@ title: Sobre
 permalink: /sobre/
 ---
 
-<div class="w50 mauto text-center" id="desc">
-	<h1 class="backshadow">Sobre o Papo de Sauna</h1>
-	<h4>
-        {{ site.description }}
-	</h4>
-    <h4>
-        Quer participar de algum episódio?
-        Manda um email pra <a href="mailto:{{ site.email }}">{{ site.email }}</a> e vamo combinar.
-    </h4>
+<div class="w50 mauto text-center central" id="desc">
+	<h1 class="heading" style="color: black">Sobre o Papo de Sauna</h1>
+    <div class="my25 detalhes shadow-neutro extended-up main-color">
+        <p>
+            {{ site.description }}
+        </p>
+        <p class="font12">
+            Quer participar de algum episódio?
+            Manda um email pra <a href="mailto:{{ site.email }}">{{ site.email }}</a> e vamo combinar.
+        </p>
+    </div>
 </div>
-<div class="central conteudo fundo-neutro">
-    <h1 class="text-center">Sempre na sauna:</h1>
-	<div class="p10 flex flex-row">
-        <div class="w50">
-		    <img class="w100" src="/images/felipe.jpg" alt="felipe"/>
+<div class="central">
+    <div class="my25" style="margin-bottom: 15%">
+        <h1 class="text-center heading">Sempre na sauna:</h1>
+        <div class="flex flex-center flex-column extended-up">
+        {% include id-card.html
+            image="/images/felipe.jpg"
+            image-alt="felipe"
+            name="Felipe Ferreira"
+            year="2019"
+            desc="Skate is love, skate is life. Psicólogo leitor de mentes e artista, fez a maravilhosa intro do PDS e algumas outras músicas. Manda muito bem na fotografia e edição de imagens."
+        %}
+        {% capture lucca_desc %}Skate is love, skate is life. Garoto de programa (desculpa bb, só programas de computador), criador desse belissimo site que observas neste momento.<a href="{{ site.portfolio_lucca }}" target="_blank">Metido a artista como você pode ver</a>{% endcapture %}
+        {% include id-card.html
+            image="/images/lucca.jpg"
+            image-alt="lucca"
+            name="Lucca Augusto"
+            year="2019"
+            desc=lucca_desc
+        %}
+        {% include id-card.html
+            image="/images/kaique.jpg"
+            image-alt="kaique"
+            name="Kaique Augusto"
+            year="2021"
+            desc="O caçula do Papo De Sauna, nosso mais ávido ouvinte. Entrou pela primeira vez na sauna com apenas 13 anos. Hoje já é um homem crescido de 17. Há boatos de que seu segredo pra ser maromba é escutar Papo De Sauna na academia."
+        %}
         </div>
-        <div class="w50 p10">
-            <h2>Felipe Ferreira</h2>
-            <p>
-                Skate is love, skate is life. Fez a maravilhosa intro do PDS e algumas outras músicas. Manda muito bem na fotografia e edição de imagens.
-                Confere o <a href="{{ site.port_felipe }}" target="_blank">portfólio</a>.
-            </p>
-        </div>
-	</div>
-	<div class="p10 flex flex-row">
-        <div class="w50 p10">
-            <h2>Lucca Augusto</h2>
-            <p>
-                Famosa bio do tinder:
-            </p>
-            <p>
-            Skate is love, skate is life. Garoto de programa (desculpa bb, só programas de computador), praticante (e quase evangelizador) de kundalini yoga.
-            </p>
-                Dono de um maravilhoso site e também um piadista as vezes, confere lá:
-            <ul>
-                <li><a href="{{ site.portfolio_lucca }}" target="_blank">Portfolio</a></li>
-                <li><a href="{{ site.site_lucca }}" target="_blank">Site</a></li>
-            </ul>
-        </div>
-        <div class="w50">
-		    <img class="w100" src="/images/lucca.jpg" alt="lucca"/>
-        </div>
-	</div>
-	<div class="p10 flex flex-row">
-        <div class="w50">
-		    <img class="w100" src="/images/kaique.jpg" alt="kaique"/>
-        </div>
-        <div class="w50 p10">
-            <h2>Kaique Augusto</h2>
-            <p>
-                O caçula do Papo De Sauna. Primo de Lucca Augusto. Já com ótimo gosto e opiniões sinceras no auge de seus 13 anos. Parente de Lucca Augusto né, não podia ser diferente.
-            </p>
-        </div>
-	</div>
+    </div>
 
-    <h2 class="text-center">Vozes que você já ouviu na sauna</h2>
-    <div class="flex flex-row flex-wrap text-center">
-        <div class="p10 flex flex-column w30">
-            <img src="/images/churros.jpg" alt="churros" class="w100"/>
-            <h2>Churros DVR</h2>
-            <p>
-                Lendário goleiro do EFG, Platina 1 no LOLzinho, huge range. Chega pra agitar todo tipo de rolê.
-            </p>
-        </div>
-        <div class="p10 flex flex-column w30">
-            <img src="/images/joao.jpg" alt="joao" class="w100"/>
-            <h2>João Henrique Carvalho Zacour Almeida Gusmão</h2>
-            <p>
-                João é poesia. O galã do Papo de Sauna, não há quem resista a seus charmes. Carrega a sabedoria (e nomes) de 37 familias.
-            </p>
-        </div>
-        <div class="p10 flex flex-column w30">
-            <img src="/images/caio.jpg" alt="caio" class="w100"/>
-            <h2>Caio Ferreira</h2>
-            <p>
-                Irmão de Felipe Ferreira. Caio faz parte de um casal popularmente conhecido como Cris e Greg. Nunca vemos Caio sem ver também sua namorada, e vice-versa provavelmente. Aparição mais rara que estrelas cadentes, uma visão ao vivo de caio vale 2 desejos.
-            </p>
-        </div>
-        <div class="p10 flex flex-column w30">
-            <img src="/images/richard.jpg" alt="richard"/>
-            <h2>Richard Mariano</h2>
-            <p>
-                No canto esquerdo, com 49,5Kg, ele, Richard Mariano. Crítico sem dó, animes ruins fujam para as colinas, nenhum será perdoado. Vegano firme na causa.
-            </p>
-        </div>
-        <div class="p10 flex flex-column w30">
-            <img src="/images/luizmario.jpg" alt="luizmario" class="w100"/>
-            <h2>Luiz Mário</h2>
-            <p>
-                Uai, mas cadê o Luiz Luigi?
-                Jogador nato, terno arretado, ideias no mínimo excêntricas e memes para qualquer situação. Dá pra querer mais alguma coisa?
-            </p>
-        </div>
-        <div class="p10 flex flex-column w30">
-            <img src="/images/fernando.jpg" alt="fernando" class="w100"/>
-            <h2>Fernando Pugliese</h2>
-            <p>
-                Antes de existir Fernando, existia seu bigode. Fernando é a dádiva da união da cultura italiana com a cultura japonesa, um lámen ao molho pesto. Achou estranho? experimente antes de julgar.
-            </p>
+    <h2 class="text-center p10 heading">Vozes que você já ouviu por aqui</h2>
+    <div class="my25 p10 fundo-secundario extended-up">
+        <div class="flex flex-row justify-between flex-wrap text-center">
+            {%
+                include other-members.html
+                image="/images/churros.jpg"
+                name="Churros DVR"
+                desc="Lendário goleiro do EFG, Platina 1 no LOLzinho, huge range"
+            %}
+            {%
+                include other-members.html
+                image="/images/joao.jpg"
+                name="João Henrique Carvalho Zacour Almeida Gusmão"
+                desc="João é poesia. O galã do Papo de Sauna, não há quem resista a seus charmes. Carrega a sabedoria (e nomes) de 37 familias."
+            %}
+            {%
+                include other-members.html
+                image="/images/caio.jpg"
+                name="Caio Ferreira"
+                desc="Irmão de Felipe Ferreira. Caio faz parte de um casal popularmente conhecido como Cris e Greg. Nunca vemos Caio sem ver também sua namorada, e vice-versa provavelmente. Aparição mais rara que estrelas cadentes, uma visão ao vivo de caio vale 2 desejos."
+            %}
+            {%
+                include other-members.html
+                image="/images/richard.jpg"
+                name="Mestre Richard Mariano"
+                desc="No canto esquerdo, com 49,5Kg, ele, Richard Mariano. Mestre em Ciência da Computação e crítico sem dó, animes ruins fujam para as colinas, nenhum será perdoado."
+            %}
+            {%
+                include other-members.html
+                image="/images/luizmario.jpg"
+                name="Luiz Mário"
+                desc="Uai, mas cadê o Luiz Luigi? Jogador nato, terno arretado, ideias no mínimo excêntricas e memes para qualquer situação. Dá pra querer mais alguma coisa?"
+            %}
+            {%
+                include other-members.html
+                name="Fernando Pugliese"
+                image="/images/fernando.jpg"
+                alt="fernando"
+                desc="Antes de existir Fernando, existia seu bigode. Fernando é a dádiva da união da cultura italiana com a cultura japonesa, um lámen ao molho pesto. Achou estranho? experimente antes de julgar."
+            %}
         </div>
     </div>
 </div>

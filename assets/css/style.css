@@ -30,6 +30,9 @@ a {
 
 	background-color: #000;
 }
+.main-color {
+	color: #ff8701;
+}
 
 .floating-icon {
 	width: 2rem;
@@ -57,6 +60,11 @@ a {
 	width: 100%;
 	display: table-cell;
 }
+.square-image {
+	width: 8rem;
+	height: 8rem;
+	object-fit: cover;
+}
 .masonry {
 	-webkit-column-count: 4;
 	-moz-column-count:4;
@@ -77,10 +85,12 @@ a {
 	margin: 0 0 1.5em;
 	width: 100%;
 	border-radius: 5px;
+	background-color: #ffa6f3;
 	-webkit-transition:1s ease all;
 	box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
+	box-shadow: 5px 5px 10px 4px #940080;
 }
 .item img{max-width:100%;}
 .thumbnail {
@@ -89,9 +99,21 @@ a {
 .logo {
 	width: 10%;
 	position: absolute;
-	top: 20pt;
-	left: 50pt;
-
+	top: 15pt;
+	left: 15pt;
+}
+.heading {
+	color: black;
+	background-color: #ecb44d;
+    padding: 10pt;
+    font-size: 2.5rem;
+    transform: skewX(350deg) rotate(355deg);
+    box-shadow: 7px 7px 12px 5px #c3976e;
+    border: solid #ff7100;
+	margin-bottom: -1rem;
+	z-index: 1000;
+	position: relative;
+	text-align: center;
 }
 .galeria {
 	margin: 0 5% auto;
@@ -100,29 +122,26 @@ a {
 	padding: 0 15pt 0 15pt;
 }
 .monologo{
-	background-color: #82d8f6;
 	box-shadow: 0px 0px 10px 10px #196b87;
-	width: 66%;
+	min-height: unset !important;
 }
 .lista-episodios {
 	display: flex;
 	flex-wrap: wrap;
-	justify-content: space-evenly;
+	justify-content: center;
 	margin: 0;
 	padding: 0;
 }
-.lista-episodios li {
-    list-style-type: none;
-    width: 6rem;
+.listen-button {
+	width: 4rem;
     background-color: #000;
-    padding: 8pt;
+    padding: 0.2rem;
     border-radius: 10pt;
-    line-height: 20px;
-    vertical-align: middle;
 	border: solid 2pt #fff;
+	font-size: 0.8rem;
 }
-.lista-episodios li a {
-	color: #fff;
+.listen-button a {
+	color: #fff !important;
 	text-decoration: none;
 }
 .btn-small{
@@ -141,6 +160,17 @@ a {
 	color: black;
 	padding: 1pt 0;
 }
+.episodio {
+	border-radius: 10pt;
+	margin: 15pt;
+	text-align: justify;
+	border: 5pt solid;
+}
+.episodio > img {
+	border-radius: 5pt;
+	margin: 0 0 10pt 10pt;
+	max-width: 30%;
+}
 .clickable:hover {
 	cursor: pointer;
 }
@@ -156,6 +186,9 @@ a {
 	background-color: #ecb44d;
 	box-shadow: 0px 0px 20px 20px #ff8100;
 }
+.shadow-neutro {
+	box-shadow: 5px 5px 10px 5px #fff;
+}
 .sidebar {
 	width: 20%;
 	position: absolute;
@@ -167,6 +200,12 @@ a {
 .text-left {
 	text-align: left;
 }
+.text-right {
+	text-align: right;
+}
+.text-justify {
+	text-align: justify;
+}
 .fright {
 	float: right;
 }
@@ -175,7 +214,6 @@ a {
 }
 .flex-center {
 	align-items: center;
-	justify-content: center;
 }
 .flex-column {
 	flex-direction: column;
@@ -183,6 +221,10 @@ a {
 }
 .flex-column-reverse {
 	flex-direction: column-reverse;
+	transition: all 0.5s;
+}
+.flex-row-reverse {
+	flex-direction: row-reverse;
 	transition: all 0.5s;
 }
 .flex-row {
@@ -197,6 +239,9 @@ a {
 .justify-between {
 	justify-content: space-between;
 }
+.justify-center {
+	justify-content: center;
+}
 .ordem {
 	position: relative;
 	left: 100%;
@@ -207,21 +252,7 @@ a {
 	text-align: center;
 	margin-bottom: 10%;
 }
-.bipartido {
-	display: inline-flex;
-}
-.episodio {
-	border-radius: 10pt;
-	margin: 15pt;
-	text-align: justify;
-	border: 5pt solid;
-}
-.episodio > img {
-	border-radius: 5pt;
-	margin: 0 0 10pt 10pt;
-	max-width: 30%;
-}
-#temporada-0 {
+.temporadas {
 	padding: 20pt 0 0 0 ;
 }
 #temporada-0 {
@@ -250,6 +281,9 @@ a {
 	min-height: 200pt;
 	border-color: #ff6aeb;
 }
+.conteudo-3 a {
+	color: #501da6;
+}
 .conteudo-2 {
 	/* temporada 2 */
 	background-color: #f5b824;
@@ -274,14 +308,14 @@ a {
 	border-color: #fffaeb;
 }
 .fade-out {
-	animation: fadeOut 1s;
+	animation: fadeOut 2s;
 }
 @keyframes fadeOut {
   0% { opacity: 1; }
   100% { opacity: 0; }
 }
 .fade-in {
-	animation: fadeIn 1s;
+	animation: fadeIn 2s;
 }
 @keyframes fadeIn {
   0% { opacity: 0; }
@@ -293,11 +327,28 @@ a {
 .desktop-hidden {
 	display: none;
 }
+.pl-5 {
+	padding-left: 5pt;
+}
+.p5 {
+	padding: 5pt;
+}
 .p10 {
 	padding: 10pt;
 }
+.hint {
+    font-size: 0.8rem;
+    color: #00000082;
+    font-style: italic;
+}
+#temporada-1 .hint {
+    color: #ffffff82;
+}
 .font10 {
 	font-size: 10pt;
+}
+.font12 {
+	font-size: 12pt;
 }
 .font15 {
 	font-size: 15pt;
@@ -308,8 +359,14 @@ a {
 .font25 {
 	font-size: 25pt;
 }
-.m25 {
+.mx25 {
 	margin: 0 25pt;
+}
+.my25 {
+	margin: 25pt 0;
+}
+.my100 {
+	margin: 100pt 0;
 }
 .mauto {
 	margin: auto;
@@ -335,6 +392,9 @@ a {
 }
 .w100 {
 	width: 100%;
+}
+.h50 {
+	height: 50%;
 }
 .h100 {
 	height: 100%;
@@ -369,13 +429,130 @@ a {
 }
 .icon {
 	width: 40px;
-	margin: 5pt 0 0 0;
+	margin: 2pt;
+}
+.icon-md {
+	width: 30px;
 }
 .icon-small {
 	width: 25px;
 }
-/* Responsivo */
+.fundo-secundario {
+	background-color: #ffa6f3;
+    box-shadow: 0px 0px 20px 20px #fff;
+	border-radius: 15pt;
+}
+.id-card {
+	padding: 5pt;
+	background-color: #4f6d4e;
+	height: 170pt;
+	width: 330pt;
+	margin: 15pt;
+	border: 5px groove;
+	border-color: #fff;
+	border-radius: 3pt;
+    box-shadow: 5px 5px 12px 5px #95faff;
+}
+.id-content {
+	text-align: justify;
+	background-image: url(/images/marca-dagua.png);
+	background-color: #92b591;
+	background-size: contain;
+	height: 100%;
+    background-blend-mode: soft-light;
+}
+.id-card-field {
+    border-radius: 3pt;
+    border: 1px solid;
+	position: relative;
+    line-height: 0.8rem;
+    margin-bottom: 10pt;
+	text-align: right;
+}
+.id-card-label {
+    position: absolute;
+    top: -8pt;
+    left: 10%;
+	background-color: #5fb489;
+    padding: 0 2pt;
+	font-size: 0.8rem;
+	font-style: italic;
+}
+.id-text-field {
+	padding: 2pt 5pt;
+	margin: 1pt 0;
+}
+.id-details {
+	font-size: 0.8rem;
+	height: 60%;
+	text-align: justify;
+}
+.id-card a {
+	color: #2e00ff;
+}
+.id-card img {
+	width: 102pt;
+	height: 136pt;
+	object-fit: cover;
+	border-radius: 3pt;
+	background-color: #ffffff7a;
+	padding: 2pt;
+	margin-top: -8pt;
+}
+.extended-up {
+    margin-top: -3rem;
+    padding-top: 5rem;
+}
+/* Responsive */
+@media only screen and (max-width: 320px) {
+	.masonry {
+		-moz-column-count: 1;
+		-webkit-column-count: 1;
+		column-count: 1;
+	}
+}
+
+@media only screen and (min-width: 321px) and (max-width: 768px){
+	.masonry {
+		-moz-column-count: 2;
+		-webkit-column-count: 2;
+		column-count: 2;
+	}
+}
+@media only screen and (min-width: 769px) and (max-width: 1200px){
+	.masonry {
+		-moz-column-count: 3;
+		-webkit-column-count: 3;
+		column-count: 3;
+	}
+}
+@media only screen and (min-width: 1201px) {
+	.masonry {
+		-moz-column-count: 4;
+		-webkit-column-count: 4;
+		column-count: 4;
+	}
+}
+
+@media only screen and (max-width: 520px) {
+	.id-card {
+		transform: scale(0.75);
+	}
+	.central {
+		margin: 0 5% auto;
+	}
+	.episodio {
+		font-size: 12pt;
+	}
+	.heading {
+		font-size: 20pt;
+	}
+}
+
 @media only screen and (max-width: 808px) {
+	.sm-w100 {
+		width: 100%;
+	}
 	.banner {
 		min-height: 15vh;
 	}
@@ -389,7 +566,7 @@ a {
 		display: block;
 	}
 	.central {
-		margin: unset;
+		margin: 0 15% auto;
 	}
 	.mtm5 {
 		margin-top: -5%;
@@ -398,11 +575,7 @@ a {
 		width: 20%;
 		position: absolute;
 		left: 3%;
-		top: 10%;
-	}
-	.imagem {
-		width: 40%;
-		display: block;
+		top: 15%;
 	}
 	.item {
 		height: unset;

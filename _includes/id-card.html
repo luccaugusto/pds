@@ -1,0 +1,22 @@
+<div class="id-card">
+    <div class="id-content">
+        <div class="text-center id-text-field">Associação dos Sauneiros</div>
+        <div class="p5 flex flex-row">
+            <img src="{{ include.image }}" alt="{{ include.image_alt }}"/>
+            <div class="pl-5 text-right">
+                <div class="flex flex-row-reverse justify-between id-card-field">
+                    <span class="id-card-label">Nome:</span>
+                    <span class="id-text-field">{{ include.name }}</span>
+                </div>
+                <div class="flex flex-row-reverse  justify-between id-card-field">
+                    <span class="id-card-label">Membro desde:</span>
+                    <span class="id-text-field">{{ include.year }}</span>
+                </div>
+                <div class="flex flex-row-reverse  justify-between id-card-field">
+                    <span class="id-card-label">Observação:</span>
+                    <span class="id-text-field id-details">{{ include.desc }}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

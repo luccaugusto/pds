@@ -4,10 +4,28 @@ title: Monólogos
 permalink: /monologos/
 ---
 
-<div class="w50 mauto text-center">
-	<h1 class="backshadow">Monólogos</h1>
-	<h3>Monólogos que fazemos enquanto esperamos alguém entrar na sauna, assuntos menores, do tipo eu comigo mesmo.</h3>
-</div>
-<div class="central">
-	{% include monologos.html %}
+{% include back-to-top.html %}
+<div class="central flex flex-column reversible" id="episode-list">
+    <h1 class="heading">Monólogos</h1>
+	<div class="detalhes shadow-neutro extended-up flex flex-column reversible">
+        <h3 class="main-color w100 text-center">Monólogos que fazemos enquanto esperamos alguém entrar na sauna, assuntos menores, do tipo eu comigo mesmo.</h3>
+        {% for ep in site.data.monologos %}
+		<div class="conteudo-2 episodio text-left monologo">
+			<h3>{{ ep.nome }}</h3>
+			<p>{{ ep.desc }}</p>
+			<ul class="lista-episodios">
+                {% include listen-button.html url=ep.url type="mp3" %}
+				{% if ep.yt-link %}
+                    {% include listen-button.html url=ep.yt-link type="youtube" %}
+				{% endif %}
+				{% if ep.spotify %}
+                    {% include listen-button.html url=ep.spotify type="spotify" %}
+				{% endif %}
+				{% if ep.deezer %}
+                    {% include listen-button.html url=ep.deezer type="deezer" %}
+				{% endif %}
+			</ul>
+		</div>
+        {% endfor %}
+	</div>
 </div>

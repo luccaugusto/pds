@@ -33,9 +33,11 @@ const fadeTiming = {
 };
 
 function trocaOrdem() {
+  const epListContainer = document.getElementById('episode-list');
   const epList = document.querySelectorAll(".reversible");
   const arrowUp = document.getElementById("library-arrow-up");
   const arrowDown = document.getElementById("library-arrow-down");
+  epListContainer.classList.toggle('my100');
   arrowUp.classList.toggle('hidden');
   arrowDown.classList.toggle('hidden');
   epList.forEach(function(list){
@@ -43,6 +45,9 @@ function trocaOrdem() {
     setTimeout(() => {
       list.classList.toggle('flex-column');
       list.classList.toggle('flex-column-reverse');
+    }, 500);
+    setTimeout(() => {
+      epListContainer.classList.toggle('my100');
     }, 500);
   });
 }
