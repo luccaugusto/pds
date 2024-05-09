@@ -16,10 +16,9 @@ permalink: /sobre/
         </p>
     </div>
 </div>
-<div class="central">
-    <div class="my25" style="margin-bottom: 15%">
-        <h1 class="text-center heading">Sempre na sauna:</h1>
-        <div class="flex flex-center flex-column extended-up">
+<div class="mauto my50" style="max-width: 1280px;">
+    <h1 class="text-center mauto heading">Sempre na sauna:</h1>
+    <div class="my50 flex flex-center justify-center flex-row flex-wrap extended-up sm-flex-column">
         {% include id-card.html
             image="/images/felipe.jpg"
             image-alt="felipe"
@@ -42,29 +41,19 @@ permalink: /sobre/
             year="2021"
             desc="O caçula do Papo De Sauna, nosso mais ávido ouvinte. Entrou pela primeira vez na sauna com apenas 13 anos. Hoje já é um homem crescido de 17. Há boatos de que seu segredo pra ser maromba é escutar Papo De Sauna na academia."
         %}
-        </div>
     </div>
+</div>
 
+<div class="central">
     <h2 class="text-center p10 heading">Vozes que você já ouviu por aqui</h2>
     <div class="my25 p10 fundo-secundario extended-up">
         <div class="flex flex-row justify-between flex-wrap text-center">
             {%
                 include other-members.html
-                image="/images/churros.jpg"
-                name="Churros DVR"
-                desc="Lendário goleiro do EFG, Platina 1 no LOLzinho, huge range"
-            %}
-            {%
-                include other-members.html
-                image="/images/joao.jpg"
-                name="João Henrique Carvalho Zacour Almeida Gusmão"
-                desc="João é poesia. O galã do Papo de Sauna, não há quem resista a seus charmes. Carrega a sabedoria (e nomes) de 37 familias."
-            %}
-            {%
-                include other-members.html
-                image="/images/caio.jpg"
-                name="Caio Ferreira"
-                desc="Irmão de Felipe Ferreira. Caio faz parte de um casal popularmente conhecido como Cris e Greg. Nunca vemos Caio sem ver também sua namorada, e vice-versa provavelmente. Aparição mais rara que estrelas cadentes, uma visão ao vivo de caio vale 2 desejos."
+                name="Fernando Pugliese"
+                image="/images/fernando.jpg"
+                alt="fernando"
+                desc="Antes de existir Fernando, existia seu bigode. Fernando é a dádiva da união da cultura italiana com a cultura japonesa, um lámen ao molho pesto. Achou estranho? experimente antes de julgar."
             %}
             {%
                 include other-members.html
@@ -80,10 +69,21 @@ permalink: /sobre/
             %}
             {%
                 include other-members.html
-                name="Fernando Pugliese"
-                image="/images/fernando.jpg"
-                alt="fernando"
-                desc="Antes de existir Fernando, existia seu bigode. Fernando é a dádiva da união da cultura italiana com a cultura japonesa, um lámen ao molho pesto. Achou estranho? experimente antes de julgar."
+                image="/images/caio.jpg"
+                name="Caio Ferreira"
+                desc="Irmão de Felipe Ferreira. Caio faz parte de um casal popularmente conhecido como Cris e Greg. Nunca vemos Caio sem ver também sua namorada, e vice-versa provavelmente. Aparição mais rara que estrelas cadentes, uma visão ao vivo de caio vale 2 desejos."
+            %}
+            {%
+                include other-members.html
+                image="/images/churros.jpg"
+                name="Churros DVR"
+                desc="Lendário goleiro do EFG, Platina 1 no LOLzinho, huge range"
+            %}
+            {%
+                include other-members.html
+                image="/images/joao.jpg"
+                name="João Henrique Carvalho Zacour Almeida Gusmão"
+                desc="João é poesia. O galã do Papo de Sauna, não há quem resista a seus charmes. Carrega a sabedoria (e nomes) de 37 familias."
             %}
         </div>
     </div>

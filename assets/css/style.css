@@ -92,7 +92,9 @@ a {
 	-webkit-box-sizing: border-box;
 	box-shadow: 5px 5px 10px 4px #940080;
 }
-.item img{max-width:100%;}
+.item img {
+	max-width:100%;
+}
 .thumbnail {
 	width: 90%;
 }
@@ -103,6 +105,7 @@ a {
 	left: 15pt;
 }
 .heading {
+	max-width: 1000px;
 	color: black;
 	background-color: #ecb44d;
     padding: 10pt;
@@ -162,7 +165,7 @@ a {
 }
 .episodio {
 	border-radius: 10pt;
-	margin: 15pt;
+	margin: 15pt 0;
 	text-align: justify;
 	border: 5pt solid;
 }
@@ -213,6 +216,7 @@ a {
 	display: flex;
 }
 .flex-center {
+	align-content: center;
 	align-items: center;
 }
 .flex-column {
@@ -365,6 +369,9 @@ a {
 .my25 {
 	margin: 25pt 0;
 }
+.my50 {
+	margin: 50pt 0;
+}
 .my100 {
 	margin: 100pt 0;
 }
@@ -442,7 +449,12 @@ a {
     box-shadow: 0px 0px 20px 20px #fff;
 	border-radius: 15pt;
 }
+.member-container {
+	border-bottom: 1px solid #fff;
+	margin-bottom: 10pt;
+}
 .id-card {
+	color: black;
 	padding: 5pt;
 	background-color: #4f6d4e;
 	height: 170pt;
@@ -553,6 +565,9 @@ a {
 	.sm-w100 {
 		width: 100%;
 	}
+	.sm-flex-column {
+		flex-direction: column;
+	}
 	.banner {
 		min-height: 15vh;
 	}
@@ -564,9 +579,6 @@ a {
 	}
 	.desktop-hidden {
 		display: block;
-	}
-	.central {
-		margin: 0 15% auto;
 	}
 	.mtm5 {
 		margin-top: -5%;
